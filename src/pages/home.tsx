@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { invoke } from "@tauri-apps/api/tauri";
+import { AudioRecorder } from "../components/audio-recorder/audio-recorder";
 
 export const Home = () => {
 	const [message, setMessage] = useState("");
@@ -29,6 +30,7 @@ export const Home = () => {
 				<button type="submit">Greet</button>
 			</form>
 			<p>{message}</p>
+			<AudioRecorder />
 		</div>
 	);
 };
