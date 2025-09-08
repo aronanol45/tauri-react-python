@@ -1,58 +1,63 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
+import { useEffect, useState } from "react";
 import { invoke } from "@tauri-apps/api/tauri";
 import "./App.css";
+import { createBrowserRouter } from "react-router";
+import { Home } from "./pages/home";
+import { Settings } from "./pages/settings";
+import { RouterProvider } from "react-router/dom";
+import { StandardLayout } from "./layouts/standard-layout";
 
-function App() {
-	const [greetMsg, setGreetMsg] = useState("");
-	const [name, setName] = useState("");
+const router = createBrowserRouter([
+	{
+		Component: StandardLayout,
+		children: [
+			{ index: true, Component: Home },
+			{
+				path: "/settings",
+				Component: Settings,
+			},
+		],
+	},
+]);
 
-	async function greet() {
-		// Learn more about Tauri commands at https://v1.tauri.app/v1/guides/features/command
-		setGreetMsg(await invoke("greet", { name }));
-	}
+function PreloadScreen({ onReady }: { onReady: () => void }) {
+	useEffect(() => {
+		async function setup() {
+			// Example: check for updates
+			const update = await invoke("check_for_updates");
+			console.log("Update status:", update);
 
-	async function callPython() {
-		try {
-			const result = await invoke("run_python", { arg: name });
-			console.log("Python says:", result);
-			setGreetMsg("Python says:" + result);
-		} catch (err) {
-			console.error("Python error:", err);
-			setGreetMsg("Python says:" + err);
+			const config = await invoke("load_config");
+			console.log("Config loaded:", config);
+
+			onReady();
 		}
-	}
+
+		setup();
+	}, [onReady]);
 
 	return (
-		<main className="container">
-			<h1>Welcome to Tauri + React</h1>
-
-			<div className="row">
-				<a href="https://vite.dev" target="_blank">
-					<img src="/vite.svg" className="logo vite" alt="Vite logo" />
-				</a>
-				<a href="https://tauri.app" target="_blank">
-					<img src="/tauri.svg" className="logo tauri" alt="Tauri logo" />
-				</a>
-				<a href="https://react.dev" target="_blank">
-					<img src={reactLogo} className="logo react" alt="React logo" />
-				</a>
-			</div>
-			<p>Click on the Tauri, Vite, and React logos to learn more.</p>
-
-			<form
-				className="row"
-				onSubmit={(e) => {
-					e.preventDefault();
-					callPython();
-				}}
-			>
-				<input id="greet-input" onChange={(e) => setName(e.currentTarget.value)} placeholder="Enter a name..." />
-				<button type="submit">Greet</button>
-			</form>
-			<p>{greetMsg}</p>
-		</main>
+		<div className="flex h-screen items-center justify-center">
+			<div className="text-xl animate-pulse">Loading, please wait…</div>
+		</div>
 	);
+}
+
+function App() {
+	/*
+  // call rust backend
+	async function greet() {
+		setGreetMsg(await invoke("greet", { name }));
+	}
+  */
+
+	const [ready, setReady] = useState(true);
+
+	if (!ready) {
+		return <PreloadScreen onReady={() => setReady(true)} />;
+	}
+
+	return <RouterProvider router={router} />;
 }
 
 export default App;
