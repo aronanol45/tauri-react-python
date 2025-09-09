@@ -1,0 +1,11 @@
+.audio-player-wrap {
+	display: flex;
+	width: 100%;
+}
+
+.audio-player-wrap audio {
+	margin: 5px auto;
+	min-width: 30vw;
+	display: block;
+	width: 80%;
+}

@@ -1,6 +1,7 @@
 // Prevents additional console window on Windows in release, DO NOT REMOVE!!
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 use tauri::command;
+use std::io::Write;
 use std::process::{Command, Stdio};
 use serde::Deserialize;
 // Learn more about Tauri commands at https://v1.tauri.app/v1/guides/features/command
@@ -10,12 +11,21 @@ fn greet(name: &str) -> String {
 }
 
 #[tauri::command]
-fn run_python(arg: String) -> Result<String, String> {
-    let output = std::process::Command::new("python")
+fn run_python(name: String) -> Result<String, String> {
+    use std::io::Write;
+
+    let mut child = std::process::Command::new("python") // or "python"
         .arg("scripts/script.py")
-        .arg(&arg) // pass argument to Python
-        .output()
+        .stdin(std::process::Stdio::piped())
+        .stdout(std::process::Stdio::piped())
+        .spawn()
         .map_err(|e| e.to_string())?;
+
+    let input = format!(r#"{{"name":"{}"}}"#, name);
+    child.stdin.as_mut().unwrap().write_all(input.as_bytes()).map_err(|e| e.to_string())?;
+    drop(child.stdin.take()); // close stdin so Python finishes reading
+
+    let output = child.wait_with_output().map_err(|e| e.to_string())?;
 
     if output.status.success() {
         Ok(String::from_utf8_lossy(&output.stdout).to_string())
@@ -32,7 +42,7 @@ struct AudioPayload {
 #[tauri::command]
 fn process_audio_chunk(payload: AudioPayload) -> Result<String, String> {
     // Call Python script
-    let mut py_process = Command::new("python3") // or "python" on Windows
+    let mut py_process = Command::new("python") // or "python" on Windows
         .arg("scripts/whisper.py")
         .arg(&payload.audioData)
         .stdout(Stdio::piped())
@@ -53,9 +63,11 @@ fn process_audio_chunk(payload: AudioPayload) -> Result<String, String> {
 
 fn main() {
     tauri::Builder::default()
-        .invoke_handler(tauri::generate_handler![greet])
-        .invoke_handler(tauri::generate_handler![run_python])
-        .invoke_handler(tauri::generate_handler![process_audio_chunk])
+        .invoke_handler(tauri::generate_handler![
+            greet,
+            run_python,
+            process_audio_chunk
+        ])
         .run(tauri::generate_context!())
         .expect("error while running tauri application");
 }

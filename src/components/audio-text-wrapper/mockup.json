@@ -1,0 +1,9106 @@
+[
+	{
+		"start": 2.495,
+		"end": 5.383,
+		"sentence": " Il est un barreau du barreau Je ne vois.",
+		"words": [
+			{
+				"word": "Il",
+				"start": 2.495,
+				"end": 2.696,
+				"confidence": 0.67
+			},
+			{
+				"word": "est",
+				"start": 2.716,
+				"end": 2.916,
+				"confidence": 0.708
+			},
+			{
+				"word": "un",
+				"start": 2.976,
+				"end": 3.357,
+				"confidence": 0.831
+			},
+			{
+				"word": "barreau",
+				"start": 3.397,
+				"end": 3.979,
+				"confidence": 0.761
+			},
+			{
+				"word": "du",
+				"start": 4.019,
+				"end": 4.179,
+				"confidence": 0.987
+			},
+			{
+				"word": "barreau",
+				"start": 4.22,
+				"end": 4.601,
+				"confidence": 0.75
+			},
+			{
+				"word": "Je",
+				"start": 4.641,
+				"end": 4.721,
+				"confidence": 0.918
+			},
+			{
+				"word": "ne",
+				"start": 4.741,
+				"end": 4.861,
+				"confidence": 0.948
+			},
+			{
+				"word": "vois.",
+				"start": 4.901,
+				"end": 5.383,
+				"confidence": 0.878
+			}
+		]
+	},
+	{
+		"start": 5.423,
+		"end": 10.877,
+		"sentence": "Il n'a jamais ouvert un ordinateur de sa vie, mais il a certainement lu plus de livres que vous.",
+		"words": [
+			{
+				"word": "Il",
+				"start": 5.423,
+				"end": 5.563,
+				"confidence": 0.881
+			},
+			{
+				"word": "n'a",
+				"start": 5.603,
+				"end": 5.784,
+				"confidence": 0.881
+			},
+			{
+				"word": "jamais",
+				"start": 5.844,
+				"end": 6.245,
+				"confidence": 0.821
+			},
+			{
+				"word": "ouvert",
+				"start": 6.305,
+				"end": 6.506,
+				"confidence": 0.795
+			},
+			{
+				"word": "un",
+				"start": 6.566,
+				"end": 6.606,
+				"confidence": 0.996
+			},
+			{
+				"word": "ordinateur",
+				"start": 6.666,
+				"end": 7.047,
+				"confidence": 0.897
+			},
+			{
+				"word": "de",
+				"start": 7.107,
+				"end": 7.187,
+				"confidence": 0.83
+			},
+			{
+				"word": "sa",
+				"start": 7.248,
+				"end": 7.368,
+				"confidence": 0.99
+			},
+			{
+				"word": "vie,",
+				"start": 7.428,
+				"end": 7.809,
+				"confidence": 0.951
+			},
+			{
+				"word": "mais",
+				"start": 7.829,
+				"end": 7.969,
+				"confidence": 0.879
+			},
+			{
+				"word": "il",
+				"start": 8.01,
+				"end": 8.09,
+				"confidence": 0.338
+			},
+			{
+				"word": "a",
+				"start": 8.17,
+				"end": 8.25,
+				"confidence": 0.973
+			},
+			{
+				"word": "certainement",
+				"start": 8.29,
+				"end": 8.812,
+				"confidence": 0.873
+			},
+			{
+				"word": "lu",
+				"start": 8.892,
+				"end": 9.193,
+				"confidence": 0.968
+			},
+			{
+				"word": "plus",
+				"start": 9.233,
+				"end": 9.473,
+				"confidence": 0.793
+			},
+			{
+				"word": "de",
+				"start": 9.513,
+				"end": 9.594,
+				"confidence": 0.99
+			},
+			{
+				"word": "livres",
+				"start": 9.634,
+				"end": 9.915,
+				"confidence": 0.839
+			},
+			{
+				"word": "que",
+				"start": 9.955,
+				"end": 10.075,
+				"confidence": 0.92
+			},
+			{
+				"word": "vous.",
+				"start": 10.095,
+				"end": 10.877,
+				"confidence": 0.974
+			}
+		]
+	},
+	{
+		"start": 10.897,
+		"end": 12.341,
+		"sentence": "Tous réunis.",
+		"words": [
+			{
+				"word": "Tous",
+				"start": 10.897,
+				"end": 11.198,
+				"confidence": 0.974
+			},
+			{
+				"word": "réunis.",
+				"start": 11.218,
+				"end": 12.341,
+				"confidence": 0.765
+			}
+		]
+	},
+	{
+		"start": 12.361,
+		"end": 13.905,
+		"sentence": "Merci d'accueillir Marc Bonan.",
+		"words": [
+			{
+				"word": "Merci",
+				"start": 12.361,
+				"end": 12.622,
+				"confidence": 0.936
+			},
+			{
+				"word": "d'accueillir",
+				"start": 12.642,
+				"end": 13.103,
+				"confidence": 0.863
+			},
+			{
+				"word": "Marc",
+				"start": 13.143,
+				"end": 13.384,
+				"confidence": 0.742
+			},
+			{
+				"word": "Bonan.",
+				"start": 13.404,
+				"end": 13.905,
+				"confidence": 0.883
+			}
+		]
+	},
+	{
+		"start": 25.715,
+		"end": 39.161,
+		"sentence": " J'aurais pu ajouter que vous êtes aussi officier de la Légion d'honneur et lieutenant-colonel à l'armée suisse, mais ce soir c'est naturellement l'avocat qu'on reçoit, un avocat à Gennevoie au service actuellement d'un autre avocat à Gennevoie, Dominique Verluisel.",
+		"words": [
+			{
+				"word": "J'aurais",
+				"start": 25.715,
+				"end": 26.136,
+				"confidence": 0.409
+			},
+			{
+				"word": "pu",
+				"start": 26.196,
+				"end": 26.797,
+				"confidence": 0.626
+			},
+			{
+				"word": "ajouter",
+				"start": 26.837,
+				"end": 27.138,
+				"confidence": 0.952
+			},
+			{
+				"word": "que",
+				"start": 27.178,
+				"end": 27.278,
+				"confidence": 0.72
+			},
+			{
+				"word": "vous",
+				"start": 27.298,
+				"end": 27.378,
+				"confidence": 0.992
+			},
+			{
+				"word": "êtes",
+				"start": 27.398,
+				"end": 27.539,
+				"confidence": 0.607
+			},
+			{
+				"word": "aussi",
+				"start": 27.579,
+				"end": 28.18,
+				"confidence": 0.919
+			},
+			{
+				"word": "officier",
+				"start": 28.26,
+				"end": 28.721,
+				"confidence": 0.873
+			},
+			{
+				"word": "de",
+				"start": 28.761,
+				"end": 28.841,
+				"confidence": 0.944
+			},
+			{
+				"word": "la",
+				"start": 28.881,
+				"end": 28.941,
+				"confidence": 0.978
+			},
+			{
+				"word": "Légion",
+				"start": 28.981,
+				"end": 29.242,
+				"confidence": 0.949
+			},
+			{
+				"word": "d'honneur",
+				"start": 29.282,
+				"end": 29.803,
+				"confidence": 0.857
+			},
+			{
+				"word": "et",
+				"start": 29.843,
+				"end": 29.923,
+				"confidence": 0.632
+			},
+			{
+				"word": "lieutenant-colonel",
+				"start": 29.943,
+				"end": 30.705,
+				"confidence": 0.704
+			},
+			{
+				"word": "à",
+				"start": 30.765,
+				"end": 30.785,
+				"confidence": 0.987
+			},
+			{
+				"word": "l'armée",
+				"start": 30.825,
+				"end": 31.085,
+				"confidence": 0.695
+			},
+			{
+				"word": "suisse,",
+				"start": 31.146,
+				"end": 32.107,
+				"confidence": 0.869
+			},
+			{
+				"word": "mais",
+				"start": 32.148,
+				"end": 32.308,
+				"confidence": 0.906
+			},
+			{
+				"word": "ce",
+				"start": 32.328,
+				"end": 32.428,
+				"confidence": 0.919
+			},
+			{
+				"word": "soir",
+				"start": 32.468,
+				"end": 32.709,
+				"confidence": 0.888
+			},
+			{
+				"word": "c'est",
+				"start": 32.729,
+				"end": 32.849,
+				"confidence": 0.717
+			},
+			{
+				"word": "naturellement",
+				"start": 32.889,
+				"end": 33.33,
+				"confidence": 0.916
+			},
+			{
+				"word": "l'avocat",
+				"start": 33.39,
+				"end": 33.771,
+				"confidence": 0.825
+			},
+			{
+				"word": "qu'on",
+				"start": 33.791,
+				"end": 33.971,
+				"confidence": 0.735
+			},
+			{
+				"word": "reçoit,",
+				"start": 34.011,
+				"end": 34.733,
+				"confidence": 0.686
+			},
+			{
+				"word": "un",
+				"start": 34.753,
+				"end": 34.813,
+				"confidence": 0.889
+			},
+			{
+				"word": "avocat",
+				"start": 34.853,
+				"end": 35.213,
+				"confidence": 0.907
+			},
+			{
+				"word": "à",
+				"start": 35.234,
+				"end": 35.254,
+				"confidence": 0.699
+			},
+			{
+				"word": "Gennevoie",
+				"start": 35.274,
+				"end": 35.835,
+				"confidence": 0.775
+			},
+			{
+				"word": "au",
+				"start": 35.895,
+				"end": 35.955,
+				"confidence": 0.938
+			},
+			{
+				"word": "service",
+				"start": 35.995,
+				"end": 36.255,
+				"confidence": 0.872
+			},
+			{
+				"word": "actuellement",
+				"start": 36.316,
+				"end": 36.636,
+				"confidence": 0.906
+			},
+			{
+				"word": "d'un",
+				"start": 36.656,
+				"end": 36.776,
+				"confidence": 0.673
+			},
+			{
+				"word": "autre",
+				"start": 36.857,
+				"end": 37.137,
+				"confidence": 0.873
+			},
+			{
+				"word": "avocat",
+				"start": 37.197,
+				"end": 37.598,
+				"confidence": 0.754
+			},
+			{
+				"word": "à",
+				"start": 37.618,
+				"end": 37.638,
+				"confidence": 0.926
+			},
+			{
+				"word": "Gennevoie,",
+				"start": 37.658,
+				"end": 38.079,
+				"confidence": 0.8
+			},
+			{
+				"word": "Dominique",
+				"start": 38.099,
+				"end": 38.4,
+				"confidence": 0.715
+			},
+			{
+				"word": "Verluisel.",
+				"start": 38.42,
+				"end": 39.161,
+				"confidence": 0.588
+			}
+		]
+	},
+	{
+		"start": 39.181,
+		"end": 47.177,
+		"sentence": "Et pour établir quelque peu l'équilibre, un avocat à l'Eusannois est face à vous, maître Jean-Philippe Bardet, bonsoir.",
+		"words": [
+			{
+				"word": "Et",
+				"start": 39.181,
+				"end": 39.261,
+				"confidence": 0.867
+			},
+			{
+				"word": "pour",
+				"start": 39.281,
+				"end": 39.402,
+				"confidence": 0.767
+			},
+			{
+				"word": "établir",
+				"start": 39.462,
+				"end": 39.802,
+				"confidence": 0.835
+			},
+			{
+				"word": "quelque",
+				"start": 39.842,
+				"end": 40.123,
+				"confidence": 0.872
+			},
+			{
+				"word": "peu",
+				"start": 40.163,
+				"end": 40.604,
+				"confidence": 0.753
+			},
+			{
+				"word": "l'équilibre,",
+				"start": 40.664,
+				"end": 41.546,
+				"confidence": 0.848
+			},
+			{
+				"word": "un",
+				"start": 41.606,
+				"end": 41.666,
+				"confidence": 0.911
+			},
+			{
+				"word": "avocat",
+				"start": 41.706,
+				"end": 42.107,
+				"confidence": 0.918
+			},
+			{
+				"word": "à",
+				"start": 42.127,
+				"end": 42.147,
+				"confidence": 0.13
+			},
+			{
+				"word": "l'Eusannois",
+				"start": 42.167,
+				"end": 42.648,
+				"confidence": 0.634
+			},
+			{
+				"word": "est",
+				"start": 42.688,
+				"end": 42.788,
+				"confidence": 0.411
+			},
+			{
+				"word": "face",
+				"start": 42.828,
+				"end": 43.009,
+				"confidence": 0.921
+			},
+			{
+				"word": "à",
+				"start": 43.049,
+				"end": 43.069,
+				"confidence": 0.925
+			},
+			{
+				"word": "vous,",
+				"start": 43.109,
+				"end": 44.031,
+				"confidence": 0.75
+			},
+			{
+				"word": "maître",
+				"start": 44.051,
+				"end": 44.632,
+				"confidence": 0.548
+			},
+			{
+				"word": "Jean-Philippe",
+				"start": 44.672,
+				"end": 45.073,
+				"confidence": 0.586
+			},
+			{
+				"word": "Bardet,",
+				"start": 45.093,
+				"end": 45.373,
+				"confidence": 0.607
+			},
+			{
+				"word": "bonsoir.",
+				"start": 45.393,
+				"end": 47.177,
+				"confidence": 0.438
+			}
+		]
+	},
+	{
+		"start": 47.197,
+		"end": 47.858,
+		"sentence": "Bonsoir monsieur, bonsoir maître.",
+		"words": [
+			{
+				"word": "Bonsoir",
+				"start": 47.197,
+				"end": 47.337,
+				"confidence": 0.012
+			},
+			{
+				"word": "monsieur,",
+				"start": 47.357,
+				"end": 47.537,
+				"confidence": 0.005
+			},
+			{
+				"word": "bonsoir",
+				"start": 47.557,
+				"end": 47.698,
+				"confidence": 0.007
+			},
+			{
+				"word": "maître.",
+				"start": 47.718,
+				"end": 47.858,
+				"confidence": 0.128
+			}
+		]
+	},
+	{
+		"start": 48.175,
+		"end": 54.356,
+		"sentence": " Maître Bonon, quelques mots à titre liminaire sur ce qui est devenu l'affaire Valusel.",
+		"words": [
+			{
+				"word": "Maître",
+				"start": 48.175,
+				"end": 48.617,
+				"confidence": 0.634
+			},
+			{
+				"word": "Bonon,",
+				"start": 48.657,
+				"end": 49.6,
+				"confidence": 0.886
+			},
+			{
+				"word": "quelques",
+				"start": 49.64,
+				"end": 49.921,
+				"confidence": 0.831
+			},
+			{
+				"word": "mots",
+				"start": 49.941,
+				"end": 50.082,
+				"confidence": 0.606
+			},
+			{
+				"word": "à",
+				"start": 50.142,
+				"end": 50.162,
+				"confidence": 0.998
+			},
+			{
+				"word": "titre",
+				"start": 50.182,
+				"end": 50.704,
+				"confidence": 0.801
+			},
+			{
+				"word": "liminaire",
+				"start": 50.764,
+				"end": 51.185,
+				"confidence": 0.803
+			},
+			{
+				"word": "sur",
+				"start": 51.226,
+				"end": 51.306,
+				"confidence": 0.867
+			},
+			{
+				"word": "ce",
+				"start": 51.326,
+				"end": 51.366,
+				"confidence": 0.445
+			},
+			{
+				"word": "qui",
+				"start": 51.406,
+				"end": 51.466,
+				"confidence": 0.891
+			},
+			{
+				"word": "est",
+				"start": 51.486,
+				"end": 51.567,
+				"confidence": 0.683
+			},
+			{
+				"word": "devenu",
+				"start": 51.587,
+				"end": 51.968,
+				"confidence": 0.648
+			},
+			{
+				"word": "l'affaire",
+				"start": 52.028,
+				"end": 52.59,
+				"confidence": 0.824
+			},
+			{
+				"word": "Valusel.",
+				"start": 52.63,
+				"end": 54.356,
+				"confidence": 0.858
+			}
+		]
+	},
+	{
+		"start": 54.376,
+		"end": 59.755,
+		"sentence": "L'instruction est en cours, j'imagine que pour une fois vous allez être économe, mais tout de même, on en est où ?",
+		"words": [
+			{
+				"word": "L'instruction",
+				"start": 54.376,
+				"end": 54.718,
+				"confidence": 0.705
+			},
+			{
+				"word": "est",
+				"start": 54.778,
+				"end": 54.878,
+				"confidence": 0.921
+			},
+			{
+				"word": "en",
+				"start": 54.918,
+				"end": 54.999,
+				"confidence": 0.778
+			},
+			{
+				"word": "cours,",
+				"start": 55.059,
+				"end": 55.44,
+				"confidence": 0.806
+			},
+			{
+				"word": "j'imagine",
+				"start": 55.46,
+				"end": 55.842,
+				"confidence": 0.769
+			},
+			{
+				"word": "que",
+				"start": 55.882,
+				"end": 55.962,
+				"confidence": 0.831
+			},
+			{
+				"word": "pour",
+				"start": 55.982,
+				"end": 56.082,
+				"confidence": 0.774
+			},
+			{
+				"word": "une",
+				"start": 56.102,
+				"end": 56.183,
+				"confidence": 0.816
+			},
+			{
+				"word": "fois",
+				"start": 56.223,
+				"end": 56.303,
+				"confidence": 0.907
+			},
+			{
+				"word": "vous",
+				"start": 56.403,
+				"end": 56.504,
+				"confidence": 0.833
+			},
+			{
+				"word": "allez",
+				"start": 56.524,
+				"end": 56.805,
+				"confidence": 0.874
+			},
+			{
+				"word": "être",
+				"start": 56.845,
+				"end": 57.006,
+				"confidence": 0.891
+			},
+			{
+				"word": "économe,",
+				"start": 57.046,
+				"end": 57.768,
+				"confidence": 0.941
+			},
+			{
+				"word": "mais",
+				"start": 57.788,
+				"end": 57.929,
+				"confidence": 0.896
+			},
+			{
+				"word": "tout",
+				"start": 57.969,
+				"end": 58.069,
+				"confidence": 0.76
+			},
+			{
+				"word": "de",
+				"start": 58.109,
+				"end": 58.17,
+				"confidence": 0.937
+			},
+			{
+				"word": "même,",
+				"start": 58.21,
+				"end": 59.153,
+				"confidence": 0.858
+			},
+			{
+				"word": "on",
+				"start": 59.233,
+				"end": 59.314,
+				"confidence": 0.728
+			},
+			{
+				"word": "en",
+				"start": 59.334,
+				"end": 59.374,
+				"confidence": 0.318
+			},
+			{
+				"word": "est",
+				"start": 59.394,
+				"end": 59.474,
+				"confidence": 0.823
+			},
+			{
+				"word": "où",
+				"start": 59.514,
+				"end": 59.715,
+				"confidence": 0.478
+			},
+			{
+				"word": "?",
+				"start": 59.735,
+				"end": 59.755,
+				"confidence": 1.0
+			}
+		]
+	},
+	{
+		"start": 61.034,
+		"end": 71.604,
+		"sentence": " Oui, c'est une affaire en cours, c'est une affaire très douloureuse et comme vous avez une émission de divertissement, je ne trouve pas très convenable de l'évoquer.",
+		"words": [
+			{
+				"word": "Oui,",
+				"start": 61.034,
+				"end": 62.455,
+				"confidence": 0.644
+			},
+			{
+				"word": "c'est",
+				"start": 62.475,
+				"end": 62.635,
+				"confidence": 0.698
+			},
+			{
+				"word": "une",
+				"start": 62.676,
+				"end": 62.756,
+				"confidence": 0.815
+			},
+			{
+				"word": "affaire",
+				"start": 62.796,
+				"end": 62.996,
+				"confidence": 0.818
+			},
+			{
+				"word": "en",
+				"start": 63.056,
+				"end": 63.176,
+				"confidence": 0.869
+			},
+			{
+				"word": "cours,",
+				"start": 63.196,
+				"end": 63.937,
+				"confidence": 0.771
+			},
+			{
+				"word": "c'est",
+				"start": 63.977,
+				"end": 64.137,
+				"confidence": 0.786
+			},
+			{
+				"word": "une",
+				"start": 64.177,
+				"end": 64.257,
+				"confidence": 0.88
+			},
+			{
+				"word": "affaire",
+				"start": 64.297,
+				"end": 64.537,
+				"confidence": 0.903
+			},
+			{
+				"word": "très",
+				"start": 64.577,
+				"end": 64.697,
+				"confidence": 0.813
+			},
+			{
+				"word": "douloureuse",
+				"start": 64.737,
+				"end": 66.139,
+				"confidence": 0.8
+			},
+			{
+				"word": "et",
+				"start": 66.219,
+				"end": 66.659,
+				"confidence": 0.897
+			},
+			{
+				"word": "comme",
+				"start": 66.699,
+				"end": 66.98,
+				"confidence": 0.96
+			},
+			{
+				"word": "vous",
+				"start": 67.02,
+				"end": 67.26,
+				"confidence": 0.75
+			},
+			{
+				"word": "avez",
+				"start": 67.3,
+				"end": 67.7,
+				"confidence": 0.882
+			},
+			{
+				"word": "une",
+				"start": 67.76,
+				"end": 67.86,
+				"confidence": 0.886
+			},
+			{
+				"word": "émission",
+				"start": 67.9,
+				"end": 68.201,
+				"confidence": 0.95
+			},
+			{
+				"word": "de",
+				"start": 68.221,
+				"end": 68.261,
+				"confidence": 0.922
+			},
+			{
+				"word": "divertissement,",
+				"start": 68.301,
+				"end": 68.961,
+				"confidence": 0.882
+			},
+			{
+				"word": "je",
+				"start": 69.021,
+				"end": 69.122,
+				"confidence": 0.372
+			},
+			{
+				"word": "ne",
+				"start": 69.162,
+				"end": 69.222,
+				"confidence": 0.74
+			},
+			{
+				"word": "trouve",
+				"start": 69.262,
+				"end": 69.442,
+				"confidence": 0.789
+			},
+			{
+				"word": "pas",
+				"start": 69.482,
+				"end": 69.562,
+				"confidence": 0.841
+			},
+			{
+				"word": "très",
+				"start": 69.602,
+				"end": 69.722,
+				"confidence": 0.729
+			},
+			{
+				"word": "convenable",
+				"start": 69.762,
+				"end": 70.163,
+				"confidence": 0.885
+			},
+			{
+				"word": "de",
+				"start": 70.203,
+				"end": 70.263,
+				"confidence": 0.922
+			},
+			{
+				"word": "l'évoquer.",
+				"start": 70.303,
+				"end": 71.604,
+				"confidence": 0.845
+			}
+		]
+	},
+	{
+		"start": 71.644,
+		"end": 88.059,
+		"sentence": "C'est la tragédie d'un homme, c'est la chute d'un homme et je suis nécessairement comme avocat sensible aux hommes qui se dégradent, au destin funeste et c'est une histoire qui me touche.",
+		"words": [
+			{
+				"word": "C'est",
+				"start": 71.644,
+				"end": 71.784,
+				"confidence": 0.733
+			},
+			{
+				"word": "la",
+				"start": 71.844,
+				"end": 71.924,
+				"confidence": 0.923
+			},
+			{
+				"word": "tragédie",
+				"start": 71.964,
+				"end": 72.325,
+				"confidence": 0.856
+			},
+			{
+				"word": "d'un",
+				"start": 72.405,
+				"end": 72.505,
+				"confidence": 0.645
+			},
+			{
+				"word": "homme,",
+				"start": 72.565,
+				"end": 73.566,
+				"confidence": 0.563
+			},
+			{
+				"word": "c'est",
+				"start": 73.586,
+				"end": 73.726,
+				"confidence": 0.735
+			},
+			{
+				"word": "la",
+				"start": 73.866,
+				"end": 73.946,
+				"confidence": 0.984
+			},
+			{
+				"word": "chute",
+				"start": 74.006,
+				"end": 74.687,
+				"confidence": 0.825
+			},
+			{
+				"word": "d'un",
+				"start": 74.747,
+				"end": 74.967,
+				"confidence": 0.593
+			},
+			{
+				"word": "homme",
+				"start": 74.987,
+				"end": 77.389,
+				"confidence": 0.484
+			},
+			{
+				"word": "et",
+				"start": 77.469,
+				"end": 77.81,
+				"confidence": 0.886
+			},
+			{
+				"word": "je",
+				"start": 77.85,
+				"end": 77.95,
+				"confidence": 0.997
+			},
+			{
+				"word": "suis",
+				"start": 77.99,
+				"end": 78.21,
+				"confidence": 0.54
+			},
+			{
+				"word": "nécessairement",
+				"start": 78.25,
+				"end": 78.751,
+				"confidence": 0.91
+			},
+			{
+				"word": "comme",
+				"start": 78.831,
+				"end": 78.951,
+				"confidence": 0.301
+			},
+			{
+				"word": "avocat",
+				"start": 79.011,
+				"end": 79.551,
+				"confidence": 0.934
+			},
+			{
+				"word": "sensible",
+				"start": 79.591,
+				"end": 80.752,
+				"confidence": 0.875
+			},
+			{
+				"word": "aux",
+				"start": 80.812,
+				"end": 80.913,
+				"confidence": 0.931
+			},
+			{
+				"word": "hommes",
+				"start": 80.953,
+				"end": 81.213,
+				"confidence": 0.78
+			},
+			{
+				"word": "qui",
+				"start": 81.273,
+				"end": 81.433,
+				"confidence": 0.821
+			},
+			{
+				"word": "se",
+				"start": 81.473,
+				"end": 81.573,
+				"confidence": 0.942
+			},
+			{
+				"word": "dégradent,",
+				"start": 81.613,
+				"end": 82.094,
+				"confidence": 0.854
+			},
+			{
+				"word": "au",
+				"start": 82.214,
+				"end": 82.314,
+				"confidence": 0.89
+			},
+			{
+				"word": "destin",
+				"start": 82.354,
+				"end": 83.535,
+				"confidence": 0.91
+			},
+			{
+				"word": "funeste",
+				"start": 83.595,
+				"end": 84.156,
+				"confidence": 0.828
+			},
+			{
+				"word": "et",
+				"start": 84.256,
+				"end": 85.417,
+				"confidence": 0.912
+			},
+			{
+				"word": "c'est",
+				"start": 85.437,
+				"end": 85.637,
+				"confidence": 0.735
+			},
+			{
+				"word": "une",
+				"start": 85.677,
+				"end": 85.757,
+				"confidence": 0.981
+			},
+			{
+				"word": "histoire",
+				"start": 85.797,
+				"end": 86.117,
+				"confidence": 0.834
+			},
+			{
+				"word": "qui",
+				"start": 86.618,
+				"end": 86.738,
+				"confidence": 0.828
+			},
+			{
+				"word": "me",
+				"start": 86.758,
+				"end": 86.918,
+				"confidence": 0.85
+			},
+			{
+				"word": "touche.",
+				"start": 86.938,
+				"end": 88.059,
+				"confidence": 0.844
+			}
+		]
+	},
+	{
+		"start": 88.079,
+		"end": 89.961,
+		"sentence": "Je crois que j'ai de l'amitié pour",
+		"words": [
+			{
+				"word": "Je",
+				"start": 88.079,
+				"end": 88.299,
+				"confidence": 0.542
+			},
+			{
+				"word": "crois",
+				"start": 88.319,
+				"end": 88.42,
+				"confidence": 0.013
+			},
+			{
+				"word": "que",
+				"start": 88.44,
+				"end": 88.5,
+				"confidence": 0.21
+			},
+			{
+				"word": "j'ai",
+				"start": 88.52,
+				"end": 88.74,
+				"confidence": 0.607
+			},
+			{
+				"word": "de",
+				"start": 88.76,
+				"end": 88.8,
+				"confidence": 0.336
+			},
+			{
+				"word": "l'amitié",
+				"start": 88.82,
+				"end": 89.32,
+				"confidence": 0.815
+			},
+			{
+				"word": "pour",
+				"start": 89.36,
+				"end": 89.961,
+				"confidence": 0.866
+			}
+		]
+	},
+	{
+		"start": 90.278,
+		"end": 93.562,
+		"sentence": " Pour ce garçon, alors je vous parlais de la chute d'un homme, vous savez.",
+		"words": [
+			{
+				"word": "Pour",
+				"start": 90.278,
+				"end": 90.498,
+				"confidence": 0.73
+			},
+			{
+				"word": "ce",
+				"start": 90.618,
+				"end": 90.658,
+				"confidence": 0.273
+			},
+			{
+				"word": "garçon,",
+				"start": 90.678,
+				"end": 91.039,
+				"confidence": 0.808
+			},
+			{
+				"word": "alors",
+				"start": 91.059,
+				"end": 91.159,
+				"confidence": 0.053
+			},
+			{
+				"word": "je",
+				"start": 91.179,
+				"end": 91.239,
+				"confidence": 0.639
+			},
+			{
+				"word": "vous",
+				"start": 91.259,
+				"end": 91.359,
+				"confidence": 0.883
+			},
+			{
+				"word": "parlais",
+				"start": 91.399,
+				"end": 91.58,
+				"confidence": 0.748
+			},
+			{
+				"word": "de",
+				"start": 91.62,
+				"end": 91.66,
+				"confidence": 0.836
+			},
+			{
+				"word": "la",
+				"start": 91.7,
+				"end": 91.76,
+				"confidence": 0.988
+			},
+			{
+				"word": "chute",
+				"start": 91.82,
+				"end": 92.04,
+				"confidence": 0.824
+			},
+			{
+				"word": "d'un",
+				"start": 92.06,
+				"end": 92.18,
+				"confidence": 0.68
+			},
+			{
+				"word": "homme,",
+				"start": 92.22,
+				"end": 93.322,
+				"confidence": 0.736
+			},
+			{
+				"word": "vous",
+				"start": 93.342,
+				"end": 93.422,
+				"confidence": 0.0
+			},
+			{
+				"word": "savez.",
+				"start": 93.442,
+				"end": 93.562,
+				"confidence": 0.187
+			}
+		]
+	},
+	{
+		"start": 93.582,
+		"end": 99.289,
+		"sentence": "Les anges chutent, les démons chutent, et restent... Les dieux chutent.",
+		"words": [
+			{
+				"word": "Les",
+				"start": 93.582,
+				"end": 93.722,
+				"confidence": 0.711
+			},
+			{
+				"word": "anges",
+				"start": 93.782,
+				"end": 94.243,
+				"confidence": 0.485
+			},
+			{
+				"word": "chutent,",
+				"start": 94.283,
+				"end": 94.783,
+				"confidence": 0.553
+			},
+			{
+				"word": "les",
+				"start": 94.803,
+				"end": 94.903,
+				"confidence": 0.85
+			},
+			{
+				"word": "démons",
+				"start": 94.923,
+				"end": 95.324,
+				"confidence": 0.812
+			},
+			{
+				"word": "chutent,",
+				"start": 95.384,
+				"end": 98.628,
+				"confidence": 0.563
+			},
+			{
+				"word": "et",
+				"start": 98.648,
+				"end": 98.688,
+				"confidence": 0.0
+			},
+			{
+				"word": "restent...",
+				"start": 98.708,
+				"end": 98.908,
+				"confidence": 0.036
+			},
+			{
+				"word": "Les",
+				"start": 98.928,
+				"end": 98.988,
+				"confidence": 0.022
+			},
+			{
+				"word": "dieux",
+				"start": 99.008,
+				"end": 99.108,
+				"confidence": 0.008
+			},
+			{
+				"word": "chutent.",
+				"start": 99.128,
+				"end": 99.289,
+				"confidence": 0.074
+			}
+		]
+	},
+	{
+		"start": 99.309,
+		"end": 100.39,
+		"sentence": "Les dieux ?",
+		"words": [
+			{
+				"word": "Les",
+				"start": 99.309,
+				"end": 99.389,
+				"confidence": 0.545
+			},
+			{
+				"word": "dieux",
+				"start": 100.25,
+				"end": 100.35,
+				"confidence": 0.002
+			},
+			{
+				"word": "?",
+				"start": 100.37,
+				"end": 100.39,
+				"confidence": 0.002
+			}
+		]
+	},
+	{
+		"start": 100.41,
+		"end": 100.77,
+		"sentence": "Les vieux chutent.",
+		"words": [
+			{
+				"word": "Les",
+				"start": 100.41,
+				"end": 100.47,
+				"confidence": 0.004
+			},
+			{
+				"word": "vieux",
+				"start": 100.49,
+				"end": 100.59,
+				"confidence": 0.002
+			},
+			{
+				"word": "chutent.",
+				"start": 100.61,
+				"end": 100.77,
+				"confidence": 0.002
+			}
+		]
+	},
+	{
+		"start": 100.79,
+		"end": 102.552,
+		"sentence": "Oui, les vieux très bûches, oui.",
+		"words": [
+			{
+				"word": "Oui,",
+				"start": 100.79,
+				"end": 100.87,
+				"confidence": 0.106
+			},
+			{
+				"word": "les",
+				"start": 100.89,
+				"end": 100.991,
+				"confidence": 0.518
+			},
+			{
+				"word": "vieux",
+				"start": 101.031,
+				"end": 101.231,
+				"confidence": 0.65
+			},
+			{
+				"word": "très",
+				"start": 101.251,
+				"end": 102.292,
+				"confidence": 0.354
+			},
+			{
+				"word": "bûches,",
+				"start": 102.312,
+				"end": 102.452,
+				"confidence": 0.012
+			},
+			{
+				"word": "oui.",
+				"start": 102.472,
+				"end": 102.552,
+				"confidence": 0.003
+			}
+		]
+	},
+	{
+		"start": 102.572,
+		"end": 109.861,
+		"sentence": "Bon, alors on ne fera pas plus, mais si vous voulez connaître tous les éléments du dossier, je vous renvoie au dernier numéro de l'illustré, si jamais.",
+		"words": [
+			{
+				"word": "Bon,",
+				"start": 102.572,
+				"end": 102.653,
+				"confidence": 0.03
+			},
+			{
+				"word": "alors",
+				"start": 102.673,
+				"end": 102.773,
+				"confidence": 0.006
+			},
+			{
+				"word": "on",
+				"start": 102.793,
+				"end": 102.853,
+				"confidence": 0.58
+			},
+			{
+				"word": "ne",
+				"start": 102.873,
+				"end": 102.913,
+				"confidence": 0.784
+			},
+			{
+				"word": "fera",
+				"start": 102.933,
+				"end": 103.113,
+				"confidence": 0.89
+			},
+			{
+				"word": "pas",
+				"start": 103.153,
+				"end": 103.253,
+				"confidence": 0.874
+			},
+			{
+				"word": "plus,",
+				"start": 103.293,
+				"end": 103.594,
+				"confidence": 0.689
+			},
+			{
+				"word": "mais",
+				"start": 103.614,
+				"end": 103.894,
+				"confidence": 0.772
+			},
+			{
+				"word": "si",
+				"start": 103.934,
+				"end": 104.455,
+				"confidence": 0.92
+			},
+			{
+				"word": "vous",
+				"start": 104.995,
+				"end": 105.095,
+				"confidence": 0.87
+			},
+			{
+				"word": "voulez",
+				"start": 105.155,
+				"end": 105.336,
+				"confidence": 0.744
+			},
+			{
+				"word": "connaître",
+				"start": 105.396,
+				"end": 106.337,
+				"confidence": 0.959
+			},
+			{
+				"word": "tous",
+				"start": 106.377,
+				"end": 106.477,
+				"confidence": 0.87
+			},
+			{
+				"word": "les",
+				"start": 106.497,
+				"end": 106.577,
+				"confidence": 0.833
+			},
+			{
+				"word": "éléments",
+				"start": 106.597,
+				"end": 106.817,
+				"confidence": 0.856
+			},
+			{
+				"word": "du",
+				"start": 106.837,
+				"end": 106.898,
+				"confidence": 0.883
+			},
+			{
+				"word": "dossier,",
+				"start": 106.938,
+				"end": 107.118,
+				"confidence": 0.804
+			},
+			{
+				"word": "je",
+				"start": 107.158,
+				"end": 107.198,
+				"confidence": 0.762
+			},
+			{
+				"word": "vous",
+				"start": 107.218,
+				"end": 107.318,
+				"confidence": 0.405
+			},
+			{
+				"word": "renvoie",
+				"start": 107.358,
+				"end": 107.558,
+				"confidence": 0.838
+			},
+			{
+				"word": "au",
+				"start": 107.578,
+				"end": 107.678,
+				"confidence": 0.76
+			},
+			{
+				"word": "dernier",
+				"start": 107.718,
+				"end": 107.899,
+				"confidence": 0.689
+			},
+			{
+				"word": "numéro",
+				"start": 107.959,
+				"end": 108.199,
+				"confidence": 0.846
+			},
+			{
+				"word": "de",
+				"start": 108.219,
+				"end": 108.259,
+				"confidence": 0.381
+			},
+			{
+				"word": "l'illustré,",
+				"start": 108.279,
+				"end": 108.88,
+				"confidence": 0.725
+			},
+			{
+				"word": "si",
+				"start": 108.9,
+				"end": 109.06,
+				"confidence": 0.828
+			},
+			{
+				"word": "jamais.",
+				"start": 109.08,
+				"end": 109.861,
+				"confidence": 0.777
+			}
+		]
+	},
+	{
+		"start": 109.881,
+		"end": 111.042,
+		"sentence": "Il y a toutes les pièces du dossier là-dedans.",
+		"words": [
+			{
+				"word": "Il",
+				"start": 109.881,
+				"end": 109.921,
+				"confidence": 0.0
+			},
+			{
+				"word": "y",
+				"start": 109.941,
+				"end": 109.961,
+				"confidence": 0.184
+			},
+			{
+				"word": "a",
+				"start": 109.981,
+				"end": 110.001,
+				"confidence": 0.001
+			},
+			{
+				"word": "toutes",
+				"start": 110.021,
+				"end": 110.161,
+				"confidence": 0.379
+			},
+			{
+				"word": "les",
+				"start": 110.201,
+				"end": 110.282,
+				"confidence": 0.43
+			},
+			{
+				"word": "pièces",
+				"start": 110.302,
+				"end": 110.502,
+				"confidence": 0.349
+			},
+			{
+				"word": "du",
+				"start": 110.522,
+				"end": 110.602,
+				"confidence": 0.789
+			},
+			{
+				"word": "dossier",
+				"start": 110.642,
+				"end": 110.822,
+				"confidence": 0.471
+			},
+			{
+				"word": "là-dedans.",
+				"start": 110.842,
+				"end": 111.042,
+				"confidence": 0.241
+			}
+		]
+	},
+	{
+		"start": 111.062,
+		"end": 112.264,
+		"sentence": "Toutes les pièces du dossier sont là-dedans.",
+		"words": [
+			{
+				"word": "Toutes",
+				"start": 111.062,
+				"end": 111.203,
+				"confidence": 0.813
+			},
+			{
+				"word": "les",
+				"start": 111.223,
+				"end": 111.283,
+				"confidence": 0.996
+			},
+			{
+				"word": "pièces",
+				"start": 111.303,
+				"end": 111.443,
+				"confidence": 0.981
+			},
+			{
+				"word": "du",
+				"start": 111.463,
+				"end": 111.503,
+				"confidence": 0.976
+			},
+			{
+				"word": "dossier",
+				"start": 111.543,
+				"end": 111.703,
+				"confidence": 0.984
+			},
+			{
+				"word": "sont",
+				"start": 111.743,
+				"end": 111.883,
+				"confidence": 0.623
+			},
+			{
+				"word": "là-dedans.",
+				"start": 111.903,
+				"end": 112.264,
+				"confidence": 0.317
+			}
+		]
+	},
+	{
+		"start": 112.284,
+		"end": 113.025,
+		"sentence": "Vous l'avez lu ?",
+		"words": [
+			{
+				"word": "Vous",
+				"start": 112.284,
+				"end": 112.724,
+				"confidence": 0.627
+			},
+			{
+				"word": "l'avez",
+				"start": 112.744,
+				"end": 112.865,
+				"confidence": 0.937
+			},
+			{
+				"word": "lu",
+				"start": 112.925,
+				"end": 112.985,
+				"confidence": 0.618
+			},
+			{
+				"word": "?",
+				"start": 113.005,
+				"end": 113.025,
+				"confidence": 0.746
+			}
+		]
+	},
+	{
+		"start": 113.045,
+		"end": 114.126,
+		"sentence": "C'est « Tout est vrai », ce qu'il y a là-dedans ?",
+		"words": [
+			{
+				"word": "C'est",
+				"start": 113.045,
+				"end": 113.205,
+				"confidence": 0.327
+			},
+			{
+				"word": "«",
+				"start": 113.225,
+				"end": 113.245,
+				"confidence": 0.933
+			},
+			{
+				"word": "Tout",
+				"start": 113.265,
+				"end": 113.365,
+				"confidence": 0.928
+			},
+			{
+				"word": "est",
+				"start": 113.405,
+				"end": 113.465,
+				"confidence": 0.5
+			},
+			{
+				"word": "vrai",
+				"start": 113.485,
+				"end": 113.565,
+				"confidence": 0.742
+			},
+			{
+				"word": "»,",
+				"start": 113.585,
+				"end": 113.625,
+				"confidence": 0.535
+			},
+			{
+				"word": "ce",
+				"start": 113.645,
+				"end": 113.686,
+				"confidence": 0.088
+			},
+			{
+				"word": "qu'il",
+				"start": 113.706,
+				"end": 113.806,
+				"confidence": 0.162
+			},
+			{
+				"word": "y",
+				"start": 113.826,
+				"end": 113.846,
+				"confidence": 0.006
+			},
+			{
+				"word": "a",
+				"start": 113.866,
+				"end": 113.886,
+				"confidence": 0.215
+			},
+			{
+				"word": "là-dedans",
+				"start": 113.906,
+				"end": 114.086,
+				"confidence": 0.062
+			},
+			{
+				"word": "?",
+				"start": 114.106,
+				"end": 114.126,
+				"confidence": 0.991
+			}
+		]
+	},
+	{
+		"start": 114.173,
+		"end": 117.523,
+		"sentence": " Je l'ai lu, hélas.",
+		"words": [
+			{
+				"word": "Je",
+				"start": 114.173,
+				"end": 114.755,
+				"confidence": 0.917
+			},
+			{
+				"word": "l'ai",
+				"start": 114.795,
+				"end": 114.915,
+				"confidence": 0.711
+			},
+			{
+				"word": "lu,",
+				"start": 114.955,
+				"end": 115.076,
+				"confidence": 0.867
+			},
+			{
+				"word": "hélas.",
+				"start": 115.096,
+				"end": 117.523,
+				"confidence": 0.955
+			}
+		]
+	},
+	{
+		"start": 117.583,
+		"end": 120.572,
+		"sentence": "Je suis très peu sensible à ce genre d'articles.",
+		"words": [
+			{
+				"word": "Je",
+				"start": 117.583,
+				"end": 117.663,
+				"confidence": 0.988
+			},
+			{
+				"word": "suis",
+				"start": 117.703,
+				"end": 117.844,
+				"confidence": 0.631
+			},
+			{
+				"word": "très",
+				"start": 117.904,
+				"end": 118.024,
+				"confidence": 0.756
+			},
+			{
+				"word": "peu",
+				"start": 118.064,
+				"end": 118.265,
+				"confidence": 0.939
+			},
+			{
+				"word": "sensible",
+				"start": 118.325,
+				"end": 118.887,
+				"confidence": 0.957
+			},
+			{
+				"word": "à",
+				"start": 118.947,
+				"end": 118.987,
+				"confidence": 0.867
+			},
+			{
+				"word": "ce",
+				"start": 119.067,
+				"end": 119.188,
+				"confidence": 0.996
+			},
+			{
+				"word": "genre",
+				"start": 119.228,
+				"end": 119.448,
+				"confidence": 0.511
+			},
+			{
+				"word": "d'articles.",
+				"start": 119.468,
+				"end": 120.572,
+				"confidence": 0.786
+			}
+		]
+	},
+	{
+		"start": 120.592,
+		"end": 124.824,
+		"sentence": "Il paraît que c'est l'honneur de votre profession que faire de l'investigation.",
+		"words": [
+			{
+				"word": "Il",
+				"start": 120.592,
+				"end": 120.672,
+				"confidence": 0.77
+			},
+			{
+				"word": "paraît",
+				"start": 120.712,
+				"end": 120.953,
+				"confidence": 0.818
+			},
+			{
+				"word": "que",
+				"start": 120.973,
+				"end": 121.073,
+				"confidence": 0.814
+			},
+			{
+				"word": "c'est",
+				"start": 121.093,
+				"end": 121.234,
+				"confidence": 0.753
+			},
+			{
+				"word": "l'honneur",
+				"start": 121.254,
+				"end": 121.534,
+				"confidence": 0.946
+			},
+			{
+				"word": "de",
+				"start": 121.575,
+				"end": 121.635,
+				"confidence": 0.878
+			},
+			{
+				"word": "votre",
+				"start": 121.695,
+				"end": 121.855,
+				"confidence": 0.951
+			},
+			{
+				"word": "profession",
+				"start": 121.895,
+				"end": 122.397,
+				"confidence": 0.891
+			},
+			{
+				"word": "que",
+				"start": 122.457,
+				"end": 122.638,
+				"confidence": 0.753
+			},
+			{
+				"word": "faire",
+				"start": 122.678,
+				"end": 122.898,
+				"confidence": 0.927
+			},
+			{
+				"word": "de",
+				"start": 122.939,
+				"end": 122.999,
+				"confidence": 0.882
+			},
+			{
+				"word": "l'investigation.",
+				"start": 123.039,
+				"end": 124.824,
+				"confidence": 0.836
+			}
+		]
+	},
+	{
+		"start": 124.844,
+		"end": 127.592,
+		"sentence": "Je trouve que l'évocation, notamment de la victime,",
+		"words": [
+			{
+				"word": "Je",
+				"start": 124.844,
+				"end": 124.924,
+				"confidence": 0.986
+			},
+			{
+				"word": "trouve",
+				"start": 124.964,
+				"end": 125.205,
+				"confidence": 0.868
+			},
+			{
+				"word": "que",
+				"start": 125.245,
+				"end": 125.366,
+				"confidence": 0.818
+			},
+			{
+				"word": "l'évocation,",
+				"start": 125.406,
+				"end": 126.248,
+				"confidence": 0.959
+			},
+			{
+				"word": "notamment",
+				"start": 126.268,
+				"end": 126.649,
+				"confidence": 0.864
+			},
+			{
+				"word": "de",
+				"start": 126.689,
+				"end": 126.77,
+				"confidence": 0.841
+			},
+			{
+				"word": "la",
+				"start": 126.79,
+				"end": 126.89,
+				"confidence": 0.829
+			},
+			{
+				"word": "victime,",
+				"start": 126.91,
+				"end": 127.592,
+				"confidence": 0.824
+			}
+		]
+	},
+	{
+		"start": 127.927,
+		"end": 129.429,
+		"sentence": " est assez scandaleuse.",
+		"words": [
+			{
+				"word": "est",
+				"start": 127.927,
+				"end": 128.268,
+				"confidence": 0.305
+			},
+			{
+				"word": "assez",
+				"start": 128.288,
+				"end": 128.528,
+				"confidence": 0.769
+			},
+			{
+				"word": "scandaleuse.",
+				"start": 128.548,
+				"end": 129.429,
+				"confidence": 0.87
+			}
+		]
+	},
+	{
+		"start": 129.449,
+		"end": 131.753,
+		"sentence": "– Comment ils font pour choper ces informations ?",
+		"words": [
+			{
+				"word": "–",
+				"start": 129.449,
+				"end": 129.469,
+				"confidence": 0.091
+			},
+			{
+				"word": "Comment",
+				"start": 129.489,
+				"end": 129.69,
+				"confidence": 0.901
+			},
+			{
+				"word": "ils",
+				"start": 129.73,
+				"end": 129.81,
+				"confidence": 0.546
+			},
+			{
+				"word": "font",
+				"start": 129.85,
+				"end": 130.03,
+				"confidence": 0.575
+			},
+			{
+				"word": "pour",
+				"start": 130.05,
+				"end": 130.19,
+				"confidence": 0.893
+			},
+			{
+				"word": "choper",
+				"start": 130.23,
+				"end": 130.551,
+				"confidence": 0.856
+			},
+			{
+				"word": "ces",
+				"start": 130.591,
+				"end": 130.751,
+				"confidence": 0.876
+			},
+			{
+				"word": "informations",
+				"start": 130.791,
+				"end": 131.633,
+				"confidence": 0.874
+			},
+			{
+				"word": "?",
+				"start": 131.653,
+				"end": 131.753,
+				"confidence": 0.574
+			}
+		]
+	},
+	{
+		"start": 131.913,
+		"end": 133.075,
+		"sentence": "Ils ont essayé de vous contacter, j'imagine ?",
+		"words": [
+			{
+				"word": "Ils",
+				"start": 131.913,
+				"end": 131.973,
+				"confidence": 0.025
+			},
+			{
+				"word": "ont",
+				"start": 131.993,
+				"end": 132.053,
+				"confidence": 0.005
+			},
+			{
+				"word": "essayé",
+				"start": 132.073,
+				"end": 132.193,
+				"confidence": 0.197
+			},
+			{
+				"word": "de",
+				"start": 132.274,
+				"end": 132.314,
+				"confidence": 0.45
+			},
+			{
+				"word": "vous",
+				"start": 132.334,
+				"end": 132.454,
+				"confidence": 0.673
+			},
+			{
+				"word": "contacter,",
+				"start": 132.474,
+				"end": 132.794,
+				"confidence": 0.794
+			},
+			{
+				"word": "j'imagine",
+				"start": 132.814,
+				"end": 132.995,
+				"confidence": 0.195
+			},
+			{
+				"word": "?",
+				"start": 133.015,
+				"end": 133.075,
+				"confidence": 0.347
+			}
+		]
+	},
+	{
+		"start": 133.095,
+		"end": 133.636,
+		"sentence": "– C'est très documenté.",
+		"words": [
+			{
+				"word": "–",
+				"start": 133.095,
+				"end": 133.115,
+				"confidence": 0.141
+			},
+			{
+				"word": "C'est",
+				"start": 133.135,
+				"end": 133.275,
+				"confidence": 0.27
+			},
+			{
+				"word": "très",
+				"start": 133.295,
+				"end": 133.375,
+				"confidence": 0.206
+			},
+			{
+				"word": "documenté.",
+				"start": 133.395,
+				"end": 133.636,
+				"confidence": 0.128
+			}
+		]
+	},
+	{
+		"start": 133.656,
+		"end": 135.098,
+		"sentence": "– Oui, moi je n'ai pas répondu.",
+		"words": [
+			{
+				"word": "–",
+				"start": 133.656,
+				"end": 133.676,
+				"confidence": 0.01
+			},
+			{
+				"word": "Oui,",
+				"start": 133.696,
+				"end": 133.776,
+				"confidence": 0.364
+			},
+			{
+				"word": "moi",
+				"start": 133.796,
+				"end": 133.916,
+				"confidence": 0.595
+			},
+			{
+				"word": "je",
+				"start": 133.936,
+				"end": 133.996,
+				"confidence": 0.664
+			},
+			{
+				"word": "n'ai",
+				"start": 134.016,
+				"end": 134.136,
+				"confidence": 0.873
+			},
+			{
+				"word": "pas",
+				"start": 134.156,
+				"end": 134.257,
+				"confidence": 0.877
+			},
+			{
+				"word": "répondu.",
+				"start": 134.277,
+				"end": 135.098,
+				"confidence": 0.899
+			}
+		]
+	},
+	{
+		"start": 135.118,
+		"end": 156.33,
+		"sentence": "Non, mais je pense qu'il y a les réseaux sociaux, il y a certainement des âmes racornies aigres et villes qui... des âmes racornies aigres et villes, tout au bonheur de pouvoir déparler, et puis il y a des ressentiments qui méandrent, qui font que l'on trouvera certainement des gens pour dire des choses abjectes.",
+		"words": [
+			{
+				"word": "Non,",
+				"start": 135.118,
+				"end": 135.258,
+				"confidence": 0.765
+			},
+			{
+				"word": "mais",
+				"start": 135.278,
+				"end": 135.458,
+				"confidence": 0.36
+			},
+			{
+				"word": "je",
+				"start": 135.498,
+				"end": 135.559,
+				"confidence": 0.742
+			},
+			{
+				"word": "pense",
+				"start": 135.579,
+				"end": 135.739,
+				"confidence": 0.816
+			},
+			{
+				"word": "qu'il",
+				"start": 135.759,
+				"end": 135.859,
+				"confidence": 0.598
+			},
+			{
+				"word": "y",
+				"start": 135.879,
+				"end": 135.899,
+				"confidence": 0.255
+			},
+			{
+				"word": "a",
+				"start": 135.919,
+				"end": 135.939,
+				"confidence": 0.339
+			},
+			{
+				"word": "les",
+				"start": 135.979,
+				"end": 136.079,
+				"confidence": 0.365
+			},
+			{
+				"word": "réseaux",
+				"start": 136.099,
+				"end": 136.38,
+				"confidence": 0.73
+			},
+			{
+				"word": "sociaux,",
+				"start": 136.42,
+				"end": 136.901,
+				"confidence": 0.927
+			},
+			{
+				"word": "il",
+				"start": 136.961,
+				"end": 137.001,
+				"confidence": 0.662
+			},
+			{
+				"word": "y",
+				"start": 137.041,
+				"end": 137.061,
+				"confidence": 0.109
+			},
+			{
+				"word": "a",
+				"start": 137.141,
+				"end": 137.381,
+				"confidence": 0.995
+			},
+			{
+				"word": "certainement",
+				"start": 137.421,
+				"end": 139.004,
+				"confidence": 0.964
+			},
+			{
+				"word": "des",
+				"start": 139.044,
+				"end": 139.184,
+				"confidence": 0.961
+			},
+			{
+				"word": "âmes",
+				"start": 139.264,
+				"end": 139.785,
+				"confidence": 0.909
+			},
+			{
+				"word": "racornies",
+				"start": 139.865,
+				"end": 140.566,
+				"confidence": 0.769
+			},
+			{
+				"word": "aigres",
+				"start": 140.646,
+				"end": 140.967,
+				"confidence": 0.478
+			},
+			{
+				"word": "et",
+				"start": 140.987,
+				"end": 141.127,
+				"confidence": 0.791
+			},
+			{
+				"word": "villes",
+				"start": 141.167,
+				"end": 141.848,
+				"confidence": 0.529
+			},
+			{
+				"word": "qui...",
+				"start": 142.589,
+				"end": 142.709,
+				"confidence": 0.182
+			},
+			{
+				"word": "des",
+				"start": 142.729,
+				"end": 142.87,
+				"confidence": 0.906
+			},
+			{
+				"word": "âmes",
+				"start": 142.95,
+				"end": 143.571,
+				"confidence": 0.946
+			},
+			{
+				"word": "racornies",
+				"start": 143.991,
+				"end": 144.833,
+				"confidence": 0.596
+			},
+			{
+				"word": "aigres",
+				"start": 144.853,
+				"end": 144.993,
+				"confidence": 0.369
+			},
+			{
+				"word": "et",
+				"start": 146.014,
+				"end": 146.155,
+				"confidence": 0.36
+			},
+			{
+				"word": "villes,",
+				"start": 146.175,
+				"end": 147.096,
+				"confidence": 0.62
+			},
+			{
+				"word": "tout",
+				"start": 147.116,
+				"end": 147.296,
+				"confidence": 0.984
+			},
+			{
+				"word": "au",
+				"start": 147.336,
+				"end": 147.457,
+				"confidence": 0.925
+			},
+			{
+				"word": "bonheur",
+				"start": 147.477,
+				"end": 148.098,
+				"confidence": 0.817
+			},
+			{
+				"word": "de",
+				"start": 148.138,
+				"end": 148.258,
+				"confidence": 0.98
+			},
+			{
+				"word": "pouvoir",
+				"start": 148.298,
+				"end": 148.999,
+				"confidence": 0.954
+			},
+			{
+				"word": "déparler,",
+				"start": 149.039,
+				"end": 150.261,
+				"confidence": 0.962
+			},
+			{
+				"word": "et",
+				"start": 150.341,
+				"end": 150.762,
+				"confidence": 0.759
+			},
+			{
+				"word": "puis",
+				"start": 150.782,
+				"end": 150.862,
+				"confidence": 0.0
+			},
+			{
+				"word": "il",
+				"start": 150.882,
+				"end": 150.962,
+				"confidence": 0.488
+			},
+			{
+				"word": "y",
+				"start": 151.002,
+				"end": 151.022,
+				"confidence": 0.296
+			},
+			{
+				"word": "a",
+				"start": 151.042,
+				"end": 151.062,
+				"confidence": 0.908
+			},
+			{
+				"word": "des",
+				"start": 151.162,
+				"end": 151.262,
+				"confidence": 0.986
+			},
+			{
+				"word": "ressentiments",
+				"start": 151.302,
+				"end": 152.384,
+				"confidence": 0.911
+			},
+			{
+				"word": "qui",
+				"start": 152.424,
+				"end": 152.564,
+				"confidence": 0.91
+			},
+			{
+				"word": "méandrent,",
+				"start": 152.604,
+				"end": 153.486,
+				"confidence": 0.896
+			},
+			{
+				"word": "qui",
+				"start": 153.506,
+				"end": 153.666,
+				"confidence": 0.778
+			},
+			{
+				"word": "font",
+				"start": 153.706,
+				"end": 153.886,
+				"confidence": 0.97
+			},
+			{
+				"word": "que",
+				"start": 153.926,
+				"end": 153.986,
+				"confidence": 0.914
+			},
+			{
+				"word": "l'on",
+				"start": 154.027,
+				"end": 154.147,
+				"confidence": 0.735
+			},
+			{
+				"word": "trouvera",
+				"start": 154.167,
+				"end": 154.487,
+				"confidence": 0.831
+			},
+			{
+				"word": "certainement",
+				"start": 154.527,
+				"end": 154.928,
+				"confidence": 0.795
+			},
+			{
+				"word": "des",
+				"start": 154.968,
+				"end": 155.028,
+				"confidence": 0.806
+			},
+			{
+				"word": "gens",
+				"start": 155.068,
+				"end": 155.228,
+				"confidence": 0.624
+			},
+			{
+				"word": "pour",
+				"start": 155.288,
+				"end": 155.389,
+				"confidence": 0.817
+			},
+			{
+				"word": "dire",
+				"start": 155.429,
+				"end": 155.589,
+				"confidence": 0.692
+			},
+			{
+				"word": "des",
+				"start": 155.629,
+				"end": 155.709,
+				"confidence": 0.926
+			},
+			{
+				"word": "choses",
+				"start": 155.729,
+				"end": 155.929,
+				"confidence": 0.629
+			},
+			{
+				"word": "abjectes.",
+				"start": 155.99,
+				"end": 156.33,
+				"confidence": 0.456
+			}
+		]
+	},
+	{
+		"start": 156.31,
+		"end": 165.124,
+		"sentence": " Quoi qu'il en soit, on découvre en marche de cette affaire un monde fait de jets privés, de suites de luxe, dans les palaces, d'escorte-girls, de beaucoup, beaucoup, beaucoup d'argent.",
+		"words": [
+			{
+				"word": "Quoi",
+				"start": 156.31,
+				"end": 156.49,
+				"confidence": 0.214
+			},
+			{
+				"word": "qu'il",
+				"start": 156.51,
+				"end": 156.771,
+				"confidence": 0.838
+			},
+			{
+				"word": "en",
+				"start": 156.811,
+				"end": 156.851,
+				"confidence": 0.891
+			},
+			{
+				"word": "soit,",
+				"start": 156.891,
+				"end": 157.031,
+				"confidence": 0.846
+			},
+			{
+				"word": "on",
+				"start": 157.051,
+				"end": 157.111,
+				"confidence": 0.958
+			},
+			{
+				"word": "découvre",
+				"start": 157.151,
+				"end": 157.412,
+				"confidence": 0.83
+			},
+			{
+				"word": "en",
+				"start": 157.472,
+				"end": 157.512,
+				"confidence": 0.962
+			},
+			{
+				"word": "marche",
+				"start": 157.552,
+				"end": 157.672,
+				"confidence": 0.823
+			},
+			{
+				"word": "de",
+				"start": 157.692,
+				"end": 157.732,
+				"confidence": 0.984
+			},
+			{
+				"word": "cette",
+				"start": 157.772,
+				"end": 157.913,
+				"confidence": 0.982
+			},
+			{
+				"word": "affaire",
+				"start": 157.933,
+				"end": 158.253,
+				"confidence": 0.797
+			},
+			{
+				"word": "un",
+				"start": 158.333,
+				"end": 158.393,
+				"confidence": 0.932
+			},
+			{
+				"word": "monde",
+				"start": 158.453,
+				"end": 158.634,
+				"confidence": 0.909
+			},
+			{
+				"word": "fait",
+				"start": 158.674,
+				"end": 158.794,
+				"confidence": 0.72
+			},
+			{
+				"word": "de",
+				"start": 158.814,
+				"end": 158.874,
+				"confidence": 0.838
+			},
+			{
+				"word": "jets",
+				"start": 158.934,
+				"end": 159.115,
+				"confidence": 0.861
+			},
+			{
+				"word": "privés,",
+				"start": 159.155,
+				"end": 159.555,
+				"confidence": 0.888
+			},
+			{
+				"word": "de",
+				"start": 159.595,
+				"end": 159.716,
+				"confidence": 0.942
+			},
+			{
+				"word": "suites",
+				"start": 159.776,
+				"end": 159.996,
+				"confidence": 0.802
+			},
+			{
+				"word": "de",
+				"start": 160.036,
+				"end": 160.116,
+				"confidence": 0.943
+			},
+			{
+				"word": "luxe,",
+				"start": 160.176,
+				"end": 161.098,
+				"confidence": 0.916
+			},
+			{
+				"word": "dans",
+				"start": 161.118,
+				"end": 161.218,
+				"confidence": 0.621
+			},
+			{
+				"word": "les",
+				"start": 161.258,
+				"end": 161.338,
+				"confidence": 0.671
+			},
+			{
+				"word": "palaces,",
+				"start": 161.358,
+				"end": 161.679,
+				"confidence": 0.89
+			},
+			{
+				"word": "d'escorte-girls,",
+				"start": 161.739,
+				"end": 162.801,
+				"confidence": 0.719
+			},
+			{
+				"word": "de",
+				"start": 162.821,
+				"end": 163.001,
+				"confidence": 0.853
+			},
+			{
+				"word": "beaucoup,",
+				"start": 163.021,
+				"end": 163.442,
+				"confidence": 0.698
+			},
+			{
+				"word": "beaucoup,",
+				"start": 163.462,
+				"end": 163.842,
+				"confidence": 0.684
+			},
+			{
+				"word": "beaucoup",
+				"start": 163.862,
+				"end": 164.123,
+				"confidence": 0.842
+			},
+			{
+				"word": "d'argent.",
+				"start": 164.163,
+				"end": 165.124,
+				"confidence": 0.854
+			}
+		]
+	},
+	{
+		"start": 165.144,
+		"end": 169.031,
+		"sentence": "C'est assez cool votre job, en fait, non ?",
+		"words": [
+			{
+				"word": "C'est",
+				"start": 165.144,
+				"end": 165.245,
+				"confidence": 0.015
+			},
+			{
+				"word": "assez",
+				"start": 165.265,
+				"end": 165.445,
+				"confidence": 0.417
+			},
+			{
+				"word": "cool",
+				"start": 165.485,
+				"end": 166.186,
+				"confidence": 0.385
+			},
+			{
+				"word": "votre",
+				"start": 166.206,
+				"end": 166.326,
+				"confidence": 0.3
+			},
+			{
+				"word": "job,",
+				"start": 166.406,
+				"end": 166.507,
+				"confidence": 0.216
+			},
+			{
+				"word": "en",
+				"start": 166.527,
+				"end": 168.79,
+				"confidence": 0.8
+			},
+			{
+				"word": "fait,",
+				"start": 168.81,
+				"end": 168.911,
+				"confidence": 0.001
+			},
+			{
+				"word": "non",
+				"start": 168.931,
+				"end": 168.991,
+				"confidence": 0.0
+			},
+			{
+				"word": "?",
+				"start": 169.011,
+				"end": 169.031,
+				"confidence": 0.0
+			}
+		]
+	},
+	{
+		"start": 169.051,
+		"end": 176.563,
+		"sentence": "Écoutez, je vais peut-être vous étonner, le métier d'avocat, en tout cas tel que je le conçois, n'est pas du tout un métier d'argent.",
+		"words": [
+			{
+				"word": "Écoutez,",
+				"start": 169.051,
+				"end": 169.211,
+				"confidence": 0.2
+			},
+			{
+				"word": "je",
+				"start": 169.231,
+				"end": 169.311,
+				"confidence": 0.924
+			},
+			{
+				"word": "vais",
+				"start": 169.351,
+				"end": 169.512,
+				"confidence": 0.822
+			},
+			{
+				"word": "peut-être",
+				"start": 169.552,
+				"end": 169.852,
+				"confidence": 0.845
+			},
+			{
+				"word": "vous",
+				"start": 169.892,
+				"end": 169.992,
+				"confidence": 0.95
+			},
+			{
+				"word": "étonner,",
+				"start": 170.032,
+				"end": 171.495,
+				"confidence": 0.873
+			},
+			{
+				"word": "le",
+				"start": 171.515,
+				"end": 171.595,
+				"confidence": 0.984
+			},
+			{
+				"word": "métier",
+				"start": 171.635,
+				"end": 171.875,
+				"confidence": 0.775
+			},
+			{
+				"word": "d'avocat,",
+				"start": 171.895,
+				"end": 172.536,
+				"confidence": 0.773
+			},
+			{
+				"word": "en",
+				"start": 172.597,
+				"end": 172.657,
+				"confidence": 0.922
+			},
+			{
+				"word": "tout",
+				"start": 172.677,
+				"end": 172.777,
+				"confidence": 0.96
+			},
+			{
+				"word": "cas",
+				"start": 172.797,
+				"end": 172.897,
+				"confidence": 0.583
+			},
+			{
+				"word": "tel",
+				"start": 172.937,
+				"end": 173.097,
+				"confidence": 0.931
+			},
+			{
+				"word": "que",
+				"start": 173.137,
+				"end": 173.278,
+				"confidence": 0.796
+			},
+			{
+				"word": "je",
+				"start": 173.298,
+				"end": 173.438,
+				"confidence": 0.7
+			},
+			{
+				"word": "le",
+				"start": 173.458,
+				"end": 173.538,
+				"confidence": 0.978
+			},
+			{
+				"word": "conçois,",
+				"start": 173.578,
+				"end": 174.339,
+				"confidence": 0.919
+			},
+			{
+				"word": "n'est",
+				"start": 174.359,
+				"end": 174.5,
+				"confidence": 0.816
+			},
+			{
+				"word": "pas",
+				"start": 174.54,
+				"end": 174.62,
+				"confidence": 0.964
+			},
+			{
+				"word": "du",
+				"start": 174.66,
+				"end": 174.72,
+				"confidence": 0.963
+			},
+			{
+				"word": "tout",
+				"start": 174.74,
+				"end": 174.84,
+				"confidence": 0.676
+			},
+			{
+				"word": "un",
+				"start": 174.88,
+				"end": 174.94,
+				"confidence": 0.843
+			},
+			{
+				"word": "métier",
+				"start": 174.98,
+				"end": 175.201,
+				"confidence": 0.888
+			},
+			{
+				"word": "d'argent.",
+				"start": 175.241,
+				"end": 176.563,
+				"confidence": 0.769
+			}
+		]
+	},
+	{
+		"start": 179.227,
+		"end": 182.415,
+		"sentence": " Alors on n'est pas d'accord, alors on n'est pas d'accord.",
+		"words": [
+			{
+				"word": "Alors",
+				"start": 179.227,
+				"end": 181.031,
+				"confidence": 0.174
+			},
+			{
+				"word": "on",
+				"start": 181.051,
+				"end": 181.092,
+				"confidence": 0.002
+			},
+			{
+				"word": "n'est",
+				"start": 181.112,
+				"end": 181.212,
+				"confidence": 0.002
+			},
+			{
+				"word": "pas",
+				"start": 181.232,
+				"end": 181.292,
+				"confidence": 0.002
+			},
+			{
+				"word": "d'accord,",
+				"start": 181.312,
+				"end": 181.492,
+				"confidence": 0.006
+			},
+			{
+				"word": "alors",
+				"start": 181.513,
+				"end": 181.613,
+				"confidence": 0.004
+			},
+			{
+				"word": "on",
+				"start": 181.633,
+				"end": 181.673,
+				"confidence": 0.182
+			},
+			{
+				"word": "n'est",
+				"start": 181.693,
+				"end": 181.793,
+				"confidence": 0.371
+			},
+			{
+				"word": "pas",
+				"start": 181.833,
+				"end": 181.914,
+				"confidence": 0.474
+			},
+			{
+				"word": "d'accord.",
+				"start": 181.934,
+				"end": 182.415,
+				"confidence": 0.862
+			}
+		]
+	},
+	{
+		"start": 182.435,
+		"end": 183.938,
+		"sentence": "Moi je l'ai fait que pour ça, franchement.",
+		"words": [
+			{
+				"word": "Moi",
+				"start": 182.435,
+				"end": 182.495,
+				"confidence": 0.294
+			},
+			{
+				"word": "je",
+				"start": 182.535,
+				"end": 182.615,
+				"confidence": 0.76
+			},
+			{
+				"word": "l'ai",
+				"start": 182.655,
+				"end": 182.796,
+				"confidence": 0.727
+			},
+			{
+				"word": "fait",
+				"start": 182.836,
+				"end": 182.996,
+				"confidence": 0.863
+			},
+			{
+				"word": "que",
+				"start": 183.016,
+				"end": 183.157,
+				"confidence": 0.639
+			},
+			{
+				"word": "pour",
+				"start": 183.337,
+				"end": 183.417,
+				"confidence": 0.003
+			},
+			{
+				"word": "ça,",
+				"start": 183.437,
+				"end": 183.598,
+				"confidence": 0.775
+			},
+			{
+				"word": "franchement.",
+				"start": 183.618,
+				"end": 183.938,
+				"confidence": 0.376
+			}
+		]
+	},
+	{
+		"start": 183.958,
+		"end": 186.986,
+		"sentence": "Non, mais comprenez-moi bien.",
+		"words": [
+			{
+				"word": "Non,",
+				"start": 183.958,
+				"end": 184.039,
+				"confidence": 0.234
+			},
+			{
+				"word": "mais",
+				"start": 184.059,
+				"end": 184.359,
+				"confidence": 0.855
+			},
+			{
+				"word": "comprenez-moi",
+				"start": 184.4,
+				"end": 184.861,
+				"confidence": 0.456
+			},
+			{
+				"word": "bien.",
+				"start": 184.901,
+				"end": 186.986,
+				"confidence": 0.885
+			}
+		]
+	},
+	{
+		"start": 187.026,
+		"end": 195.767,
+		"sentence": "Si le hasard, si la vie vous caresse, si vous avez du talent, si vous travaillez beaucoup, il y a des récompenses matérielles concrètes à votre effort,",
+		"words": [
+			{
+				"word": "Si",
+				"start": 187.026,
+				"end": 187.627,
+				"confidence": 0.993
+			},
+			{
+				"word": "le",
+				"start": 187.667,
+				"end": 187.728,
+				"confidence": 0.297
+			},
+			{
+				"word": "hasard,",
+				"start": 187.748,
+				"end": 188.309,
+				"confidence": 0.841
+			},
+			{
+				"word": "si",
+				"start": 188.329,
+				"end": 188.489,
+				"confidence": 0.804
+			},
+			{
+				"word": "la",
+				"start": 188.509,
+				"end": 188.57,
+				"confidence": 0.893
+			},
+			{
+				"word": "vie",
+				"start": 188.59,
+				"end": 188.71,
+				"confidence": 0.755
+			},
+			{
+				"word": "vous",
+				"start": 188.73,
+				"end": 188.85,
+				"confidence": 0.501
+			},
+			{
+				"word": "caresse,",
+				"start": 188.87,
+				"end": 189.372,
+				"confidence": 0.77
+			},
+			{
+				"word": "si",
+				"start": 189.392,
+				"end": 189.492,
+				"confidence": 0.988
+			},
+			{
+				"word": "vous",
+				"start": 189.512,
+				"end": 189.612,
+				"confidence": 0.862
+			},
+			{
+				"word": "avez",
+				"start": 189.652,
+				"end": 189.793,
+				"confidence": 0.733
+			},
+			{
+				"word": "du",
+				"start": 189.853,
+				"end": 189.913,
+				"confidence": 0.764
+			},
+			{
+				"word": "talent,",
+				"start": 189.953,
+				"end": 190.414,
+				"confidence": 0.819
+			},
+			{
+				"word": "si",
+				"start": 190.454,
+				"end": 190.554,
+				"confidence": 0.988
+			},
+			{
+				"word": "vous",
+				"start": 190.574,
+				"end": 190.675,
+				"confidence": 0.839
+			},
+			{
+				"word": "travaillez",
+				"start": 190.715,
+				"end": 191.056,
+				"confidence": 0.886
+			},
+			{
+				"word": "beaucoup,",
+				"start": 191.076,
+				"end": 191.898,
+				"confidence": 0.755
+			},
+			{
+				"word": "il",
+				"start": 191.918,
+				"end": 191.978,
+				"confidence": 0.813
+			},
+			{
+				"word": "y",
+				"start": 191.998,
+				"end": 192.018,
+				"confidence": 0.207
+			},
+			{
+				"word": "a",
+				"start": 192.078,
+				"end": 192.138,
+				"confidence": 0.522
+			},
+			{
+				"word": "des",
+				"start": 192.198,
+				"end": 192.279,
+				"confidence": 0.847
+			},
+			{
+				"word": "récompenses",
+				"start": 192.319,
+				"end": 193.181,
+				"confidence": 0.873
+			},
+			{
+				"word": "matérielles",
+				"start": 193.261,
+				"end": 194.083,
+				"confidence": 0.882
+			},
+			{
+				"word": "concrètes",
+				"start": 194.123,
+				"end": 194.945,
+				"confidence": 0.952
+			},
+			{
+				"word": "à",
+				"start": 194.985,
+				"end": 195.025,
+				"confidence": 0.96
+			},
+			{
+				"word": "votre",
+				"start": 195.085,
+				"end": 195.246,
+				"confidence": 0.884
+			},
+			{
+				"word": "effort,",
+				"start": 195.306,
+				"end": 195.767,
+				"confidence": 0.885
+			}
+		]
+	},
+	{
+		"start": 196.068,
+		"end": 198.931,
+		"sentence": " Il faut les accueillir grâce à ces reconnaissances.",
+		"words": [
+			{
+				"word": "Il",
+				"start": 196.068,
+				"end": 196.388,
+				"confidence": 0.74
+			},
+			{
+				"word": "faut",
+				"start": 196.408,
+				"end": 196.529,
+				"confidence": 0.879
+			},
+			{
+				"word": "les",
+				"start": 196.589,
+				"end": 196.669,
+				"confidence": 0.836
+			},
+			{
+				"word": "accueillir",
+				"start": 196.709,
+				"end": 197.289,
+				"confidence": 0.828
+			},
+			{
+				"word": "grâce",
+				"start": 197.33,
+				"end": 197.57,
+				"confidence": 0.907
+			},
+			{
+				"word": "à",
+				"start": 197.59,
+				"end": 197.61,
+				"confidence": 0.82
+			},
+			{
+				"word": "ces",
+				"start": 197.63,
+				"end": 197.73,
+				"confidence": 0.924
+			},
+			{
+				"word": "reconnaissances.",
+				"start": 197.77,
+				"end": 198.931,
+				"confidence": 0.86
+			}
+		]
+	},
+	{
+		"start": 198.952,
+		"end": 204.218,
+		"sentence": "Mais ce n'est certainement pas ça qui fait qu'un avocat se lève le matin.",
+		"words": [
+			{
+				"word": "Mais",
+				"start": 198.952,
+				"end": 199.192,
+				"confidence": 0.815
+			},
+			{
+				"word": "ce",
+				"start": 199.232,
+				"end": 199.332,
+				"confidence": 0.899
+			},
+			{
+				"word": "n'est",
+				"start": 199.352,
+				"end": 199.652,
+				"confidence": 0.804
+			},
+			{
+				"word": "certainement",
+				"start": 199.672,
+				"end": 200.233,
+				"confidence": 0.935
+			},
+			{
+				"word": "pas",
+				"start": 200.273,
+				"end": 200.453,
+				"confidence": 0.873
+			},
+			{
+				"word": "ça",
+				"start": 200.574,
+				"end": 201.194,
+				"confidence": 0.88
+			},
+			{
+				"word": "qui",
+				"start": 201.234,
+				"end": 201.415,
+				"confidence": 0.951
+			},
+			{
+				"word": "fait",
+				"start": 201.475,
+				"end": 201.635,
+				"confidence": 0.924
+			},
+			{
+				"word": "qu'un",
+				"start": 201.655,
+				"end": 201.835,
+				"confidence": 0.829
+			},
+			{
+				"word": "avocat",
+				"start": 201.895,
+				"end": 202.316,
+				"confidence": 0.94
+			},
+			{
+				"word": "se",
+				"start": 202.356,
+				"end": 202.456,
+				"confidence": 0.752
+			},
+			{
+				"word": "lève",
+				"start": 202.476,
+				"end": 203.497,
+				"confidence": 0.214
+			},
+			{
+				"word": "le",
+				"start": 203.517,
+				"end": 203.557,
+				"confidence": 0.09
+			},
+			{
+				"word": "matin.",
+				"start": 203.577,
+				"end": 204.218,
+				"confidence": 0.354
+			}
+		]
+	},
+	{
+		"start": 204.238,
+		"end": 205.5,
+		"sentence": "Je ne suis pas tout à fait d'accord.",
+		"words": [
+			{
+				"word": "Je",
+				"start": 204.238,
+				"end": 204.819,
+				"confidence": 0.606
+			},
+			{
+				"word": "ne",
+				"start": 204.839,
+				"end": 204.879,
+				"confidence": 0.002
+			},
+			{
+				"word": "suis",
+				"start": 204.899,
+				"end": 204.979,
+				"confidence": 0.0
+			},
+			{
+				"word": "pas",
+				"start": 204.999,
+				"end": 205.059,
+				"confidence": 0.003
+			},
+			{
+				"word": "tout",
+				"start": 205.079,
+				"end": 205.159,
+				"confidence": 0.001
+			},
+			{
+				"word": "à",
+				"start": 205.179,
+				"end": 205.199,
+				"confidence": 0.003
+			},
+			{
+				"word": "fait",
+				"start": 205.219,
+				"end": 205.299,
+				"confidence": 0.002
+			},
+			{
+				"word": "d'accord.",
+				"start": 205.319,
+				"end": 205.5,
+				"confidence": 0.015
+			}
+		]
+	},
+	{
+		"start": 205.52,
+		"end": 207.782,
+		"sentence": "Parce que moi, je trouve les études, il faut se les farcir.",
+		"words": [
+			{
+				"word": "Parce",
+				"start": 205.52,
+				"end": 205.62,
+				"confidence": 0.023
+			},
+			{
+				"word": "que",
+				"start": 205.64,
+				"end": 205.7,
+				"confidence": 0.025
+			},
+			{
+				"word": "moi,",
+				"start": 205.72,
+				"end": 205.8,
+				"confidence": 0.133
+			},
+			{
+				"word": "je",
+				"start": 205.82,
+				"end": 205.86,
+				"confidence": 0.004
+			},
+			{
+				"word": "trouve",
+				"start": 205.88,
+				"end": 206.0,
+				"confidence": 0.002
+			},
+			{
+				"word": "les",
+				"start": 206.02,
+				"end": 206.08,
+				"confidence": 0.139
+			},
+			{
+				"word": "études,",
+				"start": 206.1,
+				"end": 206.441,
+				"confidence": 0.541
+			},
+			{
+				"word": "il",
+				"start": 206.461,
+				"end": 206.501,
+				"confidence": 0.915
+			},
+			{
+				"word": "faut",
+				"start": 206.541,
+				"end": 206.621,
+				"confidence": 0.959
+			},
+			{
+				"word": "se",
+				"start": 206.661,
+				"end": 206.721,
+				"confidence": 0.708
+			},
+			{
+				"word": "les",
+				"start": 206.741,
+				"end": 206.841,
+				"confidence": 0.594
+			},
+			{
+				"word": "farcir.",
+				"start": 206.861,
+				"end": 207.782,
+				"confidence": 0.752
+			}
+		]
+	},
+	{
+		"start": 207.802,
+		"end": 209.064,
+		"sentence": "C'est un peu un apprentissage de luxe.",
+		"words": [
+			{
+				"word": "C'est",
+				"start": 207.802,
+				"end": 207.963,
+				"confidence": 0.664
+			},
+			{
+				"word": "un",
+				"start": 208.043,
+				"end": 208.083,
+				"confidence": 0.902
+			},
+			{
+				"word": "peu",
+				"start": 208.123,
+				"end": 208.243,
+				"confidence": 0.959
+			},
+			{
+				"word": "un",
+				"start": 208.303,
+				"end": 208.363,
+				"confidence": 0.828
+			},
+			{
+				"word": "apprentissage",
+				"start": 208.403,
+				"end": 208.844,
+				"confidence": 0.664
+			},
+			{
+				"word": "de",
+				"start": 208.864,
+				"end": 208.924,
+				"confidence": 0.734
+			},
+			{
+				"word": "luxe.",
+				"start": 208.944,
+				"end": 209.064,
+				"confidence": 0.234
+			}
+		]
+	},
+	{
+		"start": 209.084,
+		"end": 210.045,
+		"sentence": "Vous êtes d'accord avec moi.",
+		"words": [
+			{
+				"word": "Vous",
+				"start": 209.084,
+				"end": 209.164,
+				"confidence": 0.266
+			},
+			{
+				"word": "êtes",
+				"start": 209.184,
+				"end": 209.284,
+				"confidence": 0.384
+			},
+			{
+				"word": "d'accord",
+				"start": 209.304,
+				"end": 209.504,
+				"confidence": 0.835
+			},
+			{
+				"word": "avec",
+				"start": 209.544,
+				"end": 209.725,
+				"confidence": 0.724
+			},
+			{
+				"word": "moi.",
+				"start": 209.765,
+				"end": 210.045,
+				"confidence": 0.961
+			}
+		]
+	},
+	{
+		"start": 210.085,
+		"end": 214.05,
+		"sentence": "C'est du bachotage, de l'appris par cœur, une réflexion néant.",
+		"words": [
+			{
+				"word": "C'est",
+				"start": 210.085,
+				"end": 210.205,
+				"confidence": 0.652
+			},
+			{
+				"word": "du",
+				"start": 210.245,
+				"end": 210.325,
+				"confidence": 0.876
+			},
+			{
+				"word": "bachotage,",
+				"start": 210.345,
+				"end": 211.327,
+				"confidence": 0.858
+			},
+			{
+				"word": "de",
+				"start": 211.347,
+				"end": 211.427,
+				"confidence": 0.902
+			},
+			{
+				"word": "l'appris",
+				"start": 211.447,
+				"end": 211.707,
+				"confidence": 0.604
+			},
+			{
+				"word": "par",
+				"start": 211.727,
+				"end": 211.927,
+				"confidence": 0.889
+			},
+			{
+				"word": "cœur,",
+				"start": 211.947,
+				"end": 212.408,
+				"confidence": 0.824
+			},
+			{
+				"word": "une",
+				"start": 212.448,
+				"end": 212.588,
+				"confidence": 0.848
+			},
+			{
+				"word": "réflexion",
+				"start": 212.628,
+				"end": 213.189,
+				"confidence": 0.915
+			},
+			{
+				"word": "néant.",
+				"start": 213.229,
+				"end": 214.05,
+				"confidence": 0.514
+			}
+		]
+	},
+	{
+		"start": 214.09,
+		"end": 216.833,
+		"sentence": "Un peu de latin pendant une année pour se mettre au bas du droit romain.",
+		"words": [
+			{
+				"word": "Un",
+				"start": 214.09,
+				"end": 214.15,
+				"confidence": 0.92
+			},
+			{
+				"word": "peu",
+				"start": 214.17,
+				"end": 214.27,
+				"confidence": 0.55
+			},
+			{
+				"word": "de",
+				"start": 214.31,
+				"end": 214.37,
+				"confidence": 0.884
+			},
+			{
+				"word": "latin",
+				"start": 214.39,
+				"end": 214.591,
+				"confidence": 0.653
+			},
+			{
+				"word": "pendant",
+				"start": 214.611,
+				"end": 214.831,
+				"confidence": 0.429
+			},
+			{
+				"word": "une",
+				"start": 214.871,
+				"end": 214.931,
+				"confidence": 0.846
+			},
+			{
+				"word": "année",
+				"start": 214.971,
+				"end": 215.171,
+				"confidence": 0.94
+			},
+			{
+				"word": "pour",
+				"start": 215.211,
+				"end": 215.311,
+				"confidence": 0.899
+			},
+			{
+				"word": "se",
+				"start": 215.352,
+				"end": 215.432,
+				"confidence": 0.726
+			},
+			{
+				"word": "mettre",
+				"start": 215.452,
+				"end": 215.952,
+				"confidence": 0.857
+			},
+			{
+				"word": "au",
+				"start": 215.992,
+				"end": 216.092,
+				"confidence": 0.694
+			},
+			{
+				"word": "bas",
+				"start": 216.112,
+				"end": 216.253,
+				"confidence": 0.432
+			},
+			{
+				"word": "du",
+				"start": 216.273,
+				"end": 216.353,
+				"confidence": 0.875
+			},
+			{
+				"word": "droit",
+				"start": 216.393,
+				"end": 216.533,
+				"confidence": 0.935
+			},
+			{
+				"word": "romain.",
+				"start": 216.573,
+				"end": 216.833,
+				"confidence": 0.584
+			}
+		]
+	},
+	{
+		"start": 217.114,
+		"end": 218.575,
+		"sentence": "Vous voyez, ça, ça a été chiant.",
+		"words": [
+			{
+				"word": "Vous",
+				"start": 217.114,
+				"end": 217.194,
+				"confidence": 0.264
+			},
+			{
+				"word": "voyez,",
+				"start": 217.214,
+				"end": 217.374,
+				"confidence": 0.193
+			},
+			{
+				"word": "ça,",
+				"start": 217.394,
+				"end": 217.454,
+				"confidence": 0.123
+			},
+			{
+				"word": "ça",
+				"start": 217.474,
+				"end": 217.514,
+				"confidence": 0.061
+			},
+			{
+				"word": "a",
+				"start": 217.534,
+				"end": 217.554,
+				"confidence": 0.015
+			},
+			{
+				"word": "été",
+				"start": 217.574,
+				"end": 217.634,
+				"confidence": 0.284
+			},
+			{
+				"word": "chiant.",
+				"start": 217.674,
+				"end": 218.575,
+				"confidence": 0.561
+			}
+		]
+	},
+	{
+		"start": 218.616,
+		"end": 220.658,
+		"sentence": "Vous avez sans doute morflé autant que moi.",
+		"words": [
+			{
+				"word": "Vous",
+				"start": 218.616,
+				"end": 218.716,
+				"confidence": 0.959
+			},
+			{
+				"word": "avez",
+				"start": 218.756,
+				"end": 218.876,
+				"confidence": 0.605
+			},
+			{
+				"word": "sans",
+				"start": 219.016,
+				"end": 219.116,
+				"confidence": 0.483
+			},
+			{
+				"word": "doute",
+				"start": 219.136,
+				"end": 219.296,
+				"confidence": 0.783
+			},
+			{
+				"word": "morflé",
+				"start": 219.336,
+				"end": 219.577,
+				"confidence": 0.63
+			},
+			{
+				"word": "autant",
+				"start": 219.597,
+				"end": 219.797,
+				"confidence": 0.703
+			},
+			{
+				"word": "que",
+				"start": 219.817,
+				"end": 219.937,
+				"confidence": 0.695
+			},
+			{
+				"word": "moi.",
+				"start": 219.957,
+				"end": 220.658,
+				"confidence": 0.432
+			}
+		]
+	},
+	{
+		"start": 220.638,
+		"end": 225.943,
+		"sentence": " Donc il faut bien mériter cette gageure, sans compter qu'après il y a la pratique.",
+		"words": [
+			{
+				"word": "Donc",
+				"start": 220.638,
+				"end": 221.058,
+				"confidence": 0.234
+			},
+			{
+				"word": "il",
+				"start": 221.078,
+				"end": 221.139,
+				"confidence": 0.69
+			},
+			{
+				"word": "faut",
+				"start": 221.179,
+				"end": 221.259,
+				"confidence": 0.794
+			},
+			{
+				"word": "bien",
+				"start": 221.379,
+				"end": 221.539,
+				"confidence": 0.901
+			},
+			{
+				"word": "mériter",
+				"start": 221.619,
+				"end": 222.56,
+				"confidence": 0.996
+			},
+			{
+				"word": "cette",
+				"start": 222.6,
+				"end": 223.261,
+				"confidence": 0.905
+			},
+			{
+				"word": "gageure,",
+				"start": 223.321,
+				"end": 224.302,
+				"confidence": 0.805
+			},
+			{
+				"word": "sans",
+				"start": 224.322,
+				"end": 224.482,
+				"confidence": 0.643
+			},
+			{
+				"word": "compter",
+				"start": 224.502,
+				"end": 224.762,
+				"confidence": 0.737
+			},
+			{
+				"word": "qu'après",
+				"start": 224.802,
+				"end": 225.043,
+				"confidence": 0.583
+			},
+			{
+				"word": "il",
+				"start": 225.063,
+				"end": 225.103,
+				"confidence": 0.245
+			},
+			{
+				"word": "y",
+				"start": 225.123,
+				"end": 225.143,
+				"confidence": 0.822
+			},
+			{
+				"word": "a",
+				"start": 225.163,
+				"end": 225.183,
+				"confidence": 0.004
+			},
+			{
+				"word": "la",
+				"start": 225.203,
+				"end": 225.243,
+				"confidence": 0.996
+			},
+			{
+				"word": "pratique.",
+				"start": 225.283,
+				"end": 225.943,
+				"confidence": 0.866
+			}
+		]
+	},
+	{
+		"start": 226.024,
+		"end": 228.927,
+		"sentence": "Écoutez les clients qui pleurent nichés, potassez des textes de l'autre de la journée.",
+		"words": [
+			{
+				"word": "Écoutez",
+				"start": 226.024,
+				"end": 226.304,
+				"confidence": 0.738
+			},
+			{
+				"word": "les",
+				"start": 226.344,
+				"end": 226.444,
+				"confidence": 0.666
+			},
+			{
+				"word": "clients",
+				"start": 226.464,
+				"end": 226.704,
+				"confidence": 0.365
+			},
+			{
+				"word": "qui",
+				"start": 226.724,
+				"end": 226.784,
+				"confidence": 0.476
+			},
+			{
+				"word": "pleurent",
+				"start": 226.804,
+				"end": 227.025,
+				"confidence": 0.334
+			},
+			{
+				"word": "nichés,",
+				"start": 227.045,
+				"end": 227.505,
+				"confidence": 0.775
+			},
+			{
+				"word": "potassez",
+				"start": 227.525,
+				"end": 227.925,
+				"confidence": 0.726
+			},
+			{
+				"word": "des",
+				"start": 227.986,
+				"end": 228.046,
+				"confidence": 0.892
+			},
+			{
+				"word": "textes",
+				"start": 228.086,
+				"end": 228.246,
+				"confidence": 0.817
+			},
+			{
+				"word": "de",
+				"start": 228.286,
+				"end": 228.346,
+				"confidence": 0.114
+			},
+			{
+				"word": "l'autre",
+				"start": 228.366,
+				"end": 228.546,
+				"confidence": 0.197
+			},
+			{
+				"word": "de",
+				"start": 228.566,
+				"end": 228.606,
+				"confidence": 0.568
+			},
+			{
+				"word": "la",
+				"start": 228.646,
+				"end": 228.686,
+				"confidence": 0.969
+			},
+			{
+				"word": "journée.",
+				"start": 228.706,
+				"end": 228.927,
+				"confidence": 0.809
+			}
+		]
+	},
+	{
+		"start": 228.947,
+		"end": 233.411,
+		"sentence": "Écoutez toi, il y a des magistrats qui sont quand même les plus sinistres êtres humains que la terre porte, vous êtes d'accord avec moi ?",
+		"words": [
+			{
+				"word": "Écoutez",
+				"start": 228.947,
+				"end": 229.087,
+				"confidence": 0.091
+			},
+			{
+				"word": "toi,",
+				"start": 229.107,
+				"end": 229.187,
+				"confidence": 0.252
+			},
+			{
+				"word": "il",
+				"start": 229.207,
+				"end": 229.247,
+				"confidence": 0.01
+			},
+			{
+				"word": "y",
+				"start": 229.267,
+				"end": 229.287,
+				"confidence": 0.051
+			},
+			{
+				"word": "a",
+				"start": 229.307,
+				"end": 229.327,
+				"confidence": 0.126
+			},
+			{
+				"word": "des",
+				"start": 229.347,
+				"end": 229.427,
+				"confidence": 0.82
+			},
+			{
+				"word": "magistrats",
+				"start": 229.467,
+				"end": 229.928,
+				"confidence": 0.773
+			},
+			{
+				"word": "qui",
+				"start": 229.948,
+				"end": 230.048,
+				"confidence": 0.907
+			},
+			{
+				"word": "sont",
+				"start": 230.088,
+				"end": 230.188,
+				"confidence": 0.712
+			},
+			{
+				"word": "quand",
+				"start": 230.208,
+				"end": 230.308,
+				"confidence": 0.67
+			},
+			{
+				"word": "même",
+				"start": 230.328,
+				"end": 230.448,
+				"confidence": 0.878
+			},
+			{
+				"word": "les",
+				"start": 230.468,
+				"end": 230.548,
+				"confidence": 0.834
+			},
+			{
+				"word": "plus",
+				"start": 230.588,
+				"end": 230.688,
+				"confidence": 0.768
+			},
+			{
+				"word": "sinistres",
+				"start": 230.748,
+				"end": 231.189,
+				"confidence": 0.65
+			},
+			{
+				"word": "êtres",
+				"start": 231.249,
+				"end": 231.409,
+				"confidence": 0.846
+			},
+			{
+				"word": "humains",
+				"start": 231.449,
+				"end": 231.609,
+				"confidence": 0.976
+			},
+			{
+				"word": "que",
+				"start": 231.629,
+				"end": 231.749,
+				"confidence": 0.241
+			},
+			{
+				"word": "la",
+				"start": 231.769,
+				"end": 231.809,
+				"confidence": 0.71
+			},
+			{
+				"word": "terre",
+				"start": 231.85,
+				"end": 231.99,
+				"confidence": 0.498
+			},
+			{
+				"word": "porte,",
+				"start": 232.01,
+				"end": 232.13,
+				"confidence": 0.143
+			},
+			{
+				"word": "vous",
+				"start": 232.15,
+				"end": 232.23,
+				"confidence": 0.735
+			},
+			{
+				"word": "êtes",
+				"start": 232.25,
+				"end": 232.37,
+				"confidence": 0.504
+			},
+			{
+				"word": "d'accord",
+				"start": 232.39,
+				"end": 232.57,
+				"confidence": 0.597
+			},
+			{
+				"word": "avec",
+				"start": 232.61,
+				"end": 232.77,
+				"confidence": 0.736
+			},
+			{
+				"word": "moi",
+				"start": 232.79,
+				"end": 233.371,
+				"confidence": 0.771
+			},
+			{
+				"word": "?",
+				"start": 233.391,
+				"end": 233.411,
+				"confidence": 0.139
+			}
+		]
+	},
+	{
+		"start": 233.431,
+		"end": 244.502,
+		"sentence": "Franchement, s'il n'y a pas le pognon, fuck quoi !",
+		"words": [
+			{
+				"word": "Franchement,",
+				"start": 233.431,
+				"end": 233.852,
+				"confidence": 0.468
+			},
+			{
+				"word": "s'il",
+				"start": 233.872,
+				"end": 233.952,
+				"confidence": 0.729
+			},
+			{
+				"word": "n'y",
+				"start": 233.972,
+				"end": 234.032,
+				"confidence": 0.234
+			},
+			{
+				"word": "a",
+				"start": 234.052,
+				"end": 234.072,
+				"confidence": 0.903
+			},
+			{
+				"word": "pas",
+				"start": 234.092,
+				"end": 234.192,
+				"confidence": 0.708
+			},
+			{
+				"word": "le",
+				"start": 234.232,
+				"end": 234.272,
+				"confidence": 0.926
+			},
+			{
+				"word": "pognon,",
+				"start": 234.312,
+				"end": 234.773,
+				"confidence": 0.764
+			},
+			{
+				"word": "fuck",
+				"start": 244.282,
+				"end": 244.362,
+				"confidence": 0.0
+			},
+			{
+				"word": "quoi",
+				"start": 244.382,
+				"end": 244.462,
+				"confidence": 0.001
+			},
+			{
+				"word": "!",
+				"start": 244.482,
+				"end": 244.502,
+				"confidence": 0.46
+			}
+		]
+	},
+	{
+		"start": 244.523,
+		"end": 248.907,
+		"sentence": "Je comprends que vous disiez ça, mais si l'on est un tout petit peu sérieux, sans être lourd,",
+		"words": [
+			{
+				"word": "Je",
+				"start": 244.523,
+				"end": 244.623,
+				"confidence": 0.984
+			},
+			{
+				"word": "comprends",
+				"start": 244.683,
+				"end": 244.923,
+				"confidence": 0.945
+			},
+			{
+				"word": "que",
+				"start": 244.943,
+				"end": 245.023,
+				"confidence": 0.807
+			},
+			{
+				"word": "vous",
+				"start": 245.043,
+				"end": 245.143,
+				"confidence": 0.644
+			},
+			{
+				"word": "disiez",
+				"start": 245.203,
+				"end": 245.504,
+				"confidence": 0.708
+			},
+			{
+				"word": "ça,",
+				"start": 245.624,
+				"end": 245.764,
+				"confidence": 0.774
+			},
+			{
+				"word": "mais",
+				"start": 245.784,
+				"end": 245.984,
+				"confidence": 0.905
+			},
+			{
+				"word": "si",
+				"start": 246.024,
+				"end": 246.184,
+				"confidence": 0.979
+			},
+			{
+				"word": "l'on",
+				"start": 246.224,
+				"end": 246.324,
+				"confidence": 0.678
+			},
+			{
+				"word": "est",
+				"start": 246.384,
+				"end": 246.825,
+				"confidence": 0.439
+			},
+			{
+				"word": "un",
+				"start": 246.845,
+				"end": 246.885,
+				"confidence": 0.472
+			},
+			{
+				"word": "tout",
+				"start": 246.905,
+				"end": 247.005,
+				"confidence": 0.788
+			},
+			{
+				"word": "petit",
+				"start": 247.025,
+				"end": 247.205,
+				"confidence": 0.574
+			},
+			{
+				"word": "peu",
+				"start": 247.245,
+				"end": 247.385,
+				"confidence": 0.765
+			},
+			{
+				"word": "sérieux,",
+				"start": 247.446,
+				"end": 247.906,
+				"confidence": 0.861
+			},
+			{
+				"word": "sans",
+				"start": 247.926,
+				"end": 248.126,
+				"confidence": 0.87
+			},
+			{
+				"word": "être",
+				"start": 248.186,
+				"end": 248.447,
+				"confidence": 0.892
+			},
+			{
+				"word": "lourd,",
+				"start": 248.487,
+				"end": 248.907,
+				"confidence": 0.804
+			}
+		]
+	},
+	{
+		"start": 251.367,
+		"end": 253.611,
+		"sentence": " On s'entend de ne pas être lourd.",
+		"words": [
+			{
+				"word": "On",
+				"start": 251.367,
+				"end": 251.668,
+				"confidence": 0.457
+			},
+			{
+				"word": "s'entend",
+				"start": 251.688,
+				"end": 252.008,
+				"confidence": 0.595
+			},
+			{
+				"word": "de",
+				"start": 252.048,
+				"end": 252.088,
+				"confidence": 0.553
+			},
+			{
+				"word": "ne",
+				"start": 252.108,
+				"end": 252.209,
+				"confidence": 0.428
+			},
+			{
+				"word": "pas",
+				"start": 252.249,
+				"end": 252.349,
+				"confidence": 0.937
+			},
+			{
+				"word": "être",
+				"start": 252.409,
+				"end": 252.609,
+				"confidence": 0.691
+			},
+			{
+				"word": "lourd.",
+				"start": 252.629,
+				"end": 253.611,
+				"confidence": 0.749
+			}
+		]
+	},
+	{
+		"start": 253.651,
+		"end": 255.354,
+		"sentence": "C'est un métier d'idéal.",
+		"words": [
+			{
+				"word": "C'est",
+				"start": 253.651,
+				"end": 253.832,
+				"confidence": 0.7
+			},
+			{
+				"word": "un",
+				"start": 253.892,
+				"end": 253.952,
+				"confidence": 0.986
+			},
+			{
+				"word": "métier",
+				"start": 253.992,
+				"end": 254.272,
+				"confidence": 0.811
+			},
+			{
+				"word": "d'idéal.",
+				"start": 254.313,
+				"end": 255.354,
+				"confidence": 0.761
+			}
+		]
+	},
+	{
+		"start": 255.374,
+		"end": 259.061,
+		"sentence": "Ensuite, comme souvent, l'idéal se corrompt au cours de route.",
+		"words": [
+			{
+				"word": "Ensuite,",
+				"start": 255.374,
+				"end": 255.835,
+				"confidence": 0.825
+			},
+			{
+				"word": "comme",
+				"start": 255.855,
+				"end": 256.076,
+				"confidence": 0.919
+			},
+			{
+				"word": "souvent,",
+				"start": 256.116,
+				"end": 256.577,
+				"confidence": 0.986
+			},
+			{
+				"word": "l'idéal",
+				"start": 256.617,
+				"end": 257.058,
+				"confidence": 0.911
+			},
+			{
+				"word": "se",
+				"start": 257.098,
+				"end": 257.238,
+				"confidence": 0.938
+			},
+			{
+				"word": "corrompt",
+				"start": 257.278,
+				"end": 257.799,
+				"confidence": 0.572
+			},
+			{
+				"word": "au",
+				"start": 257.859,
+				"end": 257.919,
+				"confidence": 0.387
+			},
+			{
+				"word": "cours",
+				"start": 257.959,
+				"end": 258.12,
+				"confidence": 0.719
+			},
+			{
+				"word": "de",
+				"start": 258.16,
+				"end": 258.22,
+				"confidence": 0.958
+			},
+			{
+				"word": "route.",
+				"start": 258.28,
+				"end": 259.061,
+				"confidence": 0.812
+			}
+		]
+	},
+	{
+		"start": 259.081,
+		"end": 273.308,
+		"sentence": "Mais lorsque vous décidez de porter la robe à 20 ans, c'est parce que vous voulez aider les gens à vivre, parce que vous voulez faire en sorte que la justice soit moins injuste, parce que vous voulez être le compagnon des solitudes, parce que vous voulez rétablir les harmonies.",
+		"words": [
+			{
+				"word": "Mais",
+				"start": 259.081,
+				"end": 259.222,
+				"confidence": 0.973
+			},
+			{
+				"word": "lorsque",
+				"start": 259.282,
+				"end": 259.562,
+				"confidence": 0.846
+			},
+			{
+				"word": "vous",
+				"start": 259.582,
+				"end": 259.703,
+				"confidence": 0.83
+			},
+			{
+				"word": "décidez",
+				"start": 259.763,
+				"end": 260.063,
+				"confidence": 0.951
+			},
+			{
+				"word": "de",
+				"start": 260.123,
+				"end": 260.183,
+				"confidence": 0.987
+			},
+			{
+				"word": "porter",
+				"start": 260.244,
+				"end": 260.464,
+				"confidence": 0.89
+			},
+			{
+				"word": "la",
+				"start": 260.524,
+				"end": 260.584,
+				"confidence": 0.98
+			},
+			{
+				"word": "robe",
+				"start": 260.644,
+				"end": 260.885,
+				"confidence": 0.914
+			},
+			{
+				"word": "à",
+				"start": 260.945,
+				"end": 261.225,
+				"confidence": 0.991
+			},
+			{
+				"word": "20",
+				"start": 261.245,
+				"end": 261.446,
+				"confidence": 0.654
+			},
+			{
+				"word": "ans,",
+				"start": 261.506,
+				"end": 262.508,
+				"confidence": 0.957
+			},
+			{
+				"word": "c'est",
+				"start": 262.548,
+				"end": 262.768,
+				"confidence": 0.644
+			},
+			{
+				"word": "parce",
+				"start": 262.808,
+				"end": 263.129,
+				"confidence": 0.9
+			},
+			{
+				"word": "que",
+				"start": 263.189,
+				"end": 263.51,
+				"confidence": 0.942
+			},
+			{
+				"word": "vous",
+				"start": 263.53,
+				"end": 263.67,
+				"confidence": 0.661
+			},
+			{
+				"word": "voulez",
+				"start": 263.71,
+				"end": 264.071,
+				"confidence": 0.817
+			},
+			{
+				"word": "aider",
+				"start": 264.111,
+				"end": 264.331,
+				"confidence": 0.72
+			},
+			{
+				"word": "les",
+				"start": 264.371,
+				"end": 264.451,
+				"confidence": 0.933
+			},
+			{
+				"word": "gens",
+				"start": 264.472,
+				"end": 264.612,
+				"confidence": 0.426
+			},
+			{
+				"word": "à",
+				"start": 264.652,
+				"end": 264.692,
+				"confidence": 0.356
+			},
+			{
+				"word": "vivre,",
+				"start": 264.732,
+				"end": 265.574,
+				"confidence": 0.91
+			},
+			{
+				"word": "parce",
+				"start": 265.594,
+				"end": 265.754,
+				"confidence": 0.793
+			},
+			{
+				"word": "que",
+				"start": 265.774,
+				"end": 265.834,
+				"confidence": 0.944
+			},
+			{
+				"word": "vous",
+				"start": 265.854,
+				"end": 265.934,
+				"confidence": 0.652
+			},
+			{
+				"word": "voulez",
+				"start": 265.954,
+				"end": 266.075,
+				"confidence": 0.167
+			},
+			{
+				"word": "faire",
+				"start": 266.095,
+				"end": 266.235,
+				"confidence": 0.673
+			},
+			{
+				"word": "en",
+				"start": 266.275,
+				"end": 266.355,
+				"confidence": 0.769
+			},
+			{
+				"word": "sorte",
+				"start": 266.395,
+				"end": 266.595,
+				"confidence": 0.826
+			},
+			{
+				"word": "que",
+				"start": 266.636,
+				"end": 266.736,
+				"confidence": 0.824
+			},
+			{
+				"word": "la",
+				"start": 266.796,
+				"end": 266.876,
+				"confidence": 0.987
+			},
+			{
+				"word": "justice",
+				"start": 266.916,
+				"end": 267.277,
+				"confidence": 0.929
+			},
+			{
+				"word": "soit",
+				"start": 267.357,
+				"end": 267.517,
+				"confidence": 0.725
+			},
+			{
+				"word": "moins",
+				"start": 267.577,
+				"end": 267.738,
+				"confidence": 0.795
+			},
+			{
+				"word": "injuste,",
+				"start": 267.798,
+				"end": 268.76,
+				"confidence": 0.901
+			},
+			{
+				"word": "parce",
+				"start": 268.78,
+				"end": 268.96,
+				"confidence": 0.855
+			},
+			{
+				"word": "que",
+				"start": 268.98,
+				"end": 269.06,
+				"confidence": 0.908
+			},
+			{
+				"word": "vous",
+				"start": 269.1,
+				"end": 269.18,
+				"confidence": 0.527
+			},
+			{
+				"word": "voulez",
+				"start": 269.2,
+				"end": 269.321,
+				"confidence": 0.166
+			},
+			{
+				"word": "être",
+				"start": 269.341,
+				"end": 269.481,
+				"confidence": 0.619
+			},
+			{
+				"word": "le",
+				"start": 269.541,
+				"end": 269.601,
+				"confidence": 0.953
+			},
+			{
+				"word": "compagnon",
+				"start": 269.661,
+				"end": 270.022,
+				"confidence": 0.885
+			},
+			{
+				"word": "des",
+				"start": 270.042,
+				"end": 270.162,
+				"confidence": 0.712
+			},
+			{
+				"word": "solitudes,",
+				"start": 270.182,
+				"end": 271.284,
+				"confidence": 0.773
+			},
+			{
+				"word": "parce",
+				"start": 271.304,
+				"end": 271.465,
+				"confidence": 0.744
+			},
+			{
+				"word": "que",
+				"start": 271.485,
+				"end": 271.585,
+				"confidence": 0.785
+			},
+			{
+				"word": "vous",
+				"start": 271.605,
+				"end": 271.685,
+				"confidence": 0.352
+			},
+			{
+				"word": "voulez",
+				"start": 271.705,
+				"end": 271.966,
+				"confidence": 0.392
+			},
+			{
+				"word": "rétablir",
+				"start": 272.026,
+				"end": 272.547,
+				"confidence": 0.835
+			},
+			{
+				"word": "les",
+				"start": 272.607,
+				"end": 272.707,
+				"confidence": 0.958
+			},
+			{
+				"word": "harmonies.",
+				"start": 272.767,
+				"end": 273.308,
+				"confidence": 0.902
+			}
+		]
+	},
+	{
+		"start": 273.457,
+		"end": 275.259,
+		"sentence": " — Ensuite... — Ça, c'est l'idéal.",
+		"words": [
+			{
+				"word": "—",
+				"start": 273.457,
+				"end": 274.298,
+				"confidence": 0.781
+			},
+			{
+				"word": "Ensuite...",
+				"start": 274.318,
+				"end": 274.839,
+				"confidence": 0.078
+			},
+			{
+				"word": "—",
+				"start": 274.859,
+				"end": 274.879,
+				"confidence": 0.005
+			},
+			{
+				"word": "Ça,",
+				"start": 274.899,
+				"end": 274.959,
+				"confidence": 0.007
+			},
+			{
+				"word": "c'est",
+				"start": 274.979,
+				"end": 275.079,
+				"confidence": 0.008
+			},
+			{
+				"word": "l'idéal.",
+				"start": 275.099,
+				"end": 275.259,
+				"confidence": 0.096
+			}
+		]
+	},
+	{
+		"start": 275.28,
+		"end": 275.96,
+		"sentence": "— Ça, c'est l'idéal.",
+		"words": [
+			{
+				"word": "—",
+				"start": 275.28,
+				"end": 275.42,
+				"confidence": 0.542
+			},
+			{
+				"word": "Ça,",
+				"start": 275.44,
+				"end": 275.5,
+				"confidence": 0.191
+			},
+			{
+				"word": "c'est",
+				"start": 275.52,
+				"end": 275.62,
+				"confidence": 0.062
+			},
+			{
+				"word": "l'idéal.",
+				"start": 275.64,
+				"end": 275.96,
+				"confidence": 0.304
+			}
+		]
+	},
+	{
+		"start": 275.98,
+		"end": 280.367,
+		"sentence": "— Je peux vous dire que de ma promotion, on n'a pas beaucoup qu'il caressait.",
+		"words": [
+			{
+				"word": "—",
+				"start": 275.98,
+				"end": 276.001,
+				"confidence": 0.249
+			},
+			{
+				"word": "Je",
+				"start": 276.021,
+				"end": 276.061,
+				"confidence": 0.63
+			},
+			{
+				"word": "peux",
+				"start": 276.081,
+				"end": 276.161,
+				"confidence": 0.473
+			},
+			{
+				"word": "vous",
+				"start": 276.181,
+				"end": 276.281,
+				"confidence": 0.861
+			},
+			{
+				"word": "dire",
+				"start": 276.301,
+				"end": 276.441,
+				"confidence": 0.737
+			},
+			{
+				"word": "que",
+				"start": 276.461,
+				"end": 276.541,
+				"confidence": 0.725
+			},
+			{
+				"word": "de",
+				"start": 276.581,
+				"end": 276.641,
+				"confidence": 0.589
+			},
+			{
+				"word": "ma",
+				"start": 276.661,
+				"end": 276.762,
+				"confidence": 0.63
+			},
+			{
+				"word": "promotion,",
+				"start": 276.802,
+				"end": 277.162,
+				"confidence": 0.854
+			},
+			{
+				"word": "on",
+				"start": 277.182,
+				"end": 277.222,
+				"confidence": 0.387
+			},
+			{
+				"word": "n'a",
+				"start": 277.242,
+				"end": 277.382,
+				"confidence": 0.748
+			},
+			{
+				"word": "pas",
+				"start": 277.402,
+				"end": 277.563,
+				"confidence": 0.752
+			},
+			{
+				"word": "beaucoup",
+				"start": 277.603,
+				"end": 277.863,
+				"confidence": 0.811
+			},
+			{
+				"word": "qu'il",
+				"start": 277.903,
+				"end": 278.143,
+				"confidence": 0.721
+			},
+			{
+				"word": "caressait.",
+				"start": 278.163,
+				"end": 280.367,
+				"confidence": 0.281
+			}
+		]
+	},
+	{
+		"start": 280.387,
+		"end": 282.77,
+		"sentence": "— Bon, vous restez libres de vos caresses.",
+		"words": [
+			{
+				"word": "—",
+				"start": 280.387,
+				"end": 280.407,
+				"confidence": 0.306
+			},
+			{
+				"word": "Bon,",
+				"start": 280.427,
+				"end": 281.108,
+				"confidence": 0.774
+			},
+			{
+				"word": "vous",
+				"start": 281.128,
+				"end": 281.268,
+				"confidence": 0.924
+			},
+			{
+				"word": "restez",
+				"start": 281.308,
+				"end": 281.588,
+				"confidence": 0.902
+			},
+			{
+				"word": "libres",
+				"start": 281.628,
+				"end": 281.889,
+				"confidence": 0.812
+			},
+			{
+				"word": "de",
+				"start": 281.929,
+				"end": 282.009,
+				"confidence": 0.94
+			},
+			{
+				"word": "vos",
+				"start": 282.049,
+				"end": 282.149,
+				"confidence": 0.823
+			},
+			{
+				"word": "caresses.",
+				"start": 282.189,
+				"end": 282.77,
+				"confidence": 0.639
+			}
+		]
+	},
+	{
+		"start": 282.79,
+		"end": 291.782,
+		"sentence": "Je préfère les miennes.",
+		"words": [
+			{
+				"word": "Je",
+				"start": 282.79,
+				"end": 282.89,
+				"confidence": 0.927
+			},
+			{
+				"word": "préfère",
+				"start": 282.95,
+				"end": 291.522,
+				"confidence": 0.842
+			},
+			{
+				"word": "les",
+				"start": 291.542,
+				"end": 291.602,
+				"confidence": 0.001
+			},
+			{
+				"word": "miennes.",
+				"start": 291.622,
+				"end": 291.782,
+				"confidence": 0.001
+			}
+		]
+	},
+	{
+		"start": 291.802,
+		"end": 297.69,
+		"sentence": "— J'ai lu... J'ai lu... J'ai lu que la rémunération horaire pour un avocat établi à Genève était d'au moins 100 francs supérieurs à ce qui se pratique à Lausanne.",
+		"words": [
+			{
+				"word": "—",
+				"start": 291.802,
+				"end": 291.822,
+				"confidence": 0.004
+			},
+			{
+				"word": "J'ai",
+				"start": 291.842,
+				"end": 291.922,
+				"confidence": 0.002
+			},
+			{
+				"word": "lu...",
+				"start": 291.943,
+				"end": 292.043,
+				"confidence": 0.001
+			},
+			{
+				"word": "J'ai",
+				"start": 292.063,
+				"end": 292.143,
+				"confidence": 0.001
+			},
+			{
+				"word": "lu...",
+				"start": 292.163,
+				"end": 292.263,
+				"confidence": 0.293
+			},
+			{
+				"word": "J'ai",
+				"start": 292.283,
+				"end": 292.383,
+				"confidence": 0.73
+			},
+			{
+				"word": "lu",
+				"start": 292.403,
+				"end": 292.503,
+				"confidence": 0.855
+			},
+			{
+				"word": "que",
+				"start": 292.523,
+				"end": 292.603,
+				"confidence": 0.66
+			},
+			{
+				"word": "la",
+				"start": 292.643,
+				"end": 292.684,
+				"confidence": 0.982
+			},
+			{
+				"word": "rémunération",
+				"start": 292.724,
+				"end": 293.164,
+				"confidence": 0.886
+			},
+			{
+				"word": "horaire",
+				"start": 293.204,
+				"end": 293.445,
+				"confidence": 0.458
+			},
+			{
+				"word": "pour",
+				"start": 293.485,
+				"end": 293.565,
+				"confidence": 0.991
+			},
+			{
+				"word": "un",
+				"start": 293.585,
+				"end": 293.645,
+				"confidence": 0.744
+			},
+			{
+				"word": "avocat",
+				"start": 293.685,
+				"end": 293.925,
+				"confidence": 0.967
+			},
+			{
+				"word": "établi",
+				"start": 293.985,
+				"end": 294.246,
+				"confidence": 0.92
+			},
+			{
+				"word": "à",
+				"start": 294.286,
+				"end": 294.326,
+				"confidence": 0.65
+			},
+			{
+				"word": "Genève",
+				"start": 294.406,
+				"end": 294.706,
+				"confidence": 0.957
+			},
+			{
+				"word": "était",
+				"start": 294.766,
+				"end": 295.207,
+				"confidence": 0.978
+			},
+			{
+				"word": "d'au",
+				"start": 295.247,
+				"end": 295.467,
+				"confidence": 0.861
+			},
+			{
+				"word": "moins",
+				"start": 295.507,
+				"end": 295.768,
+				"confidence": 0.676
+			},
+			{
+				"word": "100",
+				"start": 295.788,
+				"end": 295.928,
+				"confidence": 0.774
+			},
+			{
+				"word": "francs",
+				"start": 295.968,
+				"end": 296.108,
+				"confidence": 0.593
+			},
+			{
+				"word": "supérieurs",
+				"start": 296.168,
+				"end": 296.449,
+				"confidence": 0.791
+			},
+			{
+				"word": "à",
+				"start": 296.469,
+				"end": 296.489,
+				"confidence": 0.601
+			},
+			{
+				"word": "ce",
+				"start": 296.529,
+				"end": 296.569,
+				"confidence": 0.978
+			},
+			{
+				"word": "qui",
+				"start": 296.589,
+				"end": 296.689,
+				"confidence": 0.785
+			},
+			{
+				"word": "se",
+				"start": 296.729,
+				"end": 296.809,
+				"confidence": 0.824
+			},
+			{
+				"word": "pratique",
+				"start": 296.849,
+				"end": 297.09,
+				"confidence": 0.808
+			},
+			{
+				"word": "à",
+				"start": 297.15,
+				"end": 297.19,
+				"confidence": 0.935
+			},
+			{
+				"word": "Lausanne.",
+				"start": 297.23,
+				"end": 297.69,
+				"confidence": 0.594
+			}
+		]
+	},
+	{
+		"start": 297.71,
+		"end": 299.193,
+		"sentence": "— Oui, chez nous, c'est 350 balles d'heure.",
+		"words": [
+			{
+				"word": "—",
+				"start": 297.71,
+				"end": 297.731,
+				"confidence": 0.25
+			},
+			{
+				"word": "Oui,",
+				"start": 297.751,
+				"end": 297.831,
+				"confidence": 0.068
+			},
+			{
+				"word": "chez",
+				"start": 297.851,
+				"end": 297.931,
+				"confidence": 0.887
+			},
+			{
+				"word": "nous,",
+				"start": 297.971,
+				"end": 298.071,
+				"confidence": 0.433
+			},
+			{
+				"word": "c'est",
+				"start": 298.091,
+				"end": 298.472,
+				"confidence": 0.413
+			},
+			{
+				"word": "350",
+				"start": 298.492,
+				"end": 298.792,
+				"confidence": 0.476
+			},
+			{
+				"word": "balles",
+				"start": 298.812,
+				"end": 299.012,
+				"confidence": 0.305
+			},
+			{
+				"word": "d'heure.",
+				"start": 299.032,
+				"end": 299.193,
+				"confidence": 0.042
+			}
+		]
+	},
+	{
+		"start": 299.213,
+		"end": 300.274,
+		"sentence": "— Pourquoi cette différence ?",
+		"words": [
+			{
+				"word": "—",
+				"start": 299.213,
+				"end": 299.233,
+				"confidence": 0.0
+			},
+			{
+				"word": "Pourquoi",
+				"start": 299.253,
+				"end": 299.473,
+				"confidence": 0.484
+			},
+			{
+				"word": "cette",
+				"start": 299.493,
+				"end": 299.653,
+				"confidence": 0.51
+			},
+			{
+				"word": "différence",
+				"start": 299.673,
+				"end": 300.234,
+				"confidence": 0.765
+			},
+			{
+				"word": "?",
+				"start": 300.254,
+				"end": 300.274,
+				"confidence": 0.998
+			}
+		]
+	},
+	{
+		"start": 301.874,
+		"end": 309.643,
+		"sentence": " Il y a une différence entre les avocats des villes et les avocats des champs ?",
+		"words": [
+			{
+				"word": "Il",
+				"start": 301.874,
+				"end": 302.114,
+				"confidence": 0.308
+			},
+			{
+				"word": "y",
+				"start": 302.134,
+				"end": 302.154,
+				"confidence": 0.133
+			},
+			{
+				"word": "a",
+				"start": 302.174,
+				"end": 302.194,
+				"confidence": 0.138
+			},
+			{
+				"word": "une",
+				"start": 302.214,
+				"end": 302.274,
+				"confidence": 0.088
+			},
+			{
+				"word": "différence",
+				"start": 302.295,
+				"end": 302.695,
+				"confidence": 0.263
+			},
+			{
+				"word": "entre",
+				"start": 302.735,
+				"end": 302.955,
+				"confidence": 0.811
+			},
+			{
+				"word": "les",
+				"start": 302.995,
+				"end": 303.095,
+				"confidence": 0.989
+			},
+			{
+				"word": "avocats",
+				"start": 303.136,
+				"end": 303.616,
+				"confidence": 0.857
+			},
+			{
+				"word": "des",
+				"start": 303.636,
+				"end": 303.836,
+				"confidence": 0.58
+			},
+			{
+				"word": "villes",
+				"start": 303.876,
+				"end": 304.057,
+				"confidence": 0.617
+			},
+			{
+				"word": "et",
+				"start": 304.097,
+				"end": 304.157,
+				"confidence": 0.384
+			},
+			{
+				"word": "les",
+				"start": 304.197,
+				"end": 304.297,
+				"confidence": 0.896
+			},
+			{
+				"word": "avocats",
+				"start": 304.337,
+				"end": 304.637,
+				"confidence": 0.725
+			},
+			{
+				"word": "des",
+				"start": 304.657,
+				"end": 304.777,
+				"confidence": 0.391
+			},
+			{
+				"word": "champs",
+				"start": 304.797,
+				"end": 309.603,
+				"confidence": 0.592
+			},
+			{
+				"word": "?",
+				"start": 309.623,
+				"end": 309.643,
+				"confidence": 0.002
+			}
+		]
+	},
+	{
+		"start": 309.663,
+		"end": 309.723,
+		"sentence": "Ok.",
+		"words": [
+			{
+				"word": "Ok.",
+				"start": 309.663,
+				"end": 309.723,
+				"confidence": 0.016
+			}
+		]
+	},
+	{
+		"start": 309.743,
+		"end": 309.924,
+		"sentence": "Mais bon.",
+		"words": [
+			{
+				"word": "Mais",
+				"start": 309.743,
+				"end": 309.824,
+				"confidence": 0.048
+			},
+			{
+				"word": "bon.",
+				"start": 309.844,
+				"end": 309.924,
+				"confidence": 0.017
+			}
+		]
+	},
+	{
+		"start": 309.944,
+		"end": 311.906,
+		"sentence": "Et c'est moi qui suis nous.",
+		"words": [
+			{
+				"word": "Et",
+				"start": 309.944,
+				"end": 309.984,
+				"confidence": 0.038
+			},
+			{
+				"word": "c'est",
+				"start": 310.004,
+				"end": 310.124,
+				"confidence": 0.336
+			},
+			{
+				"word": "moi",
+				"start": 310.164,
+				"end": 310.464,
+				"confidence": 0.577
+			},
+			{
+				"word": "qui",
+				"start": 310.484,
+				"end": 310.544,
+				"confidence": 0.001
+			},
+			{
+				"word": "suis",
+				"start": 310.564,
+				"end": 310.644,
+				"confidence": 0.012
+			},
+			{
+				"word": "nous.",
+				"start": 310.665,
+				"end": 311.906,
+				"confidence": 0.662
+			}
+		]
+	},
+	{
+		"start": 312.186,
+		"end": 313.848,
+		"sentence": "Vous gagnez beaucoup d'argent, maître Bardet ?",
+		"words": [
+			{
+				"word": "Vous",
+				"start": 312.186,
+				"end": 312.286,
+				"confidence": 0.858
+			},
+			{
+				"word": "gagnez",
+				"start": 312.306,
+				"end": 312.507,
+				"confidence": 0.878
+			},
+			{
+				"word": "beaucoup",
+				"start": 312.527,
+				"end": 312.727,
+				"confidence": 0.701
+			},
+			{
+				"word": "d'argent,",
+				"start": 312.747,
+				"end": 313.027,
+				"confidence": 0.778
+			},
+			{
+				"word": "maître",
+				"start": 313.107,
+				"end": 313.468,
+				"confidence": 0.658
+			},
+			{
+				"word": "Bardet",
+				"start": 313.688,
+				"end": 313.808,
+				"confidence": 0.001
+			},
+			{
+				"word": "?",
+				"start": 313.828,
+				"end": 313.848,
+				"confidence": 0.046
+			}
+		]
+	},
+	{
+		"start": 313.868,
+		"end": 317.152,
+		"sentence": "Ouais, moi, je suis dans des passages, j'ai fait 220 000 balles de revenus d'activité adépendante.",
+		"words": [
+			{
+				"word": "Ouais,",
+				"start": 313.868,
+				"end": 313.988,
+				"confidence": 0.044
+			},
+			{
+				"word": "moi,",
+				"start": 314.009,
+				"end": 314.089,
+				"confidence": 0.103
+			},
+			{
+				"word": "je",
+				"start": 314.109,
+				"end": 314.149,
+				"confidence": 0.035
+			},
+			{
+				"word": "suis",
+				"start": 314.169,
+				"end": 314.249,
+				"confidence": 0.002
+			},
+			{
+				"word": "dans",
+				"start": 314.269,
+				"end": 314.349,
+				"confidence": 0.038
+			},
+			{
+				"word": "des",
+				"start": 314.369,
+				"end": 314.429,
+				"confidence": 0.048
+			},
+			{
+				"word": "passages,",
+				"start": 314.449,
+				"end": 314.629,
+				"confidence": 0.125
+			},
+			{
+				"word": "j'ai",
+				"start": 314.649,
+				"end": 314.749,
+				"confidence": 0.833
+			},
+			{
+				"word": "fait",
+				"start": 314.769,
+				"end": 314.89,
+				"confidence": 0.799
+			},
+			{
+				"word": "220",
+				"start": 314.91,
+				"end": 315.13,
+				"confidence": 0.723
+			},
+			{
+				"word": "000",
+				"start": 315.15,
+				"end": 315.27,
+				"confidence": 0.762
+			},
+			{
+				"word": "balles",
+				"start": 315.47,
+				"end": 315.65,
+				"confidence": 0.746
+			},
+			{
+				"word": "de",
+				"start": 315.67,
+				"end": 315.731,
+				"confidence": 0.822
+			},
+			{
+				"word": "revenus",
+				"start": 315.771,
+				"end": 316.011,
+				"confidence": 0.929
+			},
+			{
+				"word": "d'activité",
+				"start": 316.031,
+				"end": 316.431,
+				"confidence": 0.898
+			},
+			{
+				"word": "adépendante.",
+				"start": 316.471,
+				"end": 317.152,
+				"confidence": 0.281
+			}
+		]
+	},
+	{
+		"start": 317.172,
+		"end": 318.734,
+		"sentence": "Je suis racheté d'affaires de 550.",
+		"words": [
+			{
+				"word": "Je",
+				"start": 317.172,
+				"end": 317.212,
+				"confidence": 0.008
+			},
+			{
+				"word": "suis",
+				"start": 317.232,
+				"end": 317.312,
+				"confidence": 0.167
+			},
+			{
+				"word": "racheté",
+				"start": 317.393,
+				"end": 317.573,
+				"confidence": 0.344
+			},
+			{
+				"word": "d'affaires",
+				"start": 317.593,
+				"end": 317.953,
+				"confidence": 0.614
+			},
+			{
+				"word": "de",
+				"start": 317.973,
+				"end": 318.173,
+				"confidence": 0.92
+			},
+			{
+				"word": "550.",
+				"start": 318.194,
+				"end": 318.734,
+				"confidence": 0.506
+			}
+		]
+	},
+	{
+		"start": 319.315,
+		"end": 321.157,
+		"sentence": "Je suis 350 balles de l'heure.",
+		"words": [
+			{
+				"word": "Je",
+				"start": 319.315,
+				"end": 319.355,
+				"confidence": 0.77
+			},
+			{
+				"word": "suis",
+				"start": 319.395,
+				"end": 319.635,
+				"confidence": 0.705
+			},
+			{
+				"word": "350",
+				"start": 319.655,
+				"end": 319.755,
+				"confidence": 0.668
+			},
+			{
+				"word": "balles",
+				"start": 320.076,
+				"end": 320.216,
+				"confidence": 0.737
+			},
+			{
+				"word": "de",
+				"start": 320.236,
+				"end": 320.296,
+				"confidence": 0.75
+			},
+			{
+				"word": "l'heure.",
+				"start": 320.316,
+				"end": 321.157,
+				"confidence": 0.529
+			}
+		]
+	},
+	{
+		"start": 321.177,
+		"end": 323.059,
+		"sentence": "Je me plaie pas.",
+		"words": [
+			{
+				"word": "Je",
+				"start": 321.177,
+				"end": 321.237,
+				"confidence": 0.662
+			},
+			{
+				"word": "me",
+				"start": 321.317,
+				"end": 321.397,
+				"confidence": 0.664
+			},
+			{
+				"word": "plaie",
+				"start": 321.457,
+				"end": 321.658,
+				"confidence": 0.783
+			},
+			{
+				"word": "pas.",
+				"start": 321.678,
+				"end": 323.059,
+				"confidence": 0.589
+			}
+		]
+	},
+	{
+		"start": 323.079,
+		"end": 327.625,
+		"sentence": "Vous naviguez dans les mêmes eaux, à peu près.",
+		"words": [
+			{
+				"word": "Vous",
+				"start": 323.079,
+				"end": 323.159,
+				"confidence": 0.001
+			},
+			{
+				"word": "naviguez",
+				"start": 323.179,
+				"end": 323.34,
+				"confidence": 0.068
+			},
+			{
+				"word": "dans",
+				"start": 323.36,
+				"end": 323.46,
+				"confidence": 0.652
+			},
+			{
+				"word": "les",
+				"start": 323.48,
+				"end": 323.54,
+				"confidence": 0.894
+			},
+			{
+				"word": "mêmes",
+				"start": 323.56,
+				"end": 324.161,
+				"confidence": 0.785
+			},
+			{
+				"word": "eaux,",
+				"start": 326.684,
+				"end": 326.784,
+				"confidence": 0.057
+			},
+			{
+				"word": "à",
+				"start": 326.804,
+				"end": 326.824,
+				"confidence": 0.072
+			},
+			{
+				"word": "peu",
+				"start": 326.844,
+				"end": 326.904,
+				"confidence": 0.209
+			},
+			{
+				"word": "près.",
+				"start": 326.924,
+				"end": 327.625,
+				"confidence": 0.369
+			}
+		]
+	},
+	{
+		"start": 327.645,
+		"end": 330.328,
+		"sentence": "Je ne crois pas que je barbote dans cet état-là.",
+		"words": [
+			{
+				"word": "Je",
+				"start": 327.645,
+				"end": 327.725,
+				"confidence": 0.736
+			},
+			{
+				"word": "ne",
+				"start": 327.765,
+				"end": 327.825,
+				"confidence": 0.854
+			},
+			{
+				"word": "crois",
+				"start": 327.865,
+				"end": 328.105,
+				"confidence": 0.795
+			},
+			{
+				"word": "pas",
+				"start": 328.125,
+				"end": 328.266,
+				"confidence": 0.922
+			},
+			{
+				"word": "que",
+				"start": 328.306,
+				"end": 328.386,
+				"confidence": 0.914
+			},
+			{
+				"word": "je",
+				"start": 328.426,
+				"end": 328.646,
+				"confidence": 0.758
+			},
+			{
+				"word": "barbote",
+				"start": 328.666,
+				"end": 329.087,
+				"confidence": 0.897
+			},
+			{
+				"word": "dans",
+				"start": 329.127,
+				"end": 329.267,
+				"confidence": 0.942
+			},
+			{
+				"word": "cet",
+				"start": 329.307,
+				"end": 329.487,
+				"confidence": 0.895
+			},
+			{
+				"word": "état-là.",
+				"start": 329.547,
+				"end": 330.328,
+				"confidence": 0.569
+			}
+		]
+	},
+	{
+		"start": 331.709,
+		"end": 333.872,
+		"sentence": " Donc, vous gagnez de l'argent.",
+		"words": [
+			{
+				"word": "Donc,",
+				"start": 331.709,
+				"end": 333.031,
+				"confidence": 0.277
+			},
+			{
+				"word": "vous",
+				"start": 333.051,
+				"end": 333.131,
+				"confidence": 0.688
+			},
+			{
+				"word": "gagnez",
+				"start": 333.171,
+				"end": 333.352,
+				"confidence": 0.514
+			},
+			{
+				"word": "de",
+				"start": 333.412,
+				"end": 333.452,
+				"confidence": 0.058
+			},
+			{
+				"word": "l'argent.",
+				"start": 333.472,
+				"end": 333.872,
+				"confidence": 0.356
+			}
+		]
+	},
+	{
+		"start": 333.893,
+		"end": 335.555,
+		"sentence": "Oui, mais je dois dire, il y a des frais, quand même.",
+		"words": [
+			{
+				"word": "Oui,",
+				"start": 333.893,
+				"end": 334.033,
+				"confidence": 0.313
+			},
+			{
+				"word": "mais",
+				"start": 334.053,
+				"end": 334.133,
+				"confidence": 0.345
+			},
+			{
+				"word": "je",
+				"start": 334.153,
+				"end": 334.193,
+				"confidence": 0.37
+			},
+			{
+				"word": "dois",
+				"start": 334.233,
+				"end": 334.333,
+				"confidence": 0.627
+			},
+			{
+				"word": "dire,",
+				"start": 334.373,
+				"end": 334.473,
+				"confidence": 0.628
+			},
+			{
+				"word": "il",
+				"start": 334.493,
+				"end": 334.534,
+				"confidence": 0.588
+			},
+			{
+				"word": "y",
+				"start": 334.554,
+				"end": 334.574,
+				"confidence": 0.928
+			},
+			{
+				"word": "a",
+				"start": 334.594,
+				"end": 334.614,
+				"confidence": 0.068
+			},
+			{
+				"word": "des",
+				"start": 334.674,
+				"end": 334.774,
+				"confidence": 0.663
+			},
+			{
+				"word": "frais,",
+				"start": 334.814,
+				"end": 335.315,
+				"confidence": 0.808
+			},
+			{
+				"word": "quand",
+				"start": 335.335,
+				"end": 335.435,
+				"confidence": 0.001
+			},
+			{
+				"word": "même.",
+				"start": 335.455,
+				"end": 335.555,
+				"confidence": 0.003
+			}
+		]
+	},
+	{
+		"start": 335.575,
+		"end": 336.096,
+		"sentence": "Il y a des frais.",
+		"words": [
+			{
+				"word": "Il",
+				"start": 335.575,
+				"end": 335.635,
+				"confidence": 0.555
+			},
+			{
+				"word": "y",
+				"start": 335.655,
+				"end": 335.675,
+				"confidence": 0.757
+			},
+			{
+				"word": "a",
+				"start": 335.715,
+				"end": 335.756,
+				"confidence": 0.841
+			},
+			{
+				"word": "des",
+				"start": 335.796,
+				"end": 335.916,
+				"confidence": 0.936
+			},
+			{
+				"word": "frais.",
+				"start": 335.936,
+				"end": 336.096,
+				"confidence": 0.837
+			}
+		]
+	},
+	{
+		"start": 336.116,
+		"end": 338.48,
+		"sentence": "Comme je l'ai dit, mon chiffre d'affaires était de 500 et quelques.",
+		"words": [
+			{
+				"word": "Comme",
+				"start": 336.116,
+				"end": 336.256,
+				"confidence": 0.937
+			},
+			{
+				"word": "je",
+				"start": 336.276,
+				"end": 336.316,
+				"confidence": 0.984
+			},
+			{
+				"word": "l'ai",
+				"start": 336.336,
+				"end": 336.417,
+				"confidence": 0.256
+			},
+			{
+				"word": "dit,",
+				"start": 336.437,
+				"end": 336.517,
+				"confidence": 0.764
+			},
+			{
+				"word": "mon",
+				"start": 336.537,
+				"end": 336.617,
+				"confidence": 0.953
+			},
+			{
+				"word": "chiffre",
+				"start": 336.637,
+				"end": 336.797,
+				"confidence": 0.864
+			},
+			{
+				"word": "d'affaires",
+				"start": 336.817,
+				"end": 337.098,
+				"confidence": 0.688
+			},
+			{
+				"word": "était",
+				"start": 337.138,
+				"end": 337.418,
+				"confidence": 0.534
+			},
+			{
+				"word": "de",
+				"start": 337.438,
+				"end": 337.538,
+				"confidence": 0.385
+			},
+			{
+				"word": "500",
+				"start": 337.558,
+				"end": 337.819,
+				"confidence": 0.829
+			},
+			{
+				"word": "et",
+				"start": 337.839,
+				"end": 338.28,
+				"confidence": 0.418
+			},
+			{
+				"word": "quelques.",
+				"start": 338.3,
+				"end": 338.48,
+				"confidence": 0.15
+			}
+		]
+	},
+	{
+		"start": 338.5,
+		"end": 340.343,
+		"sentence": "Donc, il y a une grosse partie de frais.",
+		"words": [
+			{
+				"word": "Donc,",
+				"start": 338.5,
+				"end": 338.72,
+				"confidence": 0.411
+			},
+			{
+				"word": "il",
+				"start": 338.74,
+				"end": 338.78,
+				"confidence": 0.007
+			},
+			{
+				"word": "y",
+				"start": 338.8,
+				"end": 338.82,
+				"confidence": 0.477
+			},
+			{
+				"word": "a",
+				"start": 338.841,
+				"end": 338.861,
+				"confidence": 0.018
+			},
+			{
+				"word": "une",
+				"start": 338.881,
+				"end": 339.061,
+				"confidence": 0.834
+			},
+			{
+				"word": "grosse",
+				"start": 339.141,
+				"end": 339.482,
+				"confidence": 0.837
+			},
+			{
+				"word": "partie",
+				"start": 339.522,
+				"end": 339.722,
+				"confidence": 0.889
+			},
+			{
+				"word": "de",
+				"start": 339.742,
+				"end": 339.802,
+				"confidence": 0.942
+			},
+			{
+				"word": "frais.",
+				"start": 339.822,
+				"end": 340.343,
+				"confidence": 0.599
+			}
+		]
+	},
+	{
+		"start": 340.363,
+		"end": 341.685,
+		"sentence": "C'est vrai pour vous aussi, maître Bonhomme.",
+		"words": [
+			{
+				"word": "C'est",
+				"start": 340.363,
+				"end": 340.503,
+				"confidence": 0.565
+			},
+			{
+				"word": "vrai",
+				"start": 340.523,
+				"end": 340.623,
+				"confidence": 0.885
+			},
+			{
+				"word": "pour",
+				"start": 340.643,
+				"end": 340.744,
+				"confidence": 0.768
+			},
+			{
+				"word": "vous",
+				"start": 340.784,
+				"end": 340.884,
+				"confidence": 0.811
+			},
+			{
+				"word": "aussi,",
+				"start": 340.924,
+				"end": 341.104,
+				"confidence": 0.701
+			},
+			{
+				"word": "maître",
+				"start": 341.124,
+				"end": 341.425,
+				"confidence": 0.644
+			},
+			{
+				"word": "Bonhomme.",
+				"start": 341.465,
+				"end": 341.685,
+				"confidence": 0.531
+			}
+		]
+	},
+	{
+		"start": 341.705,
+		"end": 345.171,
+		"sentence": "Vous avez combien d'esclaves qui travaillent pour vous dans la préparation ?",
+		"words": [
+			{
+				"word": "Vous",
+				"start": 341.705,
+				"end": 341.785,
+				"confidence": 0.863
+			},
+			{
+				"word": "avez",
+				"start": 341.805,
+				"end": 341.905,
+				"confidence": 0.641
+			},
+			{
+				"word": "combien",
+				"start": 341.925,
+				"end": 342.166,
+				"confidence": 0.405
+			},
+			{
+				"word": "d'esclaves",
+				"start": 342.186,
+				"end": 342.827,
+				"confidence": 0.585
+			},
+			{
+				"word": "qui",
+				"start": 342.847,
+				"end": 342.947,
+				"confidence": 0.77
+			},
+			{
+				"word": "travaillent",
+				"start": 342.987,
+				"end": 343.248,
+				"confidence": 0.78
+			},
+			{
+				"word": "pour",
+				"start": 343.268,
+				"end": 343.608,
+				"confidence": 0.774
+			},
+			{
+				"word": "vous",
+				"start": 343.628,
+				"end": 343.708,
+				"confidence": 0.224
+			},
+			{
+				"word": "dans",
+				"start": 343.728,
+				"end": 343.809,
+				"confidence": 0.886
+			},
+			{
+				"word": "la",
+				"start": 343.829,
+				"end": 343.889,
+				"confidence": 0.894
+			},
+			{
+				"word": "préparation",
+				"start": 343.929,
+				"end": 345.131,
+				"confidence": 0.902
+			},
+			{
+				"word": "?",
+				"start": 345.151,
+				"end": 345.171,
+				"confidence": 0.028
+			}
+		]
+	},
+	{
+		"start": 345.191,
+		"end": 346.373,
+		"sentence": "Je n'ai pas des esclaves.",
+		"words": [
+			{
+				"word": "Je",
+				"start": 345.191,
+				"end": 345.271,
+				"confidence": 0.928
+			},
+			{
+				"word": "n'ai",
+				"start": 345.311,
+				"end": 345.471,
+				"confidence": 0.677
+			},
+			{
+				"word": "pas",
+				"start": 345.511,
+				"end": 345.651,
+				"confidence": 0.887
+			},
+			{
+				"word": "des",
+				"start": 345.712,
+				"end": 345.852,
+				"confidence": 0.608
+			},
+			{
+				"word": "esclaves.",
+				"start": 345.872,
+				"end": 346.373,
+				"confidence": 0.828
+			}
+		]
+	},
+	{
+		"start": 346.393,
+		"end": 350.099,
+		"sentence": "J'ai des collaborateurs reconnaissants.",
+		"words": [
+			{
+				"word": "J'ai",
+				"start": 346.393,
+				"end": 346.513,
+				"confidence": 0.622
+			},
+			{
+				"word": "des",
+				"start": 346.553,
+				"end": 346.633,
+				"confidence": 0.552
+			},
+			{
+				"word": "collaborateurs",
+				"start": 346.673,
+				"end": 347.274,
+				"confidence": 0.86
+			},
+			{
+				"word": "reconnaissants.",
+				"start": 347.314,
+				"end": 350.099,
+				"confidence": 0.888
+			}
+		]
+	},
+	{
+		"start": 350.139,
+		"end": 352.182,
+		"sentence": "Heureux de vivre dans l'ombre d'un grand homme.",
+		"words": [
+			{
+				"word": "Heureux",
+				"start": 350.139,
+				"end": 350.419,
+				"confidence": 0.884
+			},
+			{
+				"word": "de",
+				"start": 350.459,
+				"end": 350.559,
+				"confidence": 0.968
+			},
+			{
+				"word": "vivre",
+				"start": 350.599,
+				"end": 350.88,
+				"confidence": 0.68
+			},
+			{
+				"word": "dans",
+				"start": 350.92,
+				"end": 351.04,
+				"confidence": 0.975
+			},
+			{
+				"word": "l'ombre",
+				"start": 351.1,
+				"end": 351.361,
+				"confidence": 0.77
+			},
+			{
+				"word": "d'un",
+				"start": 351.401,
+				"end": 351.541,
+				"confidence": 0.846
+			},
+			{
+				"word": "grand",
+				"start": 351.581,
+				"end": 351.761,
+				"confidence": 0.884
+			},
+			{
+				"word": "homme.",
+				"start": 351.801,
+				"end": 352.182,
+				"confidence": 0.412
+			}
+		]
+	},
+	{
+		"start": 357.106,
+		"end": 363.396,
+		"sentence": " Et ils sont nombreux à préférer mon ombre à leur pâle soleil.",
+		"words": [
+			{
+				"word": "Et",
+				"start": 357.106,
+				"end": 357.286,
+				"confidence": 0.431
+			},
+			{
+				"word": "ils",
+				"start": 357.306,
+				"end": 357.447,
+				"confidence": 0.662
+			},
+			{
+				"word": "sont",
+				"start": 357.467,
+				"end": 357.667,
+				"confidence": 0.916
+			},
+			{
+				"word": "nombreux",
+				"start": 357.707,
+				"end": 358.208,
+				"confidence": 0.793
+			},
+			{
+				"word": "à",
+				"start": 358.268,
+				"end": 358.448,
+				"confidence": 0.992
+			},
+			{
+				"word": "préférer",
+				"start": 358.508,
+				"end": 359.67,
+				"confidence": 0.926
+			},
+			{
+				"word": "mon",
+				"start": 359.71,
+				"end": 359.85,
+				"confidence": 0.964
+			},
+			{
+				"word": "ombre",
+				"start": 359.951,
+				"end": 360.231,
+				"confidence": 0.813
+			},
+			{
+				"word": "à",
+				"start": 360.271,
+				"end": 360.311,
+				"confidence": 0.843
+			},
+			{
+				"word": "leur",
+				"start": 360.371,
+				"end": 360.551,
+				"confidence": 0.895
+			},
+			{
+				"word": "pâle",
+				"start": 360.572,
+				"end": 363.236,
+				"confidence": 0.231
+			},
+			{
+				"word": "soleil.",
+				"start": 363.256,
+				"end": 363.396,
+				"confidence": 0.0
+			}
+		]
+	},
+	{
+		"start": 363.416,
+		"end": 363.596,
+		"sentence": "D'accord.",
+		"words": [
+			{
+				"word": "D'accord.",
+				"start": 363.416,
+				"end": 363.596,
+				"confidence": 0.08
+			}
+		]
+	},
+	{
+		"start": 363.616,
+		"end": 371.369,
+		"sentence": "Au-delà de la différence de rémunération, il y a aussi une différence de style entre vous et Genève, entre la ville et les champs ?",
+		"words": [
+			{
+				"word": "Au-delà",
+				"start": 363.616,
+				"end": 363.897,
+				"confidence": 0.411
+			},
+			{
+				"word": "de",
+				"start": 363.917,
+				"end": 363.977,
+				"confidence": 0.728
+			},
+			{
+				"word": "la",
+				"start": 363.997,
+				"end": 364.097,
+				"confidence": 0.741
+			},
+			{
+				"word": "différence",
+				"start": 364.117,
+				"end": 365.299,
+				"confidence": 0.865
+			},
+			{
+				"word": "de",
+				"start": 365.339,
+				"end": 365.419,
+				"confidence": 0.986
+			},
+			{
+				"word": "rémunération,",
+				"start": 365.459,
+				"end": 365.94,
+				"confidence": 0.95
+			},
+			{
+				"word": "il",
+				"start": 365.96,
+				"end": 366.0,
+				"confidence": 0.936
+			},
+			{
+				"word": "y",
+				"start": 366.02,
+				"end": 366.04,
+				"confidence": 0.748
+			},
+			{
+				"word": "a",
+				"start": 366.06,
+				"end": 366.08,
+				"confidence": 0.005
+			},
+			{
+				"word": "aussi",
+				"start": 366.1,
+				"end": 366.22,
+				"confidence": 0.774
+			},
+			{
+				"word": "une",
+				"start": 366.241,
+				"end": 366.341,
+				"confidence": 0.834
+			},
+			{
+				"word": "différence",
+				"start": 366.361,
+				"end": 366.741,
+				"confidence": 0.834
+			},
+			{
+				"word": "de",
+				"start": 366.781,
+				"end": 366.882,
+				"confidence": 0.984
+			},
+			{
+				"word": "style",
+				"start": 366.922,
+				"end": 367.402,
+				"confidence": 0.878
+			},
+			{
+				"word": "entre",
+				"start": 367.442,
+				"end": 367.663,
+				"confidence": 0.959
+			},
+			{
+				"word": "vous",
+				"start": 367.703,
+				"end": 367.803,
+				"confidence": 0.892
+			},
+			{
+				"word": "et",
+				"start": 367.863,
+				"end": 367.943,
+				"confidence": 0.678
+			},
+			{
+				"word": "Genève,",
+				"start": 367.963,
+				"end": 368.264,
+				"confidence": 0.914
+			},
+			{
+				"word": "entre",
+				"start": 368.284,
+				"end": 368.724,
+				"confidence": 0.731
+			},
+			{
+				"word": "la",
+				"start": 368.765,
+				"end": 368.845,
+				"confidence": 0.919
+			},
+			{
+				"word": "ville",
+				"start": 368.865,
+				"end": 369.165,
+				"confidence": 0.748
+			},
+			{
+				"word": "et",
+				"start": 369.205,
+				"end": 369.285,
+				"confidence": 0.746
+			},
+			{
+				"word": "les",
+				"start": 369.325,
+				"end": 369.426,
+				"confidence": 0.412
+			},
+			{
+				"word": "champs",
+				"start": 369.446,
+				"end": 371.329,
+				"confidence": 0.678
+			},
+			{
+				"word": "?",
+				"start": 371.349,
+				"end": 371.369,
+				"confidence": 0.001
+			}
+		]
+	},
+	{
+		"start": 371.389,
+		"end": 371.669,
+		"sentence": "Bah vraiment !",
+		"words": [
+			{
+				"word": "Bah",
+				"start": 371.389,
+				"end": 371.449,
+				"confidence": 0.053
+			},
+			{
+				"word": "vraiment",
+				"start": 371.469,
+				"end": 371.629,
+				"confidence": 0.006
+			},
+			{
+				"word": "!",
+				"start": 371.649,
+				"end": 371.669,
+				"confidence": 0.001
+			}
+		]
+	},
+	{
+		"start": 371.689,
+		"end": 377.258,
+		"sentence": "Non, je pense que c'est un même métier, une même peuplade séparée uniquement par la langue.",
+		"words": [
+			{
+				"word": "Non,",
+				"start": 371.689,
+				"end": 371.769,
+				"confidence": 0.21
+			},
+			{
+				"word": "je",
+				"start": 371.789,
+				"end": 371.889,
+				"confidence": 0.984
+			},
+			{
+				"word": "pense",
+				"start": 371.93,
+				"end": 372.13,
+				"confidence": 0.875
+			},
+			{
+				"word": "que",
+				"start": 372.17,
+				"end": 372.771,
+				"confidence": 0.844
+			},
+			{
+				"word": "c'est",
+				"start": 372.811,
+				"end": 373.051,
+				"confidence": 0.73
+			},
+			{
+				"word": "un",
+				"start": 373.111,
+				"end": 373.332,
+				"confidence": 0.96
+			},
+			{
+				"word": "même",
+				"start": 373.352,
+				"end": 373.592,
+				"confidence": 0.972
+			},
+			{
+				"word": "métier,",
+				"start": 373.612,
+				"end": 374.173,
+				"confidence": 0.849
+			},
+			{
+				"word": "une",
+				"start": 374.253,
+				"end": 374.474,
+				"confidence": 0.817
+			},
+			{
+				"word": "même",
+				"start": 374.514,
+				"end": 374.734,
+				"confidence": 0.983
+			},
+			{
+				"word": "peuplade",
+				"start": 374.754,
+				"end": 375.655,
+				"confidence": 0.86
+			},
+			{
+				"word": "séparée",
+				"start": 375.696,
+				"end": 376.096,
+				"confidence": 0.907
+			},
+			{
+				"word": "uniquement",
+				"start": 376.116,
+				"end": 376.457,
+				"confidence": 0.925
+			},
+			{
+				"word": "par",
+				"start": 376.517,
+				"end": 376.617,
+				"confidence": 0.968
+			},
+			{
+				"word": "la",
+				"start": 376.677,
+				"end": 376.757,
+				"confidence": 0.965
+			},
+			{
+				"word": "langue.",
+				"start": 376.797,
+				"end": 377.258,
+				"confidence": 0.931
+			}
+		]
+	},
+	{
+		"start": 379.448,
+		"end": 387.018,
+		"sentence": " Un effet d'ailleurs, je dois vous dire que si vous veniez, je pense que ça vous est déjà arrivé, mais si vous veniez aujourd'hui plaider à Lausanne, je ne suis pas sûr que les magistres aient compris ce que vous dites.",
+		"words": [
+			{
+				"word": "Un",
+				"start": 379.448,
+				"end": 379.949,
+				"confidence": 0.676
+			},
+			{
+				"word": "effet",
+				"start": 379.989,
+				"end": 380.349,
+				"confidence": 0.592
+			},
+			{
+				"word": "d'ailleurs,",
+				"start": 380.409,
+				"end": 380.65,
+				"confidence": 0.106
+			},
+			{
+				"word": "je",
+				"start": 380.67,
+				"end": 380.71,
+				"confidence": 0.002
+			},
+			{
+				"word": "dois",
+				"start": 380.73,
+				"end": 380.81,
+				"confidence": 0.159
+			},
+			{
+				"word": "vous",
+				"start": 380.83,
+				"end": 380.91,
+				"confidence": 0.268
+			},
+			{
+				"word": "dire",
+				"start": 380.95,
+				"end": 381.19,
+				"confidence": 0.836
+			},
+			{
+				"word": "que",
+				"start": 381.21,
+				"end": 381.31,
+				"confidence": 0.694
+			},
+			{
+				"word": "si",
+				"start": 381.331,
+				"end": 381.411,
+				"confidence": 0.752
+			},
+			{
+				"word": "vous",
+				"start": 381.451,
+				"end": 381.571,
+				"confidence": 0.872
+			},
+			{
+				"word": "veniez,",
+				"start": 381.631,
+				"end": 382.011,
+				"confidence": 0.799
+			},
+			{
+				"word": "je",
+				"start": 382.031,
+				"end": 382.112,
+				"confidence": 0.945
+			},
+			{
+				"word": "pense",
+				"start": 382.132,
+				"end": 382.252,
+				"confidence": 0.49
+			},
+			{
+				"word": "que",
+				"start": 382.272,
+				"end": 382.332,
+				"confidence": 0.043
+			},
+			{
+				"word": "ça",
+				"start": 382.352,
+				"end": 382.392,
+				"confidence": 0.57
+			},
+			{
+				"word": "vous",
+				"start": 382.412,
+				"end": 382.492,
+				"confidence": 0.993
+			},
+			{
+				"word": "est",
+				"start": 382.512,
+				"end": 382.572,
+				"confidence": 0.001
+			},
+			{
+				"word": "déjà",
+				"start": 382.592,
+				"end": 382.672,
+				"confidence": 0.024
+			},
+			{
+				"word": "arrivé,",
+				"start": 382.692,
+				"end": 382.973,
+				"confidence": 0.862
+			},
+			{
+				"word": "mais",
+				"start": 383.013,
+				"end": 383.133,
+				"confidence": 0.96
+			},
+			{
+				"word": "si",
+				"start": 383.153,
+				"end": 383.213,
+				"confidence": 0.752
+			},
+			{
+				"word": "vous",
+				"start": 383.253,
+				"end": 383.353,
+				"confidence": 0.898
+			},
+			{
+				"word": "veniez",
+				"start": 383.373,
+				"end": 383.754,
+				"confidence": 0.805
+			},
+			{
+				"word": "aujourd'hui",
+				"start": 383.814,
+				"end": 384.174,
+				"confidence": 0.92
+			},
+			{
+				"word": "plaider",
+				"start": 384.214,
+				"end": 384.435,
+				"confidence": 0.772
+			},
+			{
+				"word": "à",
+				"start": 384.455,
+				"end": 384.495,
+				"confidence": 0.661
+			},
+			{
+				"word": "Lausanne,",
+				"start": 384.515,
+				"end": 384.815,
+				"confidence": 0.607
+			},
+			{
+				"word": "je",
+				"start": 384.835,
+				"end": 384.895,
+				"confidence": 0.26
+			},
+			{
+				"word": "ne",
+				"start": 384.935,
+				"end": 384.975,
+				"confidence": 0.993
+			},
+			{
+				"word": "suis",
+				"start": 384.995,
+				"end": 385.096,
+				"confidence": 0.625
+			},
+			{
+				"word": "pas",
+				"start": 385.136,
+				"end": 385.236,
+				"confidence": 0.94
+			},
+			{
+				"word": "sûr",
+				"start": 385.276,
+				"end": 385.356,
+				"confidence": 0.659
+			},
+			{
+				"word": "que",
+				"start": 385.376,
+				"end": 385.436,
+				"confidence": 0.948
+			},
+			{
+				"word": "les",
+				"start": 385.476,
+				"end": 385.536,
+				"confidence": 0.95
+			},
+			{
+				"word": "magistres",
+				"start": 385.576,
+				"end": 385.877,
+				"confidence": 0.741
+			},
+			{
+				"word": "aient",
+				"start": 385.897,
+				"end": 385.997,
+				"confidence": 0.138
+			},
+			{
+				"word": "compris",
+				"start": 386.017,
+				"end": 386.277,
+				"confidence": 0.767
+			},
+			{
+				"word": "ce",
+				"start": 386.357,
+				"end": 386.397,
+				"confidence": 0.94
+			},
+			{
+				"word": "que",
+				"start": 386.417,
+				"end": 386.477,
+				"confidence": 0.714
+			},
+			{
+				"word": "vous",
+				"start": 386.517,
+				"end": 386.618,
+				"confidence": 0.697
+			},
+			{
+				"word": "dites.",
+				"start": 386.658,
+				"end": 387.018,
+				"confidence": 0.658
+			}
+		]
+	},
+	{
+		"start": 387.038,
+		"end": 396.19,
+		"sentence": "Et donc votre plaidoyerie serait relativement peu relevante à leurs oreilles croissées et remplies de sable qui séparent Lausanne de Genève.",
+		"words": [
+			{
+				"word": "Et",
+				"start": 387.038,
+				"end": 387.158,
+				"confidence": 0.868
+			},
+			{
+				"word": "donc",
+				"start": 387.198,
+				"end": 387.599,
+				"confidence": 0.929
+			},
+			{
+				"word": "votre",
+				"start": 387.639,
+				"end": 387.859,
+				"confidence": 0.966
+			},
+			{
+				"word": "plaidoyerie",
+				"start": 387.899,
+				"end": 388.6,
+				"confidence": 0.843
+			},
+			{
+				"word": "serait",
+				"start": 388.62,
+				"end": 389.261,
+				"confidence": 0.832
+			},
+			{
+				"word": "relativement",
+				"start": 389.281,
+				"end": 389.882,
+				"confidence": 0.898
+			},
+			{
+				"word": "peu",
+				"start": 389.902,
+				"end": 390.042,
+				"confidence": 0.896
+			},
+			{
+				"word": "relevante",
+				"start": 390.062,
+				"end": 390.543,
+				"confidence": 0.648
+			},
+			{
+				"word": "à",
+				"start": 390.643,
+				"end": 390.663,
+				"confidence": 0.867
+			},
+			{
+				"word": "leurs",
+				"start": 390.683,
+				"end": 390.843,
+				"confidence": 0.224
+			},
+			{
+				"word": "oreilles",
+				"start": 390.883,
+				"end": 391.925,
+				"confidence": 0.384
+			},
+			{
+				"word": "croissées",
+				"start": 392.045,
+				"end": 392.565,
+				"confidence": 0.5
+			},
+			{
+				"word": "et",
+				"start": 392.646,
+				"end": 392.786,
+				"confidence": 0.788
+			},
+			{
+				"word": "remplies",
+				"start": 392.826,
+				"end": 393.186,
+				"confidence": 0.278
+			},
+			{
+				"word": "de",
+				"start": 393.206,
+				"end": 393.246,
+				"confidence": 0.002
+			},
+			{
+				"word": "sable",
+				"start": 393.266,
+				"end": 393.827,
+				"confidence": 0.749
+			},
+			{
+				"word": "qui",
+				"start": 393.867,
+				"end": 394.047,
+				"confidence": 0.919
+			},
+			{
+				"word": "séparent",
+				"start": 394.067,
+				"end": 394.488,
+				"confidence": 0.44
+			},
+			{
+				"word": "Lausanne",
+				"start": 394.528,
+				"end": 394.788,
+				"confidence": 0.616
+			},
+			{
+				"word": "de",
+				"start": 394.808,
+				"end": 394.869,
+				"confidence": 0.933
+			},
+			{
+				"word": "Genève.",
+				"start": 394.889,
+				"end": 396.19,
+				"confidence": 0.805
+			}
+		]
+	},
+	{
+		"start": 396.21,
+		"end": 400.276,
+		"sentence": "Vous voyez, moi aussi, je peux faire du bonhomme.",
+		"words": [
+			{
+				"word": "Vous",
+				"start": 396.21,
+				"end": 396.29,
+				"confidence": 0.085
+			},
+			{
+				"word": "voyez,",
+				"start": 396.31,
+				"end": 396.551,
+				"confidence": 0.522
+			},
+			{
+				"word": "moi",
+				"start": 396.571,
+				"end": 396.631,
+				"confidence": 0.221
+			},
+			{
+				"word": "aussi,",
+				"start": 396.651,
+				"end": 396.871,
+				"confidence": 0.759
+			},
+			{
+				"word": "je",
+				"start": 396.891,
+				"end": 396.971,
+				"confidence": 0.692
+			},
+			{
+				"word": "peux",
+				"start": 397.011,
+				"end": 397.132,
+				"confidence": 0.688
+			},
+			{
+				"word": "faire",
+				"start": 397.152,
+				"end": 397.272,
+				"confidence": 0.777
+			},
+			{
+				"word": "du",
+				"start": 397.292,
+				"end": 397.352,
+				"confidence": 0.687
+			},
+			{
+				"word": "bonhomme.",
+				"start": 397.372,
+				"end": 400.276,
+				"confidence": 0.529
+			}
+		]
+	},
+	{
+		"start": 400.316,
+		"end": 402.739,
+		"sentence": "Vous avez déjà les cheveux, le talent viendra.",
+		"words": [
+			{
+				"word": "Vous",
+				"start": 400.316,
+				"end": 400.416,
+				"confidence": 0.898
+			},
+			{
+				"word": "avez",
+				"start": 400.436,
+				"end": 400.576,
+				"confidence": 0.44
+			},
+			{
+				"word": "déjà",
+				"start": 400.616,
+				"end": 400.857,
+				"confidence": 0.877
+			},
+			{
+				"word": "les",
+				"start": 400.877,
+				"end": 400.997,
+				"confidence": 0.638
+			},
+			{
+				"word": "cheveux,",
+				"start": 401.017,
+				"end": 401.277,
+				"confidence": 0.459
+			},
+			{
+				"word": "le",
+				"start": 401.297,
+				"end": 401.377,
+				"confidence": 0.77
+			},
+			{
+				"word": "talent",
+				"start": 401.397,
+				"end": 401.658,
+				"confidence": 0.476
+			},
+			{
+				"word": "viendra.",
+				"start": 401.678,
+				"end": 402.739,
+				"confidence": 0.909
+			}
+		]
+	},
+	{
+		"start": 409.807,
+		"end": 427.549,
+		"sentence": " Pour terminer, Marc Bonan, si vous devriez vous retrouver un jour au trou à cause d'une connerie, vous vous prendriez à vos doigts ou à un jeune voix pour vous défendre ?",
+		"words": [
+			{
+				"word": "Pour",
+				"start": 409.807,
+				"end": 411.289,
+				"confidence": 0.534
+			},
+			{
+				"word": "terminer,",
+				"start": 411.329,
+				"end": 412.05,
+				"confidence": 0.881
+			},
+			{
+				"word": "Marc",
+				"start": 412.07,
+				"end": 412.19,
+				"confidence": 0.323
+			},
+			{
+				"word": "Bonan,",
+				"start": 412.21,
+				"end": 412.711,
+				"confidence": 0.81
+			},
+			{
+				"word": "si",
+				"start": 412.731,
+				"end": 412.791,
+				"confidence": 0.68
+			},
+			{
+				"word": "vous",
+				"start": 412.811,
+				"end": 412.891,
+				"confidence": 0.736
+			},
+			{
+				"word": "devriez",
+				"start": 412.951,
+				"end": 413.171,
+				"confidence": 0.761
+			},
+			{
+				"word": "vous",
+				"start": 413.191,
+				"end": 417.977,
+				"confidence": 0.608
+			},
+			{
+				"word": "retrouver",
+				"start": 418.017,
+				"end": 418.778,
+				"confidence": 0.853
+			},
+			{
+				"word": "un",
+				"start": 418.838,
+				"end": 418.898,
+				"confidence": 0.848
+			},
+			{
+				"word": "jour",
+				"start": 418.918,
+				"end": 419.379,
+				"confidence": 0.963
+			},
+			{
+				"word": "au",
+				"start": 419.439,
+				"end": 419.519,
+				"confidence": 0.784
+			},
+			{
+				"word": "trou",
+				"start": 419.539,
+				"end": 420.1,
+				"confidence": 0.942
+			},
+			{
+				"word": "à",
+				"start": 420.14,
+				"end": 420.16,
+				"confidence": 0.964
+			},
+			{
+				"word": "cause",
+				"start": 420.2,
+				"end": 420.38,
+				"confidence": 0.615
+			},
+			{
+				"word": "d'une",
+				"start": 420.68,
+				"end": 420.801,
+				"confidence": 0.823
+			},
+			{
+				"word": "connerie,",
+				"start": 420.841,
+				"end": 421.542,
+				"confidence": 0.791
+			},
+			{
+				"word": "vous",
+				"start": 421.562,
+				"end": 421.662,
+				"confidence": 0.739
+			},
+			{
+				"word": "vous",
+				"start": 421.762,
+				"end": 421.842,
+				"confidence": 0.931
+			},
+			{
+				"word": "prendriez",
+				"start": 421.882,
+				"end": 422.343,
+				"confidence": 0.676
+			},
+			{
+				"word": "à",
+				"start": 422.383,
+				"end": 422.443,
+				"confidence": 0.518
+			},
+			{
+				"word": "vos",
+				"start": 422.483,
+				"end": 422.563,
+				"confidence": 0.752
+			},
+			{
+				"word": "doigts",
+				"start": 422.603,
+				"end": 422.763,
+				"confidence": 0.544
+			},
+			{
+				"word": "ou",
+				"start": 422.783,
+				"end": 422.823,
+				"confidence": 0.008
+			},
+			{
+				"word": "à",
+				"start": 422.843,
+				"end": 422.863,
+				"confidence": 0.001
+			},
+			{
+				"word": "un",
+				"start": 422.883,
+				"end": 422.923,
+				"confidence": 0.486
+			},
+			{
+				"word": "jeune",
+				"start": 422.943,
+				"end": 423.083,
+				"confidence": 0.841
+			},
+			{
+				"word": "voix",
+				"start": 423.124,
+				"end": 423.264,
+				"confidence": 0.79
+			},
+			{
+				"word": "pour",
+				"start": 423.304,
+				"end": 423.404,
+				"confidence": 0.963
+			},
+			{
+				"word": "vous",
+				"start": 423.424,
+				"end": 423.544,
+				"confidence": 0.82
+			},
+			{
+				"word": "défendre",
+				"start": 423.564,
+				"end": 427.509,
+				"confidence": 0.953
+			},
+			{
+				"word": "?",
+				"start": 427.529,
+				"end": 427.549,
+				"confidence": 0.0
+			}
+		]
+	},
+	{
+		"start": 427.569,
+		"end": 429.992,
+		"sentence": "350 balles de l'âge.",
+		"words": [
+			{
+				"word": "350",
+				"start": 427.569,
+				"end": 429.011,
+				"confidence": 0.83
+			},
+			{
+				"word": "balles",
+				"start": 429.171,
+				"end": 429.451,
+				"confidence": 0.319
+			},
+			{
+				"word": "de",
+				"start": 429.812,
+				"end": 429.852,
+				"confidence": 0.011
+			},
+			{
+				"word": "l'âge.",
+				"start": 429.872,
+				"end": 429.992,
+				"confidence": 0.166
+			}
+		]
+	},
+	{
+		"start": 431.035,
+		"end": 440.648,
+		"sentence": " Non, je prendrai indépendamment de son appartenance, je prendrai un ami, je ferai le choix d'un talent cordial.",
+		"words": [
+			{
+				"word": "Non,",
+				"start": 431.035,
+				"end": 431.456,
+				"confidence": 0.236
+			},
+			{
+				"word": "je",
+				"start": 431.476,
+				"end": 431.556,
+				"confidence": 0.906
+			},
+			{
+				"word": "prendrai",
+				"start": 431.596,
+				"end": 431.916,
+				"confidence": 0.892
+			},
+			{
+				"word": "indépendamment",
+				"start": 431.976,
+				"end": 432.417,
+				"confidence": 0.83
+			},
+			{
+				"word": "de",
+				"start": 432.457,
+				"end": 432.497,
+				"confidence": 0.718
+			},
+			{
+				"word": "son",
+				"start": 432.537,
+				"end": 432.657,
+				"confidence": 0.916
+			},
+			{
+				"word": "appartenance,",
+				"start": 432.717,
+				"end": 433.438,
+				"confidence": 0.847
+			},
+			{
+				"word": "je",
+				"start": 433.458,
+				"end": 433.659,
+				"confidence": 0.926
+			},
+			{
+				"word": "prendrai",
+				"start": 433.699,
+				"end": 434.039,
+				"confidence": 0.888
+			},
+			{
+				"word": "un",
+				"start": 434.099,
+				"end": 434.159,
+				"confidence": 0.959
+			},
+			{
+				"word": "ami,",
+				"start": 434.199,
+				"end": 435.0,
+				"confidence": 0.792
+			},
+			{
+				"word": "je",
+				"start": 435.04,
+				"end": 435.161,
+				"confidence": 0.941
+			},
+			{
+				"word": "ferai",
+				"start": 435.201,
+				"end": 435.461,
+				"confidence": 0.832
+			},
+			{
+				"word": "le",
+				"start": 435.501,
+				"end": 435.581,
+				"confidence": 0.984
+			},
+			{
+				"word": "choix",
+				"start": 435.621,
+				"end": 437.404,
+				"confidence": 0.822
+			},
+			{
+				"word": "d'un",
+				"start": 437.444,
+				"end": 437.604,
+				"confidence": 0.737
+			},
+			{
+				"word": "talent",
+				"start": 437.644,
+				"end": 437.964,
+				"confidence": 0.847
+			},
+			{
+				"word": "cordial.",
+				"start": 437.984,
+				"end": 440.648,
+				"confidence": 0.907
+			}
+		]
+	},
+	{
+		"start": 440.668,
+		"end": 450.641,
+		"sentence": "Je demanderai certainement à quelqu'un, au-delà de ce qu'un avocat peut faire, ses ressources de langage, mais quelqu'un qui ait une part de compassion.",
+		"words": [
+			{
+				"word": "Je",
+				"start": 440.668,
+				"end": 440.788,
+				"confidence": 0.93
+			},
+			{
+				"word": "demanderai",
+				"start": 440.828,
+				"end": 441.249,
+				"confidence": 0.802
+			},
+			{
+				"word": "certainement",
+				"start": 441.289,
+				"end": 442.49,
+				"confidence": 0.897
+			},
+			{
+				"word": "à",
+				"start": 442.55,
+				"end": 442.611,
+				"confidence": 0.968
+			},
+			{
+				"word": "quelqu'un,",
+				"start": 442.671,
+				"end": 443.952,
+				"confidence": 0.795
+			},
+			{
+				"word": "au-delà",
+				"start": 443.992,
+				"end": 444.753,
+				"confidence": 0.91
+			},
+			{
+				"word": "de",
+				"start": 444.793,
+				"end": 444.874,
+				"confidence": 0.93
+			},
+			{
+				"word": "ce",
+				"start": 444.894,
+				"end": 444.974,
+				"confidence": 0.639
+			},
+			{
+				"word": "qu'un",
+				"start": 444.994,
+				"end": 445.154,
+				"confidence": 0.725
+			},
+			{
+				"word": "avocat",
+				"start": 445.174,
+				"end": 445.474,
+				"confidence": 0.5
+			},
+			{
+				"word": "peut",
+				"start": 445.514,
+				"end": 445.635,
+				"confidence": 0.75
+			},
+			{
+				"word": "faire,",
+				"start": 445.695,
+				"end": 445.915,
+				"confidence": 0.798
+			},
+			{
+				"word": "ses",
+				"start": 445.955,
+				"end": 446.195,
+				"confidence": 0.852
+			},
+			{
+				"word": "ressources",
+				"start": 446.235,
+				"end": 446.536,
+				"confidence": 0.845
+			},
+			{
+				"word": "de",
+				"start": 446.556,
+				"end": 446.616,
+				"confidence": 0.739
+			},
+			{
+				"word": "langage,",
+				"start": 446.676,
+				"end": 447.497,
+				"confidence": 0.921
+			},
+			{
+				"word": "mais",
+				"start": 447.537,
+				"end": 447.818,
+				"confidence": 0.742
+			},
+			{
+				"word": "quelqu'un",
+				"start": 447.858,
+				"end": 448.298,
+				"confidence": 0.775
+			},
+			{
+				"word": "qui",
+				"start": 448.318,
+				"end": 448.418,
+				"confidence": 0.784
+			},
+			{
+				"word": "ait",
+				"start": 448.498,
+				"end": 448.679,
+				"confidence": 0.603
+			},
+			{
+				"word": "une",
+				"start": 448.739,
+				"end": 448.899,
+				"confidence": 0.905
+			},
+			{
+				"word": "part",
+				"start": 448.959,
+				"end": 449.199,
+				"confidence": 0.883
+			},
+			{
+				"word": "de",
+				"start": 449.219,
+				"end": 449.34,
+				"confidence": 0.957
+			},
+			{
+				"word": "compassion.",
+				"start": 449.38,
+				"end": 450.641,
+				"confidence": 0.893
+			}
+		]
+	},
+	{
+		"start": 450.661,
+		"end": 454.046,
+		"sentence": "Parce que la détention, c'est pas simplement la privation de la liberté.",
+		"words": [
+			{
+				"word": "Parce",
+				"start": 450.661,
+				"end": 450.862,
+				"confidence": 0.826
+			},
+			{
+				"word": "que",
+				"start": 450.902,
+				"end": 451.122,
+				"confidence": 0.863
+			},
+			{
+				"word": "la",
+				"start": 451.162,
+				"end": 451.222,
+				"confidence": 0.928
+			},
+			{
+				"word": "détention,",
+				"start": 451.262,
+				"end": 451.803,
+				"confidence": 0.984
+			},
+			{
+				"word": "c'est",
+				"start": 451.843,
+				"end": 451.983,
+				"confidence": 0.563
+			},
+			{
+				"word": "pas",
+				"start": 452.023,
+				"end": 452.143,
+				"confidence": 0.752
+			},
+			{
+				"word": "simplement",
+				"start": 452.183,
+				"end": 452.524,
+				"confidence": 0.672
+			},
+			{
+				"word": "la",
+				"start": 452.564,
+				"end": 452.664,
+				"confidence": 0.479
+			},
+			{
+				"word": "privation",
+				"start": 452.704,
+				"end": 453.065,
+				"confidence": 0.85
+			},
+			{
+				"word": "de",
+				"start": 453.105,
+				"end": 453.165,
+				"confidence": 0.746
+			},
+			{
+				"word": "la",
+				"start": 453.185,
+				"end": 453.265,
+				"confidence": 0.634
+			},
+			{
+				"word": "liberté.",
+				"start": 453.285,
+				"end": 454.046,
+				"confidence": 0.876
+			}
+		]
+	},
+	{
+		"start": 454.066,
+		"end": 456.009,
+		"sentence": "Et quelle pourrait être la connerie en question ?",
+		"words": [
+			{
+				"word": "Et",
+				"start": 454.066,
+				"end": 454.106,
+				"confidence": 0.002
+			},
+			{
+				"word": "quelle",
+				"start": 454.126,
+				"end": 454.246,
+				"confidence": 0.101
+			},
+			{
+				"word": "pourrait",
+				"start": 454.266,
+				"end": 454.547,
+				"confidence": 0.822
+			},
+			{
+				"word": "être",
+				"start": 454.587,
+				"end": 454.747,
+				"confidence": 0.883
+			},
+			{
+				"word": "la",
+				"start": 454.787,
+				"end": 454.827,
+				"confidence": 0.806
+			},
+			{
+				"word": "connerie",
+				"start": 454.867,
+				"end": 455.288,
+				"confidence": 0.555
+			},
+			{
+				"word": "en",
+				"start": 455.308,
+				"end": 455.408,
+				"confidence": 0.621
+			},
+			{
+				"word": "question",
+				"start": 455.428,
+				"end": 455.968,
+				"confidence": 0.774
+			},
+			{
+				"word": "?",
+				"start": 455.988,
+				"end": 456.009,
+				"confidence": 0.714
+			}
+		]
+	},
+	{
+		"start": 456.029,
+		"end": 457.15,
+		"sentence": "Que je pourrais faire ?",
+		"words": [
+			{
+				"word": "Que",
+				"start": 456.029,
+				"end": 456.129,
+				"confidence": 0.721
+			},
+			{
+				"word": "je",
+				"start": 456.169,
+				"end": 456.249,
+				"confidence": 0.853
+			},
+			{
+				"word": "pourrais",
+				"start": 456.83,
+				"end": 456.99,
+				"confidence": 0.001
+			},
+			{
+				"word": "faire",
+				"start": 457.01,
+				"end": 457.11,
+				"confidence": 0.003
+			},
+			{
+				"word": "?",
+				"start": 457.13,
+				"end": 457.15,
+				"confidence": 0.825
+			}
+		]
+	},
+	{
+		"start": 457.17,
+		"end": 458.171,
+		"sentence": "Qui pourrait vous amener au trou.",
+		"words": [
+			{
+				"word": "Qui",
+				"start": 457.17,
+				"end": 457.27,
+				"confidence": 0.751
+			},
+			{
+				"word": "pourrait",
+				"start": 457.29,
+				"end": 457.511,
+				"confidence": 0.676
+			},
+			{
+				"word": "vous",
+				"start": 457.531,
+				"end": 457.611,
+				"confidence": 0.812
+			},
+			{
+				"word": "amener",
+				"start": 457.651,
+				"end": 457.871,
+				"confidence": 0.791
+			},
+			{
+				"word": "au",
+				"start": 457.891,
+				"end": 458.011,
+				"confidence": 0.594
+			},
+			{
+				"word": "trou.",
+				"start": 458.031,
+				"end": 458.171,
+				"confidence": 0.436
+			}
+		]
+	},
+	{
+		"start": 458.191,
+		"end": 460.114,
+		"sentence": "Qu'est-ce que vous pourriez faire qui vous amène au trou ?",
+		"words": [
+			{
+				"word": "Qu'est-ce",
+				"start": 458.191,
+				"end": 458.372,
+				"confidence": 0.546
+			},
+			{
+				"word": "que",
+				"start": 458.392,
+				"end": 458.452,
+				"confidence": 0.816
+			},
+			{
+				"word": "vous",
+				"start": 458.472,
+				"end": 458.552,
+				"confidence": 0.975
+			},
+			{
+				"word": "pourriez",
+				"start": 458.572,
+				"end": 458.812,
+				"confidence": 0.548
+			},
+			{
+				"word": "faire",
+				"start": 458.872,
+				"end": 458.993,
+				"confidence": 0.792
+			},
+			{
+				"word": "qui",
+				"start": 459.033,
+				"end": 459.113,
+				"confidence": 0.938
+			},
+			{
+				"word": "vous",
+				"start": 459.153,
+				"end": 459.233,
+				"confidence": 0.968
+			},
+			{
+				"word": "amène",
+				"start": 459.273,
+				"end": 459.493,
+				"confidence": 0.316
+			},
+			{
+				"word": "au",
+				"start": 459.533,
+				"end": 459.633,
+				"confidence": 0.442
+			},
+			{
+				"word": "trou",
+				"start": 459.653,
+				"end": 460.074,
+				"confidence": 0.518
+			},
+			{
+				"word": "?",
+				"start": 460.094,
+				"end": 460.114,
+				"confidence": 0.823
+			}
+		]
+	},
+	{
+		"start": 461.68,
+		"end": 466.427,
+		"sentence": " Je sais pas, une trop vive convoitise dont je n'aurais pas les moyens.",
+		"words": [
+			{
+				"word": "Je",
+				"start": 461.68,
+				"end": 462.501,
+				"confidence": 0.726
+			},
+			{
+				"word": "sais",
+				"start": 462.661,
+				"end": 462.802,
+				"confidence": 0.68
+			},
+			{
+				"word": "pas,",
+				"start": 462.822,
+				"end": 463.142,
+				"confidence": 0.533
+			},
+			{
+				"word": "une",
+				"start": 463.162,
+				"end": 463.262,
+				"confidence": 0.548
+			},
+			{
+				"word": "trop",
+				"start": 463.282,
+				"end": 463.463,
+				"confidence": 0.774
+			},
+			{
+				"word": "vive",
+				"start": 463.503,
+				"end": 463.703,
+				"confidence": 0.746
+			},
+			{
+				"word": "convoitise",
+				"start": 463.723,
+				"end": 464.324,
+				"confidence": 0.8
+			},
+			{
+				"word": "dont",
+				"start": 464.364,
+				"end": 464.464,
+				"confidence": 0.919
+			},
+			{
+				"word": "je",
+				"start": 464.484,
+				"end": 464.544,
+				"confidence": 0.908
+			},
+			{
+				"word": "n'aurais",
+				"start": 464.564,
+				"end": 464.764,
+				"confidence": 0.789
+			},
+			{
+				"word": "pas",
+				"start": 464.784,
+				"end": 464.865,
+				"confidence": 0.963
+			},
+			{
+				"word": "les",
+				"start": 464.885,
+				"end": 464.965,
+				"confidence": 0.725
+			},
+			{
+				"word": "moyens.",
+				"start": 465.005,
+				"end": 466.427,
+				"confidence": 0.791
+			}
+		]
+	},
+	{
+		"start": 466.447,
+		"end": 470.533,
+		"sentence": "Juste pour terminer rapidement... Arrêtez de regarder comme ça, je suis trop chère.",
+		"words": [
+			{
+				"word": "Juste",
+				"start": 466.447,
+				"end": 466.607,
+				"confidence": 0.164
+			},
+			{
+				"word": "pour",
+				"start": 466.627,
+				"end": 466.727,
+				"confidence": 0.429
+			},
+			{
+				"word": "terminer",
+				"start": 466.747,
+				"end": 467.188,
+				"confidence": 0.283
+			},
+			{
+				"word": "rapidement...",
+				"start": 467.208,
+				"end": 468.39,
+				"confidence": 0.242
+			},
+			{
+				"word": "Arrêtez",
+				"start": 468.41,
+				"end": 468.55,
+				"confidence": 0.035
+			},
+			{
+				"word": "de",
+				"start": 468.57,
+				"end": 468.61,
+				"confidence": 0.003
+			},
+			{
+				"word": "regarder",
+				"start": 468.63,
+				"end": 468.79,
+				"confidence": 0.003
+			},
+			{
+				"word": "comme",
+				"start": 468.81,
+				"end": 468.91,
+				"confidence": 0.042
+			},
+			{
+				"word": "ça,",
+				"start": 468.93,
+				"end": 468.99,
+				"confidence": 0.021
+			},
+			{
+				"word": "je",
+				"start": 469.01,
+				"end": 469.05,
+				"confidence": 0.028
+			},
+			{
+				"word": "suis",
+				"start": 469.07,
+				"end": 469.151,
+				"confidence": 0.007
+			},
+			{
+				"word": "trop",
+				"start": 469.171,
+				"end": 469.251,
+				"confidence": 0.002
+			},
+			{
+				"word": "chère.",
+				"start": 469.271,
+				"end": 470.533,
+				"confidence": 0.35
+			}
+		]
+	},
+	{
+		"start": 470.553,
+		"end": 475.62,
+		"sentence": "Rapidement pour terminer, on signale que Patrick Dujani a encore une question à vous poser.",
+		"words": [
+			{
+				"word": "Rapidement",
+				"start": 470.553,
+				"end": 470.973,
+				"confidence": 0.418
+			},
+			{
+				"word": "pour",
+				"start": 470.993,
+				"end": 471.113,
+				"confidence": 0.668
+			},
+			{
+				"word": "terminer,",
+				"start": 471.153,
+				"end": 471.474,
+				"confidence": 0.728
+			},
+			{
+				"word": "on",
+				"start": 471.514,
+				"end": 471.594,
+				"confidence": 0.805
+			},
+			{
+				"word": "signale",
+				"start": 471.634,
+				"end": 471.914,
+				"confidence": 0.795
+			},
+			{
+				"word": "que",
+				"start": 471.955,
+				"end": 472.155,
+				"confidence": 0.785
+			},
+			{
+				"word": "Patrick",
+				"start": 472.195,
+				"end": 472.495,
+				"confidence": 0.786
+			},
+			{
+				"word": "Dujani",
+				"start": 472.515,
+				"end": 472.776,
+				"confidence": 0.657
+			},
+			{
+				"word": "a",
+				"start": 472.796,
+				"end": 472.816,
+				"confidence": 0.583
+			},
+			{
+				"word": "encore",
+				"start": 472.856,
+				"end": 472.996,
+				"confidence": 0.761
+			},
+			{
+				"word": "une",
+				"start": 473.016,
+				"end": 473.096,
+				"confidence": 0.846
+			},
+			{
+				"word": "question",
+				"start": 473.116,
+				"end": 473.316,
+				"confidence": 0.886
+			},
+			{
+				"word": "à",
+				"start": 473.357,
+				"end": 473.377,
+				"confidence": 0.957
+			},
+			{
+				"word": "vous",
+				"start": 473.417,
+				"end": 473.517,
+				"confidence": 0.976
+			},
+			{
+				"word": "poser.",
+				"start": 473.557,
+				"end": 475.62,
+				"confidence": 0.688
+			}
+		]
+	},
+	{
+		"start": 475.64,
+		"end": 476.161,
+		"sentence": "C'est ici que ça se passe.",
+		"words": [
+			{
+				"word": "C'est",
+				"start": 475.64,
+				"end": 475.74,
+				"confidence": 0.001
+			},
+			{
+				"word": "ici",
+				"start": 475.76,
+				"end": 475.82,
+				"confidence": 0.185
+			},
+			{
+				"word": "que",
+				"start": 475.84,
+				"end": 475.9,
+				"confidence": 0.006
+			},
+			{
+				"word": "ça",
+				"start": 475.92,
+				"end": 475.96,
+				"confidence": 0.418
+			},
+			{
+				"word": "se",
+				"start": 475.98,
+				"end": 476.02,
+				"confidence": 0.404
+			},
+			{
+				"word": "passe.",
+				"start": 476.04,
+				"end": 476.161,
+				"confidence": 0.141
+			}
+		]
+	},
+	{
+		"start": 476.181,
+		"end": 481.628,
+		"sentence": "Salut Marc, j'aimerais savoir pourquoi parfois tu dichotomises l'abduction de la sérendipité.",
+		"words": [
+			{
+				"word": "Salut",
+				"start": 476.181,
+				"end": 476.321,
+				"confidence": 0.436
+			},
+			{
+				"word": "Marc,",
+				"start": 476.361,
+				"end": 476.761,
+				"confidence": 0.872
+			},
+			{
+				"word": "j'aimerais",
+				"start": 476.902,
+				"end": 477.362,
+				"confidence": 0.793
+			},
+			{
+				"word": "savoir",
+				"start": 477.422,
+				"end": 477.723,
+				"confidence": 0.939
+			},
+			{
+				"word": "pourquoi",
+				"start": 477.763,
+				"end": 478.083,
+				"confidence": 0.812
+			},
+			{
+				"word": "parfois",
+				"start": 478.123,
+				"end": 478.544,
+				"confidence": 0.957
+			},
+			{
+				"word": "tu",
+				"start": 478.604,
+				"end": 478.744,
+				"confidence": 0.84
+			},
+			{
+				"word": "dichotomises",
+				"start": 478.764,
+				"end": 479.425,
+				"confidence": 0.799
+			},
+			{
+				"word": "l'abduction",
+				"start": 479.565,
+				"end": 480.146,
+				"confidence": 0.879
+			},
+			{
+				"word": "de",
+				"start": 480.186,
+				"end": 480.266,
+				"confidence": 0.956
+			},
+			{
+				"word": "la",
+				"start": 480.286,
+				"end": 480.366,
+				"confidence": 0.916
+			},
+			{
+				"word": "sérendipité.",
+				"start": 480.407,
+				"end": 481.628,
+				"confidence": 0.745
+			}
+		]
+	},
+	{
+		"start": 481.648,
+		"end": 483.972,
+		"sentence": "Merci.",
+		"words": [
+			{
+				"word": "Merci.",
+				"start": 481.648,
+				"end": 483.972,
+				"confidence": 0.535
+			}
+		]
+	},
+	{
+		"start": 483.992,
+		"end": 485.494,
+		"sentence": "Rapide, très rapide, une réponse.",
+		"words": [
+			{
+				"word": "Rapide,",
+				"start": 483.992,
+				"end": 484.132,
+				"confidence": 0.021
+			},
+			{
+				"word": "très",
+				"start": 484.152,
+				"end": 484.232,
+				"confidence": 0.0
+			},
+			{
+				"word": "rapide,",
+				"start": 484.252,
+				"end": 484.392,
+				"confidence": 0.013
+			},
+			{
+				"word": "une",
+				"start": 484.412,
+				"end": 484.472,
+				"confidence": 0.188
+			},
+			{
+				"word": "réponse.",
+				"start": 484.492,
+				"end": 485.494,
+				"confidence": 0.387
+			}
+		]
+	},
+	{
+		"start": 485.514,
+		"end": 490.641,
+		"sentence": "Oui, parce que je me réfugie dans les mots et moi je suis compris, plus je pense porter.",
+		"words": [
+			{
+				"word": "Oui,",
+				"start": 485.514,
+				"end": 485.594,
+				"confidence": 0.014
+			},
+			{
+				"word": "parce",
+				"start": 485.614,
+				"end": 485.814,
+				"confidence": 0.691
+			},
+			{
+				"word": "que",
+				"start": 485.854,
+				"end": 485.994,
+				"confidence": 0.876
+			},
+			{
+				"word": "je",
+				"start": 486.035,
+				"end": 486.135,
+				"confidence": 0.94
+			},
+			{
+				"word": "me",
+				"start": 486.175,
+				"end": 486.275,
+				"confidence": 0.94
+			},
+			{
+				"word": "réfugie",
+				"start": 486.315,
+				"end": 486.756,
+				"confidence": 0.802
+			},
+			{
+				"word": "dans",
+				"start": 486.776,
+				"end": 486.896,
+				"confidence": 0.888
+			},
+			{
+				"word": "les",
+				"start": 486.936,
+				"end": 487.036,
+				"confidence": 0.986
+			},
+			{
+				"word": "mots",
+				"start": 487.076,
+				"end": 487.436,
+				"confidence": 0.935
+			},
+			{
+				"word": "et",
+				"start": 487.477,
+				"end": 487.657,
+				"confidence": 0.833
+			},
+			{
+				"word": "moi",
+				"start": 487.717,
+				"end": 487.917,
+				"confidence": 0.561
+			},
+			{
+				"word": "je",
+				"start": 487.957,
+				"end": 488.057,
+				"confidence": 0.994
+			},
+			{
+				"word": "suis",
+				"start": 488.097,
+				"end": 488.258,
+				"confidence": 0.813
+			},
+			{
+				"word": "compris,",
+				"start": 488.298,
+				"end": 489.199,
+				"confidence": 0.965
+			},
+			{
+				"word": "plus",
+				"start": 489.219,
+				"end": 489.439,
+				"confidence": 0.348
+			},
+			{
+				"word": "je",
+				"start": 489.479,
+				"end": 489.58,
+				"confidence": 0.869
+			},
+			{
+				"word": "pense",
+				"start": 489.62,
+				"end": 489.94,
+				"confidence": 0.803
+			},
+			{
+				"word": "porter.",
+				"start": 489.96,
+				"end": 490.641,
+				"confidence": 0.727
+			}
+		]
+	},
+	{
+		"start": 491.38,
+		"end": 498.138,
+		"sentence": " Merci beaucoup, Marc Bono, d'avoir fait l'effort de vous déplacer jusque dans notre village de Péchant.",
+		"words": [
+			{
+				"word": "Merci",
+				"start": 491.38,
+				"end": 491.841,
+				"confidence": 0.746
+			},
+			{
+				"word": "beaucoup,",
+				"start": 491.881,
+				"end": 492.423,
+				"confidence": 0.779
+			},
+			{
+				"word": "Marc",
+				"start": 492.463,
+				"end": 492.583,
+				"confidence": 0.463
+			},
+			{
+				"word": "Bono,",
+				"start": 492.603,
+				"end": 493.225,
+				"confidence": 0.879
+			},
+			{
+				"word": "d'avoir",
+				"start": 493.245,
+				"end": 494.488,
+				"confidence": 0.269
+			},
+			{
+				"word": "fait",
+				"start": 494.549,
+				"end": 494.669,
+				"confidence": 0.439
+			},
+			{
+				"word": "l'effort",
+				"start": 494.689,
+				"end": 495.311,
+				"confidence": 0.691
+			},
+			{
+				"word": "de",
+				"start": 495.331,
+				"end": 495.411,
+				"confidence": 0.962
+			},
+			{
+				"word": "vous",
+				"start": 495.451,
+				"end": 495.531,
+				"confidence": 0.932
+			},
+			{
+				"word": "déplacer",
+				"start": 495.571,
+				"end": 495.952,
+				"confidence": 0.538
+			},
+			{
+				"word": "jusque",
+				"start": 495.993,
+				"end": 496.253,
+				"confidence": 0.604
+			},
+			{
+				"word": "dans",
+				"start": 496.273,
+				"end": 496.394,
+				"confidence": 0.498
+			},
+			{
+				"word": "notre",
+				"start": 496.414,
+				"end": 496.755,
+				"confidence": 0.439
+			},
+			{
+				"word": "village",
+				"start": 496.775,
+				"end": 497.055,
+				"confidence": 0.403
+			},
+			{
+				"word": "de",
+				"start": 497.075,
+				"end": 497.176,
+				"confidence": 0.737
+			},
+			{
+				"word": "Péchant.",
+				"start": 497.216,
+				"end": 498.138,
+				"confidence": 0.439
+			}
+		]
+	},
+	{
+		"start": 498.158,
+		"end": 500.144,
+		"sentence": "On vous souhaite un bon retour dans votre civilisation.",
+		"words": [
+			{
+				"word": "On",
+				"start": 498.158,
+				"end": 498.198,
+				"confidence": 0.246
+			},
+			{
+				"word": "vous",
+				"start": 498.239,
+				"end": 498.339,
+				"confidence": 0.77
+			},
+			{
+				"word": "souhaite",
+				"start": 498.359,
+				"end": 498.76,
+				"confidence": 0.873
+			},
+			{
+				"word": "un",
+				"start": 498.8,
+				"end": 498.88,
+				"confidence": 0.771
+			},
+			{
+				"word": "bon",
+				"start": 498.9,
+				"end": 499.021,
+				"confidence": 0.362
+			},
+			{
+				"word": "retour",
+				"start": 499.041,
+				"end": 499.221,
+				"confidence": 0.378
+			},
+			{
+				"word": "dans",
+				"start": 499.261,
+				"end": 499.342,
+				"confidence": 0.289
+			},
+			{
+				"word": "votre",
+				"start": 499.362,
+				"end": 499.602,
+				"confidence": 0.373
+			},
+			{
+				"word": "civilisation.",
+				"start": 499.622,
+				"end": 500.144,
+				"confidence": 0.925
+			}
+		]
+	},
+	{
+		"start": 500.224,
+		"end": 502.47,
+		"sentence": "Merci d'être partagé.",
+		"words": [
+			{
+				"word": "Merci",
+				"start": 500.224,
+				"end": 501.046,
+				"confidence": 0.808
+			},
+			{
+				"word": "d'être",
+				"start": 501.086,
+				"end": 502.29,
+				"confidence": 0.636
+			},
+			{
+				"word": "partagé.",
+				"start": 502.31,
+				"end": 502.47,
+				"confidence": 0.111
+			}
+		]
+	}
+]

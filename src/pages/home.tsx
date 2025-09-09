@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { invoke } from "@tauri-apps/api/tauri";
 import { AudioRecorder } from "../components/audio-recorder/audio-recorder";
+import { AudioTextWrapper } from "../components/audio-text-wrapper/audio-text-wrapper";
 
 export const Home = () => {
 	const [message, setMessage] = useState("");
@@ -8,14 +9,20 @@ export const Home = () => {
 
 	async function callPython() {
 		try {
-			const result = await invoke("run_python", { arg: name });
-			console.log("Python says:", result);
-			setMessage("Python says:" + result);
+			const result = await invoke("run_python", { name: name });
+			if (typeof result === "string") {
+				const parsed = JSON.parse(result);
+				setMessage("Success says: " + parsed?.message);
+			} else {
+				console.error("Unexpected result type:", result);
+				setMessage("Error: Unexpected result type");
+			}
 		} catch (err) {
-			console.error("Python error:", err);
-			setMessage("Python says:" + err);
+			console.error(" error:", err);
+			setMessage("Error says:" + err);
 		}
 	}
+
 	return (
 		<div>
 			<h1>Home</h1>
@@ -30,6 +37,7 @@ export const Home = () => {
 				<button type="submit">Greet</button>
 			</form>
 			<p>{message}</p>
+			<AudioTextWrapper />
 			<AudioRecorder />
 		</div>
 	);
