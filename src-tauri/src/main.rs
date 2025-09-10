@@ -4,7 +4,9 @@ use tauri::command;
 use std::io::Write;
 use std::process::{Command, Stdio};
 use serde::Deserialize;
-// Learn more about Tauri commands at https://v1.tauri.app/v1/guides/features/command
+use std::sync::atomic::{AtomicBool, Ordering};
+
+static SHOULD_CANCEL: AtomicBool = AtomicBool::new(false);
 #[tauri::command]
 fn greet(name: &str) -> String {
     format!("Hello, {}! You've been greeted from Rust!", name)
@@ -32,6 +34,136 @@ fn run_python(name: String) -> Result<String, String> {
     } else {
         Err(String::from_utf8_lossy(&output.stderr).to_string())
     }
+}
+
+
+#[tauri::command]
+fn run_whisper_project_bg_safe(filepath: String, model_size: String, window: tauri::Window) -> Result<String, String> {
+    use std::process::{Command, Stdio};
+    use std::thread;
+    use std::path::Path;
+    use std::fs;
+    use std::io::{BufRead, BufReader};
+
+    // Reset cancellation flag for new transcription
+    SHOULD_CANCEL.store(false, Ordering::Relaxed);
+
+    fn get_python_executable() -> &'static str {
+        #[cfg(target_os = "windows")]
+        let python_exe = "../python-env/venv/Scripts/python.exe";
+        #[cfg(not(target_os = "windows"))]
+        let python_exe = "../python-env/venv/bin/python";
+        return python_exe;
+    }
+
+    let python_exe = get_python_executable();
+    
+    if !Path::new(python_exe).exists() {
+        return Err(format!("Python executable not found at {}", python_exe));
+    }
+
+    let win = window.clone();
+    let output_root = "../public";
+
+    thread::spawn(move || {
+        // Check cancellation before starting
+        if SHOULD_CANCEL.load(Ordering::Relaxed) {
+            let _ = win.emit("whisper-error", "Transcription cancelled before starting");
+            return;
+        }
+
+        let mut child = Command::new(python_exe)
+            .arg("scripts/whisper_proto.py")
+            .arg(&filepath)
+            .arg(&model_size)
+            .arg("--output-root")
+            .arg(output_root)
+            .stdout(Stdio::piped())
+            .stderr(Stdio::piped())
+            .spawn();
+
+        match child {
+            Ok(mut process) => {
+                let mut project_dir = String::new();
+                
+                if let Some(stdout) = process.stdout.take() {
+                    let reader = BufReader::new(stdout);
+                    for line in reader.lines() {
+                        // Check for cancellation during processing
+                        if SHOULD_CANCEL.load(Ordering::Relaxed) {
+                            let _ = process.kill();
+                            let _ = win.emit("whisper-error", "Transcription cancelled by user");
+                            return;
+                        }
+
+                        if let Ok(line) = line {
+                            if line.starts_with("PROJECT_DIR:") {
+                                project_dir = line.replace("PROJECT_DIR:", "");
+                                continue;
+                            }
+                            
+                            // Progress updates
+                            if line.contains("Loading Whisper model") {
+                                let _ = win.emit("whisper-progress", "Loading model...");
+                            } else if line.contains("Transcribing audio") {
+                                let _ = win.emit("whisper-progress", "Transcribing...");
+                            } else if line.contains("Aligning words") {
+                                let _ = win.emit("whisper-progress", "Aligning words...");
+                            } else if line.contains("Pipeline complete") {
+                                let _ = win.emit("whisper-progress", "Complete!");
+                            }
+                        }
+                    }
+                }
+
+                // Final check before processing results
+                if SHOULD_CANCEL.load(Ordering::Relaxed) {
+                    let _ = process.kill();
+                    let _ = win.emit("whisper-error", "Transcription cancelled");
+                    return;
+                }
+
+                match process.wait() {
+                    Ok(status) => {
+                        if status.success() {
+                            let json_file = format!("{}/transcript.json", project_dir);
+                            
+                            match fs::read_to_string(&json_file) {
+                                Ok(json_content) => {
+                                    let response = serde_json::json!({
+                                        "transcription": json_content,
+                                        "project_dir": project_dir,
+                                        "json_file": json_file
+                                    });
+                                    let _ = win.emit("whisper-done", response.to_string());
+                                }
+                                Err(e) => {
+                                    let _ = win.emit("whisper-error", format!("Failed to read JSON file: {}", e));
+                                }
+                            }
+                        } else {
+                            let _ = win.emit("whisper-error", "Python process failed or was cancelled");
+                        }
+                    }
+                    Err(e) => {
+                        let _ = win.emit("whisper-error", e.to_string());
+                    }
+                }
+            }
+            Err(e) => {
+                let _ = win.emit("whisper-error", format!("Failed to spawn Python process: {}", e));
+            }
+        }
+    });
+
+    Ok("Transcription started...".into())
+}
+
+// Add this new command to cancel transcription
+#[tauri::command]
+fn cancel_transcription() -> Result<String, String> {
+    SHOULD_CANCEL.store(true, Ordering::Relaxed);
+    Ok("Cancellation requested".into())
 }
 
 #[tauri::command]
@@ -316,6 +448,8 @@ fn main() {
             run_whisper_proto_async,
             run_whisper_proto_bg,
             run_whisper_project_bg,
+            run_whisper_project_bg_safe,  // Add this new safe version
+            cancel_transcription,         // Add this cancel command
             process_audio_chunk
         ])
         .run(tauri::generate_context!())

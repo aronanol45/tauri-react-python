@@ -24,7 +24,7 @@ logging.basicConfig(
 parser = argparse.ArgumentParser(description="Local transcription with WhisperX")
 parser.add_argument("audio_file", type=str, help="Path to audio file (e.g., audio.mp3)")
 parser.add_argument("model_size", type=str, help="Whisper model size (tiny, base, small, medium, large)")
-parser.add_argument("--output-root", type=str, default="./public", help="Root output directory (default: ./public)")
+parser.add_argument("--output-root", type=str, default="../public", help="Root output directory (default: ../public)")
 args = parser.parse_args()
 
 audio_file = args.audio_file
