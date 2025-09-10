@@ -3,10 +3,15 @@ import { invoke } from "@tauri-apps/api/tauri";
 import { AudioRecorder } from "../components/audio-recorder/audio-recorder";
 import { AudioTextWrapper } from "../components/audio-text-wrapper/audio-text-wrapper";
 import { DragAndDropAudio } from "../components/drag-and-drop-audio/drag-and-drop-audio";
+import { Transcript } from "../types/transcripts";
 
 export const Home = () => {
 	const [message, setMessage] = useState("");
 	const [name, setName] = useState("");
+
+	// New state to hold current transcription and audio
+	const [audioFilePath, setAudioFilePath] = useState<string>("");
+	const [transcriptionData, setTranscriptionData] = useState<Transcript | null>(null);
 
 	async function callPython() {
 		try {
@@ -38,9 +43,8 @@ export const Home = () => {
 				<button type="submit">Greet</button>
 			</form>
 			<p>{message}</p>
-			<DragAndDropAudio />
-			<AudioTextWrapper />
-			<AudioRecorder />
+			<DragAndDropAudio setAudioFilePath={setAudioFilePath} setTranscriptionData={setTranscriptionData} />
+			{audioFilePath && transcriptionData && <AudioTextWrapper audioSrc={audioFilePath} textData={transcriptionData} />}
 		</div>
 	);
 };

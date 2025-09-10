@@ -9,7 +9,9 @@ import { getErrorsFromText } from "../../utils/getErrorsFromText";
 import { ErrorsNavigator } from "../errors-navigator/errors-navigator";
 import { Transcript, WordType } from "../../types/transcripts";
 
-export const AudioTextWrapper = () => {
+export const AudioTextWrapper = ({ audioSrc, textData }) => {
+	console.log(audioSrc, "audioSrc");
+	console.log(textData, "textData");
 	const [errorsConfidence, setErrorsConfidence] = useState<WordType[]>([]);
 
 	useEffect(() => {
@@ -24,7 +26,7 @@ export const AudioTextWrapper = () => {
 					<AudioPlayer currentTime={0} audioSrc={audioFile} />
 					<ErrorsNavigator confidenceErrors={errorsConfidence} />
 				</div>
-				<TextEditor textData={mockedUpData} />
+				<TextEditor textData={textData.transcription} />
 			</AudioProvider>
 		</div>
 	);
