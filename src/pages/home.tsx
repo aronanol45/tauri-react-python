@@ -2,6 +2,7 @@ import { useState } from "react";
 import { invoke } from "@tauri-apps/api/tauri";
 import { AudioRecorder } from "../components/audio-recorder/audio-recorder";
 import { AudioTextWrapper } from "../components/audio-text-wrapper/audio-text-wrapper";
+import { DragAndDropAudio } from "../components/drag-and-drop-audio/drag-and-drop-audio";
 
 export const Home = () => {
 	const [message, setMessage] = useState("");
@@ -37,6 +38,7 @@ export const Home = () => {
 				<button type="submit">Greet</button>
 			</form>
 			<p>{message}</p>
+			<DragAndDropAudio />
 			<AudioTextWrapper />
 			<AudioRecorder />
 		</div>
