@@ -34,10 +34,13 @@ export const DragAndDropAudio = ({ setAudioFilePath, setTranscriptionData }: Dra
 					setJsonFilePath(projectResponse.json_file);
 
 					const transcriptionData: Transcript = JSON.parse(projectResponse.transcription);
-
+					console.log(transcriptionData, "transcriptionData");
+					const fullAudioPath = `${projectResponse.project_dir}/${transcriptionData.metadata.copied_file}`;
+					setAudioFilePath(fullAudioPath);
+					// Lift state to parent
 					// Lift state to parent
 					setTranscriptionData(transcriptionData);
-					setAudioFilePath(transcriptionData.metadata.copied_file); // MP3 path
+					setAudioFilePath(fullAudioPath);
 				} catch (error) {
 					console.error("Failed to parse transcription response:", error);
 					alert("Failed to parse transcription response");
@@ -154,7 +157,6 @@ export const DragAndDropAudio = ({ setAudioFilePath, setTranscriptionData }: Dra
 				}`}
 			>
 				<div className="space-y-2">
-					<div className="text-2xl">🎵</div>
 					<div className="text-lg font-medium">Drop audio file here or click to browse</div>
 					<div className="text-sm text-gray-600">Supports MP3, WAV, M4A, FLAC</div>
 				</div>

@@ -23,7 +23,7 @@ export const AudioTextWrapper = ({ audioSrc, textData }) => {
 		<div>
 			<AudioProvider>
 				<div className="sticky-top-bar">
-					<AudioPlayer currentTime={0} audioSrc={audioFile} />
+					<AudioPlayer currentTime={0} audioSrc={audioSrc} />
 					<ErrorsNavigator confidenceErrors={errorsConfidence} />
 				</div>
 				<TextEditor textData={textData.transcription} />
