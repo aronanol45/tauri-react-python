@@ -35,6 +35,125 @@ fn run_python(name: String) -> Result<String, String> {
 }
 
 #[tauri::command]
+fn run_whisper_project_bg(filepath: String, model_size: String, window: tauri::Window) -> Result<String, String> {
+    use std::process::{Command, Stdio};
+    use std::thread;
+    use std::path::Path;
+    use std::fs;
+    use std::io::{BufRead, BufReader};
+
+    fn get_python_executable() -> &'static str {
+        #[cfg(target_os = "windows")]
+        let python_exe = "../python-env/venv/Scripts/python.exe";
+        #[cfg(not(target_os = "windows"))]
+        let python_exe = "../python-env/venv/bin/python";
+        return python_exe;
+    }
+
+    let python_exe = get_python_executable();
+    
+    if !Path::new(python_exe).exists() {
+        return Err(format!("Python executable not found at {}", python_exe));
+    }
+
+    let win = window.clone();
+    let output_root = "public"; // You can make this configurable
+
+    thread::spawn(move || {
+        let mut child = Command::new(python_exe)
+            .arg("scripts/whisper_proto.py")
+            .arg(&filepath)
+            .arg(&model_size)
+            .arg("--output-root")
+            .arg(output_root)
+            .stdout(Stdio::piped())
+            .stderr(Stdio::piped())
+            .spawn();
+
+        match child {
+            Ok(mut process) => {
+                let mut project_dir = String::new();
+                
+                // Read stdout line by line for progress updates and project directory
+                if let Some(stdout) = process.stdout.take() {
+                    let reader = BufReader::new(stdout);
+                    for line in reader.lines() {
+                        if let Ok(line) = line {
+                            // Check for project directory output
+                            if line.starts_with("PROJECT_DIR:") {
+                                project_dir = line.replace("PROJECT_DIR:", "");
+                                continue;
+                            }
+                            
+                            // Emit progress updates based on log messages
+                            if line.contains("Loading Whisper model") {
+                                let _ = win.emit("whisper-progress", "Loading model...");
+                            } else if line.contains("Transcribing audio") {
+                                let _ = win.emit("whisper-progress", "Transcribing...");
+                            } else if line.contains("Aligning words") {
+                                let _ = win.emit("whisper-progress", "Aligning words...");
+                            } else if line.contains("Pipeline complete") {
+                                let _ = win.emit("whisper-progress", "Complete!");
+                            }
+                        }
+                    }
+                }
+
+                match process.wait() {
+                    Ok(status) => {
+                        if status.success() {
+                            // Try to read the JSON file from the project directory
+                            let json_file = format!("{}/transcript.json", project_dir);
+                            
+                            match fs::read_to_string(&json_file) {
+                                Ok(json_content) => {
+                                    // Create response with both transcription data and project info
+                                    let response = serde_json::json!({
+                                        "transcription": json_content,
+                                        "project_dir": project_dir,
+                                        "json_file": json_file
+                                    });
+                                    let _ = win.emit("whisper-done", response.to_string());
+                                }
+                                Err(e) => {
+                                    let _ = win.emit("whisper-error", format!("Failed to read JSON file: {}", e));
+                                }
+                            }
+                        } else {
+                            // Read stderr for error details
+                            let error_output = match process.stderr.take() {
+                                Some(stderr) => {
+                                    let mut output = String::new();
+                                    let reader = BufReader::new(stderr);
+                                    for line in reader.lines() {
+                                        if let Ok(line) = line {
+                                            output.push_str(&line);
+                                            output.push('\n');
+                                        }
+                                    }
+                                    output
+                                }
+                                None => "No error details available".to_string()
+                            };
+                            let _ = win.emit("whisper-error", format!("Python process failed: {}", error_output));
+                        }
+                    }
+                    Err(e) => {
+                        let _ = win.emit("whisper-error", e.to_string());
+                    }
+                }
+            }
+            Err(e) => {
+                let _ = win.emit("whisper-error", format!("Failed to spawn Python process: {}", e));
+            }
+        }
+    });
+
+    Ok("Transcription with project organization started...".into())
+}
+
+
+#[tauri::command]
 fn run_whisper_proto_bg(filepath: String, model_size: String, window: tauri::Window) -> Result<String, String> {
     use std::process::{Command, Stdio};
     use std::thread;
@@ -196,6 +315,7 @@ fn main() {
             run_whisper_proto,
             run_whisper_proto_async,
             run_whisper_proto_bg,
+            run_whisper_project_bg,
             process_audio_chunk
         ])
         .run(tauri::generate_context!())
